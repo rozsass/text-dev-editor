@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content
   label: content
-  match: "**/*"
 - type: jekyll-pages
   label: casestudies
   create: all

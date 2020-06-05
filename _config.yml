@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bekes-Kezdi Data Analysis Textbook"
+title                    : "Data Analysis for Business, Economics, and Policy"
 title_separator          : "-"
-subtitle                 : "Data Analysis for Business, Economics, and Policy by Cambridge UP (December 2020)"
+subtitle                 : " A comprehensive textbook on data analysis. Case study heavy with real-world data. Cambridge UP (December 2020)"
 name                     : "Gabor Bekes"
 description              : "Textbook materials"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/gabors-data-analysis/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

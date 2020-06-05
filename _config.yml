@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Bekes-Kezdi Data Analysis Textbook"
 title_separator          : "-"
-subtitle                 : "Data Analysis for Business, Economics, and Policy by Cambridge UP"
+subtitle                 : "Data Analysis for Business, Economics, and Policy by Cambridge UP (December 2020)"
 name                     : "Gabor Bekes"
 description              : "Textbook materials"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

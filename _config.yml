@@ -9,26 +9,28 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Analysis for Business, Economics, and Policy"
+title                    : "Gabors Data Analysis"
 title_separator          : "-"
-subtitle                 : " A comprehensive textbook on data analysis. Case study heavy with real-world data. Cambridge UP (December 2020)"
-name                     : "Gabor Bekes"
-description              : "Textbook materials"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+subtitle                 : #" Data Analysis for Business, Economics, and Policy. A comprehensive textbook on data analysis. Case study heavy with real-world data. Cambridge UP (December 2020)"
+name                     : "Gabors Data Analysis"
+description              : "A comprehensive textbook on data analysis for business, applied economics and public policy students, that uses case studies with real-world data."
+port                     : 4000
+host                     : "0.0.0.0"
+url                      : https://gabors-data-analysis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "gabors-data-analysis"
+teaser                   : "images/cover-small.jpg"
+logo                     : "images/cover-small.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+read_more                : "disabled"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -38,7 +40,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            :  20 
+    num_posts            :  20
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
@@ -70,7 +72,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :GaborBekes
 facebook:
   username               :
   app_id                 :
@@ -85,7 +87,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -93,23 +95,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gábor Békés"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Prof at Central European University "
-  location         : "Vienna, Austria"
+  name             : "Gabor Bekes and Gabor Kezdi"
+  avatar           : "images/cover-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "CEU and U Michigan"
+  location         : "Vienna and Ann Arbor"
   email            :
   links:
     - label: "bekesg@ceu.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "GaborBekes"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/GaborBekes"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "https://github.com/orgs/gabors-data-analysis/"
       icon: "fab fa-fw fa-github"
@@ -145,6 +147,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -198,6 +201,74 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  casestudies:
+    output: true
+    permalink: /:collection/:path/
+  content:
+    output: true
+    permalink: /:collection/:path/
+  materials:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      sidebar:
+        nav: "sidebar"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "sidebar"
+   # _content
+  - scope:
+      path: ""
+      type: content
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      sidebar:
+        nav: "sidebar"
+  # _casestudies
+  - scope:
+      path: ""
+      type: casestudies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      sidebar:
+        nav: "sidebar"
+  # _materials
+  - scope:
+      path: ""
+      type: materials
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      sidebar:
+        nav: "sidebar"
 
 # Sass/SCSS
 sass:
@@ -264,20 +335,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-
-theme: jekyll-theme-minimal

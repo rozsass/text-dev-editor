@@ -1,12 +1,44 @@
-# main links
+# main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Case Studies"
+    url: /casestudies/
+
+  - title: "Data and Code"
+    url: /data-and-code/
+
+  - title: "Chapters"
+    url: /chapters/
+
+  - title: "Why this book?"
+    url: /whythisbook/
+
+  - title: "Resources"
+    url: /resources/
+
+  - title: "Blog"
+    url: /blog/
+
+sidebar:
+  - title: Case studies
+    url: /casestudies/
+    children:
+      - title: "Ch02"
+        url: /casestudies/cs-ch02a-hotels/
+      - title: "Ch07A"
+        url: /casestudies/cs-ch07a-hotels/
+
+  - title: Data and Code
+    url: /data-and-code/
+
+  - title: Chapters
+    url: /chapters/
+
+  - title: Resources
+    url: /resources/
+    children:
+      - title: "How to use Python"
+        url: /howto-python/
+      - title: "How to use R"
+        url: /howto-r/
+      - title: "How to use Stata"
+        url: /howto-stata/

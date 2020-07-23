@@ -1,13 +1,12 @@
 ---
 permalink: /setup-python/
+title: "How to set up your computer for Python"
 excerpt: "Set up system, get python and anaconda notebooks, create a project"
 author_profile: false
 redirect_from:
   - "/nmpp/"
   - "/nmpp.html"
 ---
-
-# How to set up your computer for Python
 
 ## Code language versions
 **Python** -- We used v ...

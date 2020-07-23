@@ -1,13 +1,12 @@
 ---
 permalink: /setup-r/
+title: "How to set up your computer for R"
 excerpt: "Set up system, get R and R studio, create a project"
 author_profile: false
 redirect_from:
   - "/nmpr/"
   - "/nmpr.html"
 ---
-
-# How to set up your computer for R
 
 ## Code language versions
 1. **R** -- We used v3.6.3, but all code should work in v4.0, but some checks may be needed.

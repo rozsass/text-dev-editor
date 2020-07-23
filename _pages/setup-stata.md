@@ -1,13 +1,12 @@
 ---
 permalink: /setup-stata/
+title: "How to set up your computer for Stata"
 excerpt: "Set up system, get Stata, create a project"
 author_profile: false
 redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-
-# How to set up your computer for Stata
 
 ## Code language versions
 1. **Stata** -- We used v15.1, but all code should work for versions above 13.0. We saved data in the Stata 13 version.

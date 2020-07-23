@@ -1,5 +1,5 @@
 ---
-permalink: /setup-stata/
+permalink: /howto-stata/
 title: "How to set up your computer for Stata"
 excerpt: "Set up system, get Stata, create a project"
 author_profile: false

@@ -5,6 +5,8 @@ excerpt: "About the textbook"
 toc: true
 author_profile: true
 redirect_from:
+  - /home
+  - /home.html
   - /about/
   - /about.html
 ---

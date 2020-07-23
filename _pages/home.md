@@ -28,7 +28,7 @@ As the most effective way to communicate data analysis, running case studies pla
 
 
 
-## Quick tips
+## Quick overview
 
 **Check out review on all our 47 case studies ............ [CASE STUDIES](casestudies)**  
 **Download a short summary on why use this book ... [TEXTBOOK SUMMARY](/files/bekes-kezdi-data-analysis-summary.pdf)**  
@@ -37,7 +37,8 @@ As the most effective way to communicate data analysis, running case studies pla
 
 ## Endorsements
 
-"This is a great textbook" - a student who got an A
+"This is a great textbook" - a student who got an A  
+[MORE endorsements](/endorsement)
 
 ## Why use this book?
 

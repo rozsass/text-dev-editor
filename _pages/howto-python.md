@@ -1,5 +1,5 @@
 ---
-permalink: /setup-python/
+permalink: /howto-python/
 title: "How to set up your computer for Python"
 excerpt: "Set up system, get python and anaconda notebooks, create a project"
 author_profile: false

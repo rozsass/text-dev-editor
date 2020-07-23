@@ -60,8 +60,8 @@ sidebar:
         url: /getting-code/
 
   - title: "Setup with R"
-    url: /setup-r/
+    url: /howto-r/
   - title: "Setup with Stata"
-    url: /setup-stata/
+    url: /howto-stata/
   - title: "Setup with Python"
-    url: /setup-python/
+    url: /howto-python/

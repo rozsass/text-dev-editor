@@ -1,5 +1,5 @@
 ---
-permalink: /setup-r/
+permalink: /howto-r/
 title: "How to set up your computer for R"
 excerpt: "Set up system, get R and R studio, create a project"
 author_profile: false

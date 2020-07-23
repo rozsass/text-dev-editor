@@ -1,5 +1,5 @@
 ---
-permalink: /home
+permalink: /
 title: "Data Analysis for Business, Economics, and Policy"
 excerpt: "About the textbook"
 toc: true

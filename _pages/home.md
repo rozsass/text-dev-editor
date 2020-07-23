@@ -54,7 +54,7 @@ We share all raw and cleaned data we use in the case studies. We also share the 
 	<img src="/images/stata.png">
 	<img src="/images/r.png">
 	<img src="/images/python1.png">
-	<figcaption>Follow your heart! Codes are available in major scripting languages! </figcaption>
+	<figcaption>Follow your heart! Code is available in major scripting languages! </figcaption>
 </figure>
 
 This textbook was written to be a **complete course** in data analysis. This textbook could be useful for university students in graduate programs as **core text** in applied statistics and econometrics, quantitative methods, or data analysis. It may also **complement online courses** that teach specific methods to give more context and explanation. Undergraduate courses can also make use of this textbook, even though the workload on students exceeds the typical undergraduate workload. Finally, the textbook can serve as a **handbook for practitioners** to guide them through all steps of real-life data analysis. [MORE on why use this book?](/whythisbook)

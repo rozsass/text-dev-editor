@@ -35,6 +35,9 @@ As the most effective way to communicate data analysis, running case studies pla
 **Download detailed list of chapters and sections ...... [CONTENTS](/files/toc.pdf)**  
 {: .notice}
 
+## Endorsements
+
+"This is a great textbook" - a student who got an A
 
 ## Why use this book?
 

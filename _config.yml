@@ -206,6 +206,9 @@ collections:
   casestudies:
     output: true
     permalink: /:collection/:path/
+  chapters:
+    output: true
+    permalink: /:collection/:path/
   content:
     output: true
     permalink: /:collection/:path/
@@ -252,6 +255,17 @@ defaults:
   - scope:
       path: ""
       type: casestudies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      sidebar:
+        nav: "sidebar"
+  # _chapters
+  - scope:
+      path: ""
+      type: chapters
     values:
       layout: single
       author_profile: true

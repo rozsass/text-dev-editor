@@ -19,26 +19,48 @@ main:
     url: /blog/
 
 sidebar:
+  - title: Home
+    url: /
+    children:
+      - title: Authors
+        url: /authors/
+      - title: "Endorsements"
+        url: /endorsements
+
   - title: Case studies
     url: /casestudies/
     children:
-      - title: "Ch02"
-        url: /casestudies/cs-ch02a-hotels/
-      - title: "Ch07A"
-        url: /casestudies/cs-ch07a-hotels/
-
-  - title: Data and Code
-    url: /data-and-code/
+      - title: "Part I"
+        url: /casestudies/part-I
+      - title: "Part II"
+        url: /casestudies/part-II
+      - title: "Part III"
+        url: /casestudies/part-III
+      - title: "Part IV"
+        url: /casestudies/part-IV
 
   - title: Chapters
     url: /chapters/
-
-  - title: Resources
-    url: /resources/
     children:
-      - title: "How to use Python"
-        url: /howto-python/
-      - title: "How to use R"
-        url: /howto-r/
-      - title: "How to use Stata"
-        url: /howto-stata/
+      - title: "Part I"
+        url: /chapters/part-I
+      - title: "Part II"
+        url: /chapters/part-II
+      - title: "Part III"
+        url: /chapters/part-III
+      - title: "Part IV"
+        url: /chapters/part-IV
+
+  - title: Data and code
+    url: /data-and-code/
+    children:
+      - title: "Getting data"
+        url: /getting-data/
+      - title: "Getting code"
+        url: /getting-code/
+  - title: "How to use Python"
+    url: /howto-python/
+  - title: "How to use R"
+    url: /howto-r/
+  - title: "How to use Stata"
+    url: /howto-stata/

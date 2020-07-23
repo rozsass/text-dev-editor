@@ -1,6 +1,5 @@
 ---
-permalink: /howto-python/
-title: #"How to use our code in python"
+permalink: /setup-python/
 excerpt: "Set up system, get python and anaconda notebooks, create a project"
 author_profile: false
 redirect_from:

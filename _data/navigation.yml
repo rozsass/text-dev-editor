@@ -58,9 +58,10 @@ sidebar:
         url: /getting-data/
       - title: "Getting code"
         url: /getting-code/
-  - title: "How to use Python"
-    url: /howto-python/
-  - title: "How to use R"
-    url: /howto-r/
-  - title: "How to use Stata"
-    url: /howto-stata/
+
+  - title: "Setup with R"
+    url: /setup-r/
+  - title: "Setup with Stata"
+    url: /setup-stata/
+  - title: "Setup with Python"
+    url: /setup-python/

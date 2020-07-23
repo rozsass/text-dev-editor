@@ -1,6 +1,5 @@
 ---
-permalink: /howto-stata/
-title: #"How to use our code in Stata"
+permalink: /setup-stata/
 excerpt: "Set up system, get Stata, create a project"
 author_profile: false
 redirect_from:

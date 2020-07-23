@@ -1,6 +1,5 @@
 ---
-permalink: /howto-r/
-title: #"How to use our code in R"
+permalink: /setup-r/
 excerpt: "Set up system, get R and R studio, create a project"
 author_profile: false
 redirect_from:

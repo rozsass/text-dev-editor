@@ -38,7 +38,7 @@ As the most effective way to communicate data analysis, running case studies pla
 ## Endorsements
 
 "This is a great textbook" - a student who got an A  
-[MORE endorsements](/endorsement)
+[MORE endorsements](/endorsements)
 
 ## Why use this book?
 

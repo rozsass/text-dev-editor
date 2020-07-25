@@ -4,8 +4,10 @@ title: "Teaching Guide"
 toc: false
 author_profile: false
 redirect_from:
-  - /teaching-guide.html
+  - "/nmp/"
+  - "/nmp.html"
 ---
+
 
 
 ## How to use this textbook -- example sequences

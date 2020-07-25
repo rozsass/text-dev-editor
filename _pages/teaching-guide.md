@@ -1,5 +1,5 @@
 ---
-permalink: /teaching-guide
+permalink: /teaching-guide/
 title: "Teaching Guide"
 toc: false
 author_profile: false

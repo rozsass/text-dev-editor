@@ -63,7 +63,7 @@ This case study illustrates how to store **multi-dimensional data**. It uses the
 **Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
 
 ## Ch02C Identifying successful football managers
-The English Premier League (EPL) is the top football division in England. Team managers, as coaches are known in football, arguably play a ery important role in the success of their teams. Thus, we want to identify the most successful football manager in the EPL. Covering 11 years, the `football` dataset covers  all games played in the EPL and data on managers, including which team they worked at and when. We create a workfile by joining two different data tables. After defining the measure of success as average points per game, we identify the most successful managers.  
+The English Premier League (EPL) is the top football (soccer) division in England. Team managers, as coaches are known in football, arguably play a ery important role in the success of their teams. Thus, we want to identify the most successful football manager in the EPL. Covering 11 years, the `football` dataset covers  all games played in the EPL and data on managers, including which team they worked at and when. We create a workfile by joining two different data tables. After defining the measure of success as average points per game, we identify the most successful managers.  
 
 This case study introduces how to prepare data for analysis and illustrates **linking data tables** with different kinds of observations. It shows how to combine two data sources and what kinds of problems can arise while doing so. It allows instructors to demonstrate **entity resolution**, **relational data**, tidy data tables, and linking data tables. Case study 24B will use this data to uncover the effect of replacing managers of underperfoming teams on subsequent team performance.
 
@@ -77,12 +77,9 @@ This case study introduces how to prepare data for analysis and illustrates **li
 
 
 ## Ch03A Finding a good deal among hotels: data exploration
-Further continuing our search for a good deal (a hotel in Vienna that is underpriced for its location and quality), we arrived at a clean data table and identified the variables we want to analyze. How should we start the analysis?
+Further continuing our search for a good deal (a hotel in Vienna that is underpriced for its location and quality), we've got a clean data table and identified the variables we want to analyze. How should we start the analysis? In particular, how should we explore the most important variables, why should we do that, and what conclusions can we draw from such exploratory analysis?
 
-Using the `hotels-vienna` dataset, we explore the most important variables needed for our analysis with a focus on distribution of hotels in quality and in distance to the city center. We find and manage extreme values of price to create an ultimate sample of hotels.  
-
-
-This case study shows the description of distributions and their use in identifying problems in the data. It illustrates the steps of exploratory data analysis and introduces guidelines for data visualization. It illustrates the design of histograms as well as layers of a graphical object.
+This case study uses the `hotels-vienna` dataset to illustrate how to describe the **distribution of variables** and how to use the findings to identify potential problems in the data, such as **extreme values**. The case study also illustrate how to make **decisions about extreme values**, guided by the ultimate question of the analysis. Along the way, it introduces guidelines for **data visualization** in general, and the design of **histograms** in particular. Case studies 01A and 02A describe data collection and cleaning, and we will use the data in case studies 7A, 8A, 9B, and 10B to illustrate further steps of data analysis that lead to finding good deals.
 
 **Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).
@@ -90,9 +87,9 @@ This case study shows the description of distributions and their use in identify
 
 
 ## Ch03B Comparing hotel prices in Europe: Vienna vs London
-How can we compare hotel markets over Europe and learn about characteristics of hotel prices? Using the `hotels-europe` dataset, we pick Vienna and London and focus on 3-4 star hotels located in the city center and compare the distribution of prices for a weekday in November 2017. From our summary statistics and visualized distributions we conclude that hotel prices in London tend to be substantially higher on average and more spread than in Vienna.  
+How can we compare hotel markets over Europe and learn about characteristics of hotel prices? Can we visualize two distributions on one graph? What descriptive statistics would best describe each distribution and their differences? Can we visualize descriptive statistics?
 
-The case study shows some of the most important descriptive statistics for quantitative variables and illustrates the comparison of distributions and the use of histograms and density plots.
+This case study uses the `hotels-europe` dataset and selects 3-4 star hotels in Vienna and London to compare the distribution of prices for a weekday in November 2017. It illustrates the comparison of distributions and the use of histograms and density plots. It illustrates the use of some of the most important **descriptive statistics** for quantitative variables and their visualizations, **box plots** and **violin plots**.
 
 **Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).
@@ -100,16 +97,20 @@ The case study shows some of the most important descriptive statistics for quant
 
 
 ## Ch03C Measuring home team advantage in football
-Is there such a thing as home team advantage in professional football? Using the `football` dataset, we examine whether and to what extent football teams of the English Premier League (EPL) tended to perform better if they played in their home stadium during the 2016/17 season using the football dataset.  After creating variables and presenting summary statistics we find that soccer teams while playing on their home turf won almost 50% of the time and lost only about 30% of the time.  
+Is there such a thing as home team advantage in professional football (soccer)? That is, do teams that play in their home stadium tend to perform better? And how shoudl we measure better performance? 
 
-The case study shows the use of exploratory data analysis to answer a substantive question and introduces guidelines to present statistics in a good table.
+This case study uses the `football` dataset, with data on the games played in the English Premier League (EPL) during the 2016/17 season. The case study shows the use of **exploratory data analysis** to answer a substantive question and introduces guidelines to present statistics in a good table.
+
+**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
+**Data**: [hotels-vienna](link-football).
+**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
 
 ## Ch03D Distributions of body height and income
-We look at population data collected by the Health and Retirement Study in the U.S.A. in 2014 (`height-income-distributions` dataset), and show how the height of women aged 55-60 can be described by the normal distribution. For an approximately lognormal distribution, we look at the distribution of household income among households of women aged 55-60 collected by the same study.  
+Are the distributions of body heigh and family income well approximated by theoretical distributions? Answering these questions can help characterize their distributions and provide guidance for future analysis on how to use these variables.
+
+In this very short case study, we examine survey data collected by the Health and Retirement Study in the U.S.A. in 2014 (`height-income-distributions` dataset). We show that the height of women aged 55-60 can be described by the **normal distribution**, whereas the income of their households is reasonably well characterized by the **lognormal distribution**. 
 
 ![income](/images//Ch03_figures/ch03-figure-11b-hist-income-log.png){:height="50%" width="50%"}
-
-This case study shows two everyday examples for theoretical distributions, with a focus on normal and lognormal distributions.
 
 **Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).
@@ -117,11 +118,11 @@ This case study shows two everyday examples for theoretical distributions, with 
 
 
 ## Ch04A Management quality and firm size: describing patterns of association
-Are larger companies better managed? We choose one country (Mexico) and use the World Management Survey data -- `wms-management-survey` dataset from 2013 to explore the association between management quality and firm size. By creating a management score to capture the quality of management and using employment to measure firm size, we examine various conditional statistics and informative visualizations. We find that larger manufacturing firms in Mexico are better managed but as the positive correlation is not strong and it varies across industries.
+Are larger companies better managed? We want to explore the association between management quality and firm size in a particular country (Mexico). Learning about this association can help benchmarking the management quality of firms of different sizes and assess potential benefits to having larger firms. To answer this question we need to define the y and x variables in this comparison. In particular, we need to assess how the variables in the dataset correspond to the abstract concepts of management quality and firm size.
+
+This case study uses the Mexican subsample of the World Management Survey dataset (`wms-management-survey`) from 2013. It illustrates how we can measure **latent variables** by **proxy variables** in the data and uncover patterns of association betewen those variables. It illustrates the concepts of **conditional probabilities**,  **conditional distributions**, and **joint distributions**. The case study introduces informative ways to visualize various aspects of patterns of association, such as the **stacked bar chart**, the **scatterplot**, the **bin scatter**, and comparing **box plots** and **violin plots**. We introduced the data used here in case study 01C.
 
 ![wms](/images//Ch04_figures/ch04-figure-6b-wms-mex-violin-mgmt-emp3bins.png){:height="50%" width="50%"}
-
-This case study shows what we can do to uncover patterns of association when both y and x are quantitative variables. It illustrates conditional probabilities, various aspects of conditional distributions and shows how to create informative figures by visualizing various kinds of comparisons (scatterplot, bin scatter, box plots).
 
 **Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).

@@ -34,7 +34,7 @@ This case study illustrates how to collect appropriate data from the web on mult
 ![Vienna](/images/vienna1.jpg){:height="70%" width="70%"}
 
 ## CH01B Comparing online and offline prices: data collection
-Do online and offline prices of the same products tend to be the same? To answer that question, both the online and offline (in store) price of many products was collected as part of the Billion Prices Project (BPP; http://www.thebillionpricesproject.com), an umbrella of multiple projects that collect price data for various purposes using various methods.
+Do online and offline prices of the same products tend to be the same? To answer that question, we need data on both the online and offline (in store) price of many products. Such data was collected as part of the Billion Prices Project (BPP; http://www.thebillionpricesproject.com), an umbrella of multiple projects that collect price data for various purposes using various methods.
 
 This case study illustrates how to combine different data collection methods and what are the challenges with such data collection. It discusses how products were selected and how prices were measured, and what those methods imply for coverage of observations and reliability of variables. There is no dataset to analyze in this case study. Case study 6A will use the data described here to investigate whether online and offline prices tend to be the same.
 
@@ -130,11 +130,11 @@ This case study uses the Mexican subsample of the World Management Survey datase
 
 
 ## CH05A What likelihood of loss to expect on a stock portfolio?
-Can we find out the future likelihood of a large loss on a stock portfolio based on data from the past? We choose the S&P 500 stock market index as our investment portfolio, and use the `sp500` dataset that covers day-to-day returns for 11 years. After defining large daily loss as an at least 5% drop in returns from one day to another, we search for the proportion of days with large losses. We construct a 95% confidence interval and find that in the general pattern represented by the 11-year history of returns, large daily losses occur with a 0.2 to 0.8 percent chance. However, we find that external validity may not be high and acknowledge that in the future, large daily losses may have a higher probability than 0.8 %.
+Can we find out the future likelihood of a large loss on a stock portfolio based on data from the past? We choose the S&P 500 stock market index as our investment portfolio, and we defining a large loss as an at least 5% drop in returns from one day to another. We can easily calculate the proportion of such days in the data, but we are interested in future losses not past ones. To answer our question we need to make generalizations from our data. Such generalizations are bound to bring uncertainty, and we would like to quantify that uncertainty, too.
+
+This case study uses the `sp500` dataset that covers day-to-day returns for 11 years to illustrate how we can generalize an estimated statistic from a particular dataset to the **population, or general pattern**, it represents, and beyond, to the general pattern we are interested in. The case study illustrates the concept of **repeated samples**. It shows how to estimate the **standard error** by **bootstrap** or using a formula, and how to construct and interpret a **confidence interval**. It also illustrates how to think about **external validity**.
 
 ![bootsrap](/images/bootstrap.jpg){:height="30%" width="30%"}
-
-This case study introduces the concept of repeated samples, standard deviation and confidence intervals. It shows how to make statistical inference in two ways, using the bootstrap method and using a formula for the standard error. It also illustrates how to think about external validity in general.
 
 **Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).

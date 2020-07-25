@@ -3,6 +3,23 @@ title: "Part I: DATA EXPLORATION"
 author_profile: false
 collection: casestudies
 ---
+ 
+## CH01A Finding a good deal among hotels: data collection
+Vienna, Austria is a popular tourist destination for business and leisure. From the hundreds of places that offer accommodation, we want to pick a hotel that is underpriced relative to its location and quality for a weekday in November 2017. Can we use data to help this decision? What kind of data would we need, and how could we get it?
+
+This case study illustrates how to collect appropriate data from the web on multiple offers. It describes what we want from such data and what data source we would need. The data is collected by **web scraping**, and it results in a single **data table.** It discusses the **quality of the data** from the perspective of the question and how it is determined by the way the data was born. There is no dataset to analyze in this case study in this chapter. Subsequent case studies (2A, 3A, 7A, 8A, 9B, 10B) will use the data desctibed here to illustrate steps of data analysis that lead to ultimately answering the main question.
+
+ 
+## CH01B Comparing online and offline prices: data collection
+Do online and offline prices of the same products tend to be the same? To answer that question, appropriate data was collected as part of the Billion Prices Project (BPP; http://www.thebillionpricesproject.
+com), an umbrella of multiple projects that collect price data for various purposes using various methods.
+
+This case study illustrates how to combine different data collection methods and what are the challenges with such data collection. It discusses how products were selected and how prices were measured, and what those methods imply for coverage of observations and reliability of variables. There is no dataset to analyze in this case study. Case study 6A uses the data described here to investigate whether online and offline prices tend to be the same.
+
+## CH01C Management quality: data collection
+How different are firms and other organizations in the terms of management practices? Is the quality of management related to how large the firms are? Is it affected by whether the owners are the founders or their family? To answer these, and many related, questions, appropriate data was collected on the quality of management of many organzations by the World Management Survey (WMS; https://worldmanagementsurvey.org/), an international research intitative to measure the differences in management practices across organizations and countries.
+
+This case study illustrates how to collected data by surveys. It discusses **sampling** and its practical issues, and how to use a set of survey questions to measure and abstract concept such as the quality of management. There is no dataset to analyze in this case study. Case studies 4A and 21A use the data described here to investigate how management quality is related to firm size and how it is affected by ownership.
 
 ## CH02A Finding a good deal among hotels: data preparation
 Vienna, Austria is a popular tourist destination for business and leisure. From the hundreds of places that offer accommodation, we want to pick a hotel that is underpriced relative to its location and quality for a weekday in November 2017. What kind of variables could we consider during our search for a good deal? We look at qualitative and quantitative variables and create a data table that we can work with.  

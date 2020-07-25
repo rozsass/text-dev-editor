@@ -1,11 +1,11 @@
 ---
 permalink: /authors/
-title: "About authors"
+title: "About the authors"
 toc: false
 author_profile: true
 ---
 ### Gábor Békés
-Gábor Békés is an Assistant Professor at the Department of Economics and Business of the [Central European University](https://economics.ceu.edu/) and director of the [MS in Business Analytics](https://economics.ceu.edu/program/master-science-business-analytics)program. He is a research affiliate at the Center for Economic Policy Research (CEPR). He published in top economics journals on multinational firm activities and productivity, business clusters, and innovation spillovers. He managed international data collection projects on firm performance and supply chains. He has done both policy advising (the European Commission, ECB) as well as private sector consultancy (in finance, business intelligence and real estate). He has taught graduate-level data analysis and economic geography courses since 2012. [Personal website](https://sites.google.com/site/bekesg)
+Gábor Békés is an Assistant Professor at the Department of Economics and Business of the [Central European University](https://economics.ceu.edu/) and director of the [MS in Business Analytics](https://economics.ceu.edu/program/master-science-business-analytics)program. He is a senior fellow at KRTK and a research affiliate at the Center for Economic Policy Research (CEPR). He published in top economics journals on multinational firm activities and productivity, business clusters, and innovation spillovers. He managed international data collection projects on firm performance and supply chains. He has done both policy advising (the European Commission, ECB) as well as private sector consultancy (in finance, business intelligence and real estate). He has taught graduate-level data analysis and economic geography courses since 2012. [Personal website](https://sites.google.com/site/bekesg)
 
 <!--- ![gabors](images/gaborok-balaton2a.png){:height="80%" width="80%"} --->
 

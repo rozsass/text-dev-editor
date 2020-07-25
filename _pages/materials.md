@@ -14,8 +14,8 @@ redirect_from:
 
 
 # How to to teach it?
-Download our guide to teach this textbook for different courses
-*SOON*
+[How to teach this textbook for different courses](teaching-guide)
+
 
 
 # Slides

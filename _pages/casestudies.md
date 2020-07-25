@@ -31,43 +31,41 @@ Vienna, Austria is a popular tourist destination for business and leisure. From 
 
 This case study illustrates how to collect appropriate data from the web on multiple offers. It describes what we want from such data and what data source we would need. The data is collected by **web scraping**, and it results in a single **data table.** It discusses the **quality of the data** from the perspective of the question and how it is determined by the way the data was born. There is no dataset to analyze in this case study in this chapter. Subsequent case studies (2A, 3A, 7A, 8A, 9B, 10B) will use the data desctibed here to illustrate steps of data analysis that lead to ultimately answering the main question.
  
-## CH01B Comparing online and offline prices: data collection
-Do online and offline prices of the same products tend to be the same? To answer that question, appropriate data was collected as part of the Billion Prices Project (BPP; http://www.thebillionpricesproject.
-com), an umbrella of multiple projects that collect price data for various purposes using various methods.
+![Vienna](/images/vienna1.jpg){:height="70%" width="70%"}
 
-This case study illustrates how to combine different data collection methods and what are the challenges with such data collection. It discusses how products were selected and how prices were measured, and what those methods imply for coverage of observations and reliability of variables. There is no dataset to analyze in this case study. Case study 6A uses the data described here to investigate whether online and offline prices tend to be the same.
+## CH01B Comparing online and offline prices: data collection
+Do online and offline prices of the same products tend to be the same? To answer that question, both the online and offline (in store) price of many products was collected as part of the Billion Prices Project (BPP; http://www.thebillionpricesproject.com), an umbrella of multiple projects that collect price data for various purposes using various methods.
+
+This case study illustrates how to combine different data collection methods and what are the challenges with such data collection. It discusses how products were selected and how prices were measured, and what those methods imply for coverage of observations and reliability of variables. There is no dataset to analyze in this case study. Case study 6A will use the data described here to investigate whether online and offline prices tend to be the same.
 
 ## CH01C Management quality: data collection
-How different are firms and other organizations in the terms of management practices? Is the quality of management related to how large the firms are? Is it affected by whether the owners are the founders or their family? To answer these, and many related, questions, appropriate data was collected on the quality of management of many organzations by the World Management Survey (WMS; https://worldmanagementsurvey.org/), an international research intitative to measure the differences in management practices across organizations and countries.
+How different are firms and other organizations in the terms of their management practices? Is the quality of management related to how large the firms are? Is it affected by whether the owners are the company founders or their families? To answer these, and many related, questions, we need data on management quality. Such data was collected from many organzations by the World Management Survey (WMS; https://worldmanagementsurvey.org/), an international research intitative to measure the differences in management practices across organizations and countries.
 
-This case study illustrates how to collected data by surveys. It discusses **sampling** and its practical issues, and how to use a set of survey questions to measure and abstract concept such as the quality of management. There is no dataset to analyze in this case study. Case studies 4A and 21A use the data described here to investigate how management quality is related to firm size and how it is affected by ownership. This case study, and the previous case studies in this chapter illustrate the choices and trade-offs data collection
-involves, practical issues that may arise during implementation, and how all that may affect data
-quality.
+This case study illustrates how to collect data by surveys. It discusses **sampling** and its practical issues, and how to use a set of survey questions to measure and abstract concept such as the quality of management. This case study, similarly to the other case studies in this chapter, illustrates the choices and trade-offs data collection involves, practical issues that may arise during implementation, and how all that may affect data
+quality. There is no dataset to analyze in this case study. Case studies 4A and 21A will use the data described here to investigate how management quality is related to firm size and how it is affected by ownership. 
 
 ## CH02A Finding a good deal among hotels: data preparation
-Continuing with the search for a hotel that is underpriced relative to its location and quality in Vienna, we have scarped the web and got a data table. But how should we start working siht this data? In particular, how should we identify hotels, how should we make sure each hotel features only once in the data, and what kind of variables could we consider for our future analysis? 
+Continuing with our search for a hotel that is underpriced relative to its location and quality in Vienna, we have scraped data from the web, and we've got a data table. But how should we start working with this data? In particular, how should we identify hotels, how should we make sure each hotel features only once in the data, and how should we select the variables we would consider for our future analysis? 
 
-This case study illustrates how to find problems with observations and variables and uses the `hotels-vienna` dataset. It illustrates the various types of variables. It shows how to create a **tidy data table** and how to deal with **missing values** and **duplicates**. It allows instructors to demonstrate the importance of **data cleaning** and the common **steps of data wrangling**.
+This case study illustrates how to find problems with observations and variables and uses the `hotels-vienna` dataset. It illustrates the various **types of variables**. It shows how to create a **tidy data table** and how to deal with **missing values** and **duplicates**. It allows instructors to demonstrate the importance of **data cleaning** and the common **steps of data wrangling**. We described data collection and quality in case study 01A, and we will use the data in case studies 3A, 7A, 8A, 9B, and 10B to illustrate steps of data analysis that lead to finding good deals.
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](clink) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).
 **Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
-
 
 ## CH02B Displaying immunization rates across countries
 Immunization against measles is an effective way to prevent the disease and may save the lives of children. But how do various countries fare in terms of their immunization rate? We use the World Development Indicators data website maintained by the World Bank to look at countries’ annual immunization rate and GDP per capita.  
 
-This case study illustrates how to store **multi-dimensional data**. It uses the `world-bank-immunization` dataset and shows a data structure focusing on two ID variables (country and year) and two other variables (immunization rate and GDP per capita). It allows instructors to demonstrate **xt panel data tables in long and wide formats**.
+This case study illustrates how to store **multi-dimensional data**. It uses the `world-bank-immunization` dataset and shows a data structure focusing on two ID variables (country and year) and two other variables (immunization rate and GDP per capita). It allows instructors to demonstrate **xt panel data** tables in **long format** and **wide format**. Case study 23B will use the data described here to investigate the effect of immunization on the survival chances of children.
 
 **Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).
 **Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
 
-
 ## Ch02C Identifying successful football managers
-The English Premier League (EPL) is the top football division in England and we want to identify its most successful football manager. Covering 11 years, the `football` dataset covers  all games played in the EPL and data on managers, including which team they worked at and when. We create a workfile by joining two different data tables. After defining the measure of success as average points per game, we identify the most successful managers.  
+The English Premier League (EPL) is the top football division in England. Team managers, as coaches are known in football, arguably play a ery important role in the success of their teams. Thus, we want to identify the most successful football manager in the EPL. Covering 11 years, the `football` dataset covers  all games played in the EPL and data on managers, including which team they worked at and when. We create a workfile by joining two different data tables. After defining the measure of success as average points per game, we identify the most successful managers.  
 
-This case study introduces how to prepare data for analysis and illustrates linking data tables with different kinds of observations. It shows how to combine two data sources and what kinds of problems can arise while doing so. It allows instructors to demonstrate entity resolution, relational data, tidy data tables, and linking data tables.
+This case study introduces how to prepare data for analysis and illustrates **linking data tables** with different kinds of observations. It shows how to combine two data sources and what kinds of problems can arise while doing so. It allows instructors to demonstrate **entity resolution**, **relational data**, tidy data tables, and linking data tables. Case study 24B will use this data to uncover the effect of replacing managers of underperfoming teams on subsequent team performance.
 
 **Code**:   [**Stata**](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch02-football-manager-success/ch02-football-manager-success.do) or [**R**](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch02-football-manager-success/ch02-football-manager-success.R) or [**Python**](clink) or  [ALL](link)  
 **Data**: [hotels-vienna](link-hotels-vienna).
@@ -79,9 +77,9 @@ This case study introduces how to prepare data for analysis and illustrates link
 
 
 ## Ch03A Finding a good deal among hotels: data exploration
-Vienna, Austria is a popular tourist destination for business and leisure. We search for a good deal on a weekday in November 2017 among hotels located in the center of Vienna. Using the `hotels-vienna` dataset, we explore the most important variables needed for our analysis with a focus on distribution of hotels in quality and in distance to the city center. We find and manage extreme values of price to create an ultimate sample of hotels.  
+Further continuing our search for a good deal (a hotel in Vienna that is underpriced for its location and quality), we arrived at a clean data table and identified the variables we want to analyze. How should we start the analysis?
 
-![Vienna](/images/vienna1.jpg){:height="70%" width="70%"}
+Using the `hotels-vienna` dataset, we explore the most important variables needed for our analysis with a focus on distribution of hotels in quality and in distance to the city center. We find and manage extreme values of price to create an ultimate sample of hotels.  
 
 
 This case study shows the description of distributions and their use in identifying problems in the data. It illustrates the steps of exploratory data analysis and introduces guidelines for data visualization. It illustrates the design of histograms as well as layers of a graphical object.

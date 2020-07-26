@@ -9,7 +9,7 @@ Gábor Békés is an Assistant Professor at the Department of Economics and Busi
 
 **Selected publications** 
 * Machine imports, technology adoption and local spillovers (with Péter Harasztosi), [Review of World Economics](https://link.springer.com/article/10.1007%2Fs10290-019-00365-y), [VOXEU column](https://voxeu.org/article/technology-adoption-machine-imports)    
-* Measuring productivity premia with many modes of internationalization (with Balázs Muraközy), Economics Letters, Volume 139, February 2016, Pages 61–64  
+* Measuring productivity premia with many modes of internationalization (with Balázs Muraközy), [Economics Letters](https://www.sciencedirect.com/science/article/abs/pii/S016517651500525X)
 * Internationalization and Innovation of Firms: Evidence and Policy (with Tommaso Aquilante, Carlo Altomonte and Gianmarco I.P. Ottaviano), [Economic Policy](http://dx.doi.org/10.1111/1468-0327.12020), [VoxEU column](http://www.voxeu.org/article/internationalisation-innovation-and-productivity-firms)  
 * Agglomeration Premium and Trading Activity of Firms (with Péter Harasztosi), [Regional Science and Urban Economics](http://www.sciencedirect.com/science/article/pii/S0166046212001044)  
 * Temporary Trade and Heterogenous Firms  (with Balázs Muraközy), [Journal of International Economics](http://www.sciencedirect.com/science/article/pii/S0022199611001711),  [VoxEU column](http://www.voxeu.org/article/why-hit-and-run-exporting-can-be-optimal)

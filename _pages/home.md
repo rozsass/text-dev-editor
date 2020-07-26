@@ -73,35 +73,35 @@ Gábor Békés is an Assistant Professor at the Department of Economics and Busi
 Gábor Kézdi is a Research Associate Professor at the University of Michigan’s [Institute for Social Research](https://isr.umich.edu/). He published in top journals in economics, statistics, and political science on topics including household finances, health, education, demography, and ethnic disadvantages and prejudice. He managed several data collection projects in Europe; currently, he is co-investigator of the [Health and Retirement Study](https://hrs.isr.umich.edu/about) in the U.S.  He consulted various governmental and non-governmental institutions on the disadvantage of the Roma minority and the evaluation of social interventions. He has taught data analysis, econometrics, and labor economics from undergraduate to Ph.D. levels since 2002 and supervised a number of MA and PhD students.  [Personal website](https://sites.google.com/site/gaborkezdi)
 
 
+## Chapter summaries
+
+For a description of all 24 chapters, check out [Chapter summaries](/chapters)
+
+To see content of the textbook, you may simply download the [Table of contents](files/toc.pdf).
+
+<!---
+You can access sample chapters, too. [HERE](chapters) - TO ADD
+-->
 
 ## Case studies
 
 We have summarized briefly all our 47 case studies, and provided data and code.
-For details check out  [Material for case studies](/casestudies)
-
+For summaries, check out  [Material for case studies](/casestudies)
+<!---
 You may also download a pdf with a [summary of case studies](casestudy-summaries.pdf)
-
-
-## Contents
-
-For more details, check out [Chapter summaries](/chapters)
-
-To see content of the textbook, you may simply download the [Table of contents](files/toc.pdf).
-
-You can access sample chapters, too. [HERE](chapters) - TO ADD
+-->
 
 
 ## Data and code
 
 We provide access to get all the data and code we used. You can download data by topics, all get them together in a zipped file. You can get code also one by one or in a zipped file.
 
-Code is available in R, Stata (except for machine learning) and Python (mostly).
+Code is available in R, Stata (except for machine learning) and Python (mostly). For more check out the [Data and code](/data-and-code) page.
 
-For more check out the [Data and code](/data-and-code) page.
-
+**Update**: Public github repo with 0.9 versions: in September 2020. First release: November 2020.
 
 ## Teaching material
 
-We provide 24 [slideshows](/materials) for the 24 chapters. For educational purposes you can download them and use them, modify them with giving us some credit.
+We will provide 24 [slideshows](/materials) for the 24 chapters. 
 
-We provide answers to practice questions for instructors at the [Cambridge UP website](link-to-cup)
+We will provide answers to all 360 practice questions for instructors at the [Cambridge UP website](https://www.cambridge.org/hu/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=PB)

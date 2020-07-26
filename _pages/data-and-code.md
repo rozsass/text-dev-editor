@@ -36,11 +36,7 @@ You have two options to get code for our case studies.
 # Setting up to run code
 
 ## R vs Python vs Stata - basics of coding languages
-This textbook is coding language neutral. Our code is written in all three most widely used tools for data analysis.
-
-Learn more about [R](https://www.r-project.org/about.html)   
-Learn more about [Stata](https://www.stata.com/why-use-stata/)   
-Learn more about [Python](https://www.python.org/about/)
+This textbook is coding language neutral. Our code is written in all three most widely used tools for data analysis. Learn more about [R](https://www.r-project.org/about.html), [Stata](https://www.stata.com/why-use-stata/),  [Python](https://www.python.org/about/)
 
 
 ## **Stata**  

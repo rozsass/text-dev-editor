@@ -14,7 +14,7 @@ redirect_from:
 
 
 # How to to teach it?
-[How to teach this textbook for different courses](teaching-guide)
+[How to teach this textbook for different courses](/teaching-guide)
 
 
 

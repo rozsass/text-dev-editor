@@ -271,11 +271,28 @@ We use the `airbnb` dataset that includes rental prices for one night in March 2
 
 
 ## CH17	Predicting firm exit: probability and classification
+Many companies have relationships with other companies, as suppliers or clients. Whether those other companies stay in business in the future is an important question for them. How can we use data on many companies across the years to predict the probability of their exit? And can we classify them into two groups, companies that are likely to exit and companies that are likely to stay in business? 
+
+This case study uses the `bisnode-firms` dataset, a panel dataset with a large number of companies from specific industries in a European country, to illustrate probability prediction and classification. After a good deal of feature engineering we estimate several logit models to predict the probablity of firm exit and compare their performance by 5-fold cross-validation, choose the best model to describe how well it predicts the probabilities on a holdout sample, and use the predicted probabilities and two alternative methods for classification. This case study illustrates how to carry out **probability predictions**, how to evaluate their goodness of fit and other aspects of predictive performance, how to find an **optimal classification threshold** with the help of a loss function usign a formula or model-dependent cross-validation, and how to use **expected loss** and the **confusion table** to evaluate classifications. It illustrates how the **ROC curve** visualizes the trade-offs of false positive and negative decisions at various classification thresholds, and how to use **random forest for probaility prediction and classification**. The case study is also a good example of potential issues with **external validity** of predictions and how we may detect the possibility of such issues in the original data.
+
 
 ## CH18	Forecasting daily ticket sales for a swimming pool
+How can we use transaction data to predict the daily volume of sales? In particular, how can we use data on sales terminal data on tickets sold to a swimming pool to predict the number of daily tickets sold for next year? 
+
+This case study uses the `swim-transactions` dataset with transaction-level data from all swimimng pools for many years in Albuquerque, New Mexico, USA, and selects a single swimming pool. The case study illustrates the use of seasonality at various levels in long-term predictions. We aggregate the data to daily frequency, discuss data issues and how to solve them, carry out exploartory data analysis to identify potential interactions between monthly and daily seasonality and the importance of predictable events such as shcool holidays, specify several regression models, and select the best by cross-validation. The case study illustrates the use of **transactions data** in predictive analytics, the specific kinds of **cross-validation with time series data**, the use of **trend** and, especially, **seasonality** in making long-term predictions, the use of the autmated **Prophet** algorithm to find the best model, and how to evaluate the prediction of the best model to understand uncertainty of the prediction and detect problems that further data work and analysis may solve.
+
 
 ## CH18	Forecasting a house price index
+How can we use data on past home prices, and possibly other variables, to predict how house prices will move in a particular city in the next months? 
 
+
+
+You
+have monthly data on the house price index of the city, and you can collect monthly data on
+other variables that may be correlated with how house prices move. How should you use that
+data to forecast changes in house prices for the next few months? In particular, how should
+you use those other variables to help that forecast even though you don’t know their future
+values?
 
 # PART IV: CAUSAL ANALYSIS
 

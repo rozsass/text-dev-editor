@@ -285,29 +285,43 @@ This case study uses the `swim-transactions` dataset with transaction-level data
 ## CH18	Forecasting a house price index
 How can we use data on past home prices, and possibly other variables, to predict how house prices will move in a particular city in the next months? 
 
+This case study uses the `case-shiller-la` dataset with monthly observations on the Case-Shiller home price index for the city of Los Angeles, California, USA between 2000 and 2017. The dataset also contains monthly time series of the unemployment rate and employment rate. After exploratory data analysis we estimate various ARIMA time series models that use the price index, as well as VAR models that use the unemployment and employment rates as well, and we use appropriate cross-validation to select the best model. The case study illustrates how to make use of **serial correlation** to make short-term forecasts with the help of **ARIMA models**, how to use other variables and their forecasted values in a **vector autoregression (VAR)** model, and how to select the best model by **cross-validation with time series data** that preserves the serial correlation in the data. 
 
-
-You
-have monthly data on the house price index of the city, and you can collect monthly data on
-other variables that may be correlated with how house prices move. How should you use that
-data to forecast changes in house prices for the next few months? In particular, how should
-you use those other variables to help that forecast even though you don’t know their future
-values?
 
 # PART IV: CAUSAL ANALYSIS
 
-
 ## CH19	Food and health
+Does eating a lot of fruit and vegetables helps remain healthy? Can we use available data on people’s eating habits and health to uncover those effects? What are the most important problems with using such data to answer our question, and can we do anything about them?
+
+This case study uses the `food-health` dataset, cross-sectional data collected on the health and eating habits of people as part of the National Health and Nutrition Examination Survey (NHANES) (USA, 2009-2013). We focus on the subsample of people aged 30-59 years old. The case study illustrates how to define an effect using the **potential outcomes framework**, how to use **causal maps** to visualize our assumptions about the causal relationships between variables, how to translate **latent variables** into their measured **proxy variables** that can be used in actual analysis, how to think about the **sources of variation** in the causal variables, and what variables we should **condition on** in an analysis that attempts to uncover the effect. The case study also illustrates the difficulty of uncovering effects from cross-sectional observational data.
+
 
 ## CH20	Working from home and employee performance
+What is the effect of working from home on employee performance? How can we design an experiment that could inform measure these effects? Once the data is collected from the experiment, how should we assess its quality, estimate the effects, and evaluate the internal and external validity of the results?
+
+This case study uses the `working-from-home` data, from an experiment that was carried out at a large travel agency in China, in one of its call centers. The case study illustrates how to design a **field experiment**, what are potential **issues with internal validity** and how to address them in the design or the analysis of the experiment, and how to analyze experimental data. It shows how to check **covariate balance** and how to interpret its results, how to assess **compliance**, and how to use regression analysis to estimate the effects of the experiment. The case study also illustrates how the results of the experiment can be **used in business decisions**, and what issues may arise with the **external validity** of the results.
+
 
 ## CH20	Fine tuning social media advertising
+There are many choices to make when designing an online advertisement, inlcuding text content and details of appearance. Having alternative versions of these details, how can we select the version that would yield the most return? 
+
+This case study describes an A/B testing that we carried out on a social media platform. We tested two versions of a text advertising a data analysis program and measured the number of clicks on the ad and the number of actions (leaving one's email address). The case study illustrates the steps of **designing an A/B test** in general, and **power calculation** or **sample size calculation** in particular.
+
 
 ## CH21	Founder/family ownership and quality of management
+Many firms are owned by their founder or family members of their founder. Ar such founder/family owned firms as well managed as other kinds of firms and, if there is a difference, how much of that that is due to their ownership as opposed to something else? Can we uncover that effect using cross-sectional observational data on firms and their management practices?
+
+This case study uses the `wms-survey-management` dataset that we introduced in case study 1C. It is a large multi-country multi-sector survey of companies, measuring their management practices and other company characteristics. We use the cross-sectional sample collected from 24 countries between 2004 and 2015. The case study illustrates the use of **thought experiments** to clarify what effect we want to measure, how to think about **what variables to condition on**, and how we may **sign the omitted variables bias**. Besides **multiple regression**, it illustrates **exact matching** and **matching on the propensity score**, discussing their feasibility, advantages and disadvantages, and comparing their results. The case study is another example illustrating the difficulty to uncover an effect using cross-sectional observational data.
+
 
 ## CH22	How does a merger between airlines affect prices?
+When two companies merge, the new firm has more market power, and it may use that power to increase prices or decrease quality. How can we measure the effect of a merger between two firms on the price they charge? How can we use panel data from many markets to uncover this effect?
+
+This case study uses the `US-airlines` dataset that is based on 10 percent of all tickets sold on the U.S. market, collected and maintained by the U.S. Department of Transportation. We use this data to evaluate the efect of the merger of American Airlines and US Airways. We define markets and aggregate the data to market-year level and compare price changes across markets with and without the two airlines before the merger. The case study illustrates the use of **transaction data** to carry out a market-level analysis, the difficulties of **defining markets**, and the use if **difference-in-differences** analysis to estimate an effect. It shows how to examine **pre-intervention trends** to assess the **parallel trends assumption**, and how to estimate generalized versions of difference-in-differences analysis adding covariates or using a **quantitative treatment variable**.
+
 
 ## CH23	Import demand and industrial production
+
 
 ## CH23	Immunization against measles and saving children
 

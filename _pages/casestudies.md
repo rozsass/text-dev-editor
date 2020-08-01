@@ -21,7 +21,7 @@ redirect_from:
 [PART 1: DATA EXPLORATION](#part-i-data-exploration)  
 [PART 2: REGRESSION ANALYSIS](#part-ii-regression-analysis)  
 [PART 3: PREDICTION](#part-iii-prediction)  
-[PART 4: CAUSAL ANALYSIS](##part-iv-causal-analysis)  
+[PART 4: CAUSAL ANALYSIS](#part-iv-causal-analysis)  
 
 
 # PART I: DATA EXPLORATION

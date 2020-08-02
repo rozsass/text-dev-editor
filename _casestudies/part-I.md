@@ -29,28 +29,29 @@ Continuing with our search for a hotel that is underpriced relative to its locat
 
 This case study uses the `hotels-vienna` dataset to illustrate how to find problems with observations and variables. It illustrates the various **types of variables**. It shows how to create a **tidy data table** and how to deal with **missing values** and **duplicates**. It allows instructors to demonstrate the importance of **data cleaning** and the common **steps of data wrangling**. We described data collection and quality in case study 1A, and we will use the data in case studies 3A, 7A, 8A, 9B, and 10B to illustrate steps of data analysis that lead to finding good deals.
 
-**Code**: [**Stata**](link) or [**R**](link) or [**Python**](clink) or [ALL](link).
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).
 **Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+
 
 ## CH02B Displaying immunization rates across countries
 Immunization against measles is an effective way to prevent the disease and may save the lives of children. But how do various countries fare in terms of their immunization rates? In particular, how should we structure and use data from many countries and many years to analyze immunization rates across countries and years?
 
 This short case study illustrates how to store **multi-dimensional data**. It uses the `world-bank-immunization` dataset with data from the World Development Indicators data website maintained by the World Bank to look at countries’ annual immunization rate and GDP per capita. The case study illustrates the structure of **xt panel data data** with a cross-sectional and time series dimension (country and year), with two corresponding ID variables and two other variables (immunization rate and GDP per capita). It allows instructors to demonstrate xt panel data tables in **long format** and **wide format**. Case study 23B will use the data described here to investigate the effect of immunization on the survival chances of children.
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [world-bank-immunization](link-world-bank-immunization).
+**Graphs**: [.png](ch02B-png-zip) or [.eps](ch02B-eps-zip)  
+
 
 ## Ch02C Identifying successful football managers
 The English Premier League (EPL) is the top football (soccer) division in England. Team managers, as coaches are known in football, arguably play a very important role in the success of their teams. How can we use two separate data tables on games and managers to identify the most successful football manager in the EPL?
 
-
 This case study uses the `football` dataset that covers all games played in the EPL and data on managers, including which team they worked at and when. We create a data table by joining two different data tables, define the measure of success as average points per game, and identify the most successful managers. This case study illustrates how to prepare data for analysis and illustrates **linking data tables** with different kinds of observations and common problems that can arise while doing so. It is a good example of **entity resolution**, and how to work with **relational data**. Case study 24B will use this data to uncover the effect of replacing managers of underperfoming teams on subsequent team performance.
 
 **Code**:   [**Stata**](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch02-football-manager-success/ch02-football-manager-success.do) or [**R**](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch02-football-manager-success/ch02-football-manager-success.R) or [**Python**](clink) or  [ALL](link)  
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Data**: [football](link-football).
+**Graphs**: [.png](ch02C-png-zip) or [.eps](ch02C-eps-zip)  
 
 ![pep-and-fergie](/images/pep-and-fergie.jpg){:height="50%" width="50%"}
 
@@ -62,9 +63,9 @@ Further continuing our search for a good deal (a hotel in Vienna that is underpr
 
 This case study uses the `hotels-vienna` dataset to illustrate how to describe the **distribution of variables** and how to use the findings to identify potential problems in the data, such as **extreme values**. The case study also illustrate how to make **decisions about extreme values**, guided by the ultimate question of the analysis. Along the way, it introduces guidelines for **data visualization** in general, and the design of **histograms** in particular. Case studies 1A and 2A describe data collection and cleaning, and we will use the data in case studies 7A, 8A, 9B, and 10B to illustrate further steps of data analysis that lead to finding good deals.
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
 **Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Graphs**: [.png](ch03A-png-zip) or [.eps](ch03A-eps-zip)  
 
 
 ## Ch03B Comparing hotel prices in Europe: Vienna vs London
@@ -72,9 +73,9 @@ How can we compare hotel markets over Europe and learn about characteristics of 
 
 This case study uses the `hotels-europe` dataset and selects 3-4 star hotels in Vienna and London to compare the distribution of prices for a weekday in November 2017. It illustrates the comparison of distributions and the use of **histograms** and **density plots**. It illustrates the use of some of the most important **descriptive statistics** for quantitative variables and their visualizations, **box plots** and **violin plots**.
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [hotels-europe](link-hotels-europe).
+**Graphs**: [.png](ch03B-png-zip) or [.eps](ch03B-eps-zip)  
 
 
 ## Ch03C Measuring home team advantage in football
@@ -82,9 +83,10 @@ Is there such a thing as home team advantage in professional football (soccer)? 
 
 This case study uses the `football` dataset, with data on the games played in the English Premier League (EPL) during the 2016/17 season. The case study shows the use of **exploratory data analysis** to answer a substantive question and introduces guidelines to present statistics in a good table.
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-football).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [football](link-football).
+**Graphs**: [.png](ch03C-png-zip) or [.eps](ch03C-eps-zip)  
+
 
 ## Ch03D Distributions of body height and income
 Are the distributions of body heigh and family income well approximated by theoretical distributions? Answering these questions can help characterize their distributions and provide guidance for future analysis on how to use these variables.
@@ -93,9 +95,9 @@ In this very short case study, we examine survey data collected by the Health an
 
 ![income](/images//Ch03_figures/ch03-figure-11b-hist-income-log.png){:height="50%" width="50%"}
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [height-income-distributions](height-income-distributions).
+**Graphs**: [.png](ch03D-png-zip) or [.eps](ch03D-eps-zip)  
 
 
 ## Ch04A Management quality and firm size: describing patterns of association
@@ -105,9 +107,9 @@ This case study uses the Mexican subsample of the World Management Survey datase
 
 ![wms](/images//Ch04_figures/ch04-figure-6b-wms-mex-violin-mgmt-emp3bins.png){:height="50%" width="50%"}
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [wms-management-survey](wms-management-survey).
+**Graphs**: [.png](ch04A-png-zip) or [.eps](ch04A-eps-zip)  
 
 
 ## CH05A What likelihood of loss to expect on a stock portfolio?
@@ -117,9 +119,9 @@ This case study uses the `sp500` dataset that covers day-to-day returns on the S
 
 ![bootsrap](/images/bootstrap.jpg){:height="30%" width="30%"}
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [sp500](link-sp500).
+**Graphs**: [.png](ch05A-png-zip) or [.eps](ch05A-eps-zip)  
 
 
 ## CH06A Comparing online and offline prices: testing the difference
@@ -127,18 +129,16 @@ Do online and offline prices of the same products tend to be the same? Answering
 
 This case study uses the `billion-prices` dataset. We examine online and offline prices of retail products in the U.S. in 2015-16. The case study illustrates how to translate a more abstract question into an inquiry about a **statistic** (here the average difference). It shows how to formulate a **null hypothesis** and an **alternative hypothesis** and how to carry out a **hypothesis test** in two ways, by calculating the **t-statistic** and comparing it to an appropriate **critival value**, or, alternatively, by using the **p-value**. The case study also illustrates the perils of testing **multiple hypotheses** and **p-hacking**. We have introduced the data used here in case study 1B.
 
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [billion-prices](link-billion-prices).
+**Graphs**: [.png](ch06A-png-zip) or [.eps](ch06A-eps-zip)  
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
 
-
-## CH06A Testing the likelihood of loss on a stock portfolio
+## CH06B Testing the likelihood of loss on a stock portfolio
 Will our investment portfolio suffer a large loss with a higher chance than what we can accept? When we want to know what's the likelihood of large future losses on our portfolio, we can use the confidence interval to quantify the uncertainty from estimating it from data on past returns. But we can ask a more pointed question, too: whether our stock portfolio is will suffer large future losses more often than we can accept. To answer that question we need a different procedure: testing a hypothesis. 
 
 This case study uses the `sp500` dataset that covers day-to-day returns for 11 years to illustrate how we can test whether a likelihood is greater or less than a specified value. It illustrates **testing proportions** and how to formulate and carry out a **one-sided hypothesis test**. The case study is a continuation of case study 5A, using the same data.
 
-**Code**: [**Stata**](link) or [**R**](ch07-hotel-simple-reg_intro.R) or [**Python**](clink) or [ALL](link).
-**Data**: [hotels-vienna](link-hotels-vienna).
-**Graphs**: [.png](ch02A-png-zip) or [.eps](ch02A-eps-zip)  
-
+**Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
+**Data**: [sp500](link-sp500).
+**Graphs**: [.png](ch06B-png-zip) or [.eps](ch06B-eps-zip)  

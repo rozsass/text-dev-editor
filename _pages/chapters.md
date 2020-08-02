@@ -50,8 +50,8 @@ redirect_from:
 # PART I: DATA EXPLORATION
 
 ## Chapter 01: Origins of Data  
-This chapter is about the definition of data, data collection, and data quality.
-The chapter starts by introducing **key concepts of data**. It then describes the most important **methods of data collection** used in business, economics, and policy analysis, such as **web scraping**, **using administrative sources**, and **conducting surveys**. We introduce aspects of data quality, such as **validity and reliability of variables** and **coverage of observations**. We discuss how to assess and link data quality to how the data was collected. We devote a section to **Big Data** to understand what it is and how it may differ from more traditional data. This chapter also covers **sampling**, incuding **random sampling** and biases due to **noncoverage** and **nonresponse**, as well as **ethical issues** and some **good practices in data collection**.  
+This chapter is about data collection and data quality.
+The chapter starts by introducing **key concepts of data**. It then describes the most important **methods of data collection** used in business, economics, and policy analysis, such as **web scraping**, **using administrative sources**, and **conducting surveys**. We introduce aspects of data quality, such as **validity and reliability of variables** and **coverage of observations**. We discuss how to assess and link data quality to how the data was collected. We devote a section to **Big Data** to understand what it is and how it may differ from more traditional data. This chapter also covers **sampling**, incuding **random sampling** and potential biases due to **noncoverage** and **nonresponse**, as well as **ethical issues** and some **good practices in data collection**.  
 
 ## Chapter 02: Preparing Data for Analysis  
 This chapter is about preparing data for analysis: how to start working with data. 

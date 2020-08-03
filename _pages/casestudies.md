@@ -336,7 +336,7 @@ Continuing with our question of how to predict AirBnB apartment prices in London
 We use the `airbnb` dataset that includes rental prices for one night in March 2017 from the area of Greater London. Using apartment location and various features of accommodation as predictors, we carry out feature engineering and build random forest models and gradient boosting machine method (GBM) models, both ((ensemble methods** that use **many regression trees**. This case study illustrates prediction with **random forest** and **boosting** and the evaluation of such predictions. It shows how to carry out necessary **feature engineering**, how to set various **tuning parameters** for the different methods and how those affect the predictions. It also illustrates the use of **variance importance plots** and **partial dependence plots** to help understand the patterns of association that drive the predicitons in these **black box models**. The case study is a continuation of case study 14B, using the same data source but the entire London sample instead of a single borough.
 
 **Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
-**Data**: [airbnb](link-airbnb).
+**Data**: [airbnb](/datasets.md#airbnb).
 **Graphs**: [.png](ch16A-png-zip) or [.eps](ch16A-eps-zip)  
 
 
@@ -416,7 +416,7 @@ When two companies merge, the new firm has more market power, and it may use tha
 This case study uses the `US-airlines` dataset that is based on 10 percent of all tickets sold on the U.S. market, collected and maintained by the U.S. Department of Transportation. We use this data to evaluate the efect of the merger of American Airlines and US Airways. We define markets and aggregate the data to market-year level and compare price changes across markets with and without the two airlines before the merger. The case study illustrates the use of **transaction data** to carry out a market-level analysis, the difficulties of **defining markets**, and using **difference-in-differences** analysis to estimate an effect. It shows how to examine **pre-intervention trends** to assess the **parallel trends assumption**, and how to estimate generalized versions of difference-in-differences analysis adding covariates or using a **quantitative treatment variable**.
 
 **Code**: [**Stata**](link) or [**R**](link) or [**Python**](link) or [ALL](link).
-**Data**: [US-airlines](link-US-airlines).
+**Data**: [US-airlines](/datasets.md#us-airlines).
 **Graphs**: [.png](ch22A-png-zip) or [.eps](ch22A-eps-zip)  
 
 

@@ -1,0 +1,37 @@
+---
+permalink: /contact-us/
+title: "Contact us"
+author_profile: true
+---
+<form
+  action="https://formspree.io/vig1396@gmail.com"
+  method="POST"
+>
+  <label>
+    Your name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label for="type">
+    Question type:
+  </label>
+
+  <select name="type" id="type">
+    <option value="review">Want to review</option>
+    <option value="code-data">Code and Data</option>
+    <option value="error">Report error</option>
+    <option value="other">Other</option>
+  </select>
+
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>

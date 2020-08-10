@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: single
+classes: wide
 title: "Data and code"
 permalink: /data-and-code/
 author_profile: false

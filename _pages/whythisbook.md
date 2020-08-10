@@ -1,5 +1,7 @@
 ---
 permalink: /whythisbook/
+layout: single
+classes: wide
 title: "Why use this book?"
 toc: true
 toc_sticky: true

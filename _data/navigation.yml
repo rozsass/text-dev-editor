@@ -26,6 +26,8 @@ sidebar:
         url: /authors/
       - title: "Endorsements"
         url: /endorsements
+      - title: "Contact us"
+        url: /contact-us
 
   - title: Case studies
     url: /casestudies/

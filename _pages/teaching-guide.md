@@ -22,3 +22,8 @@ Example sequences
 * Public policy program: [Part I](/chapters/part-I/) and [Part II](/chapters/part-II/) and [Part IV](/chapters/part-IV/) , with maybe some cuts from chapters 1--4.
 * Two-year Master's in economics. Use this for the first year, beefing up theory from the under the hood sections. Second year students, especially those set to continue in a PhD program, can have econometrics courses focusing on advanced topics like likelihood estimation, RDD, IV estimation, discrete choice. 
 * Business Analytics/Applied Data Science type professional programs: [Part I](/chapters/part-I/) and [Part II](/chapters/part-II/) and [Part III](/chapters/part-III/)   as core; [Part IV](/chapters/part-IV/) as elective. Advanced machine learning classes can start after [Part III](/chapters/part-III/) and focusing on key methods beyond tree-based models, such as SVM, GBM, neural nets/deep learning. A Bayesian statistics course can also be taught in parallel with [Part II](/chapters/part-II/) and [Part III](/chapters/part-III/) .
+
+
+
+## FAQ for Instructors
+[Questions and answers for a variety of course and program types](/instructor-faq/)

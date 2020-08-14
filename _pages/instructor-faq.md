@@ -1,5 +1,5 @@
 ---
-permalink: /instructor-faq
+permalink: /instructor-faq/
 title: "FAQ for instructors"
 toc: false
 author_profile: false

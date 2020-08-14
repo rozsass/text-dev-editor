@@ -17,6 +17,8 @@ redirect_from:
 [How to teach this textbook for different courses](/teaching-guide/)
 
 
+# FAQ for Instructors
+[Questions and answers for a variety of course and program types](/instructor-faq/)
 
 # Slides
  

@@ -9,7 +9,7 @@ redirect_from:
 
 ## Graduate economics, applied economics
 
->Q: How does the book cover traditional topics in Econometrics courses?
+>**Q: How does the book cover traditional topics in Econometrics courses?**
 
 A. It covers a great of material taught in Econometrics courses, but with a strong application rather than theory and academic research focus.
 
@@ -20,7 +20,7 @@ A. It covers a great of material taught in Econometrics courses, but with a stro
 
 
 
->Q: What is the main advantage of this book over existing Econometrics textbooks?
+>**Q: What is the main advantage of this book over existing Econometrics textbooks?**
 
 A. There are several differences, reasons we wrote the book.
 1. Coverage of topics that are essential for an applied data analyst (data vizualization, precise interpretation, a prediction toolset), but often neglegted.
@@ -32,7 +32,7 @@ A. There are several differences, reasons we wrote the book.
 
 ## Undergraduate economics, social science programs
 
->Q: What are the **prerequisites** for an undergraduate data analytics course which may be cross-listed with computer science and/or business?
+>**Q: What are the **prerequisites** for an undergraduate data analytics course which may be cross-listed with computer science and/or business? **
 
 A. Not much:
 1. Some undergraduate statistics is helpful but not necessary

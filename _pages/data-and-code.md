@@ -12,10 +12,14 @@ redirect_from:
 
 {% include base_path %}
 
-> ## *Publish the data and code or it didn't happen* [*](http://freerangestats.info/blog/2020/05/30/implausible-health-data-firm)
+>## *Publish the data and code or it didn't happen* [*](http://freerangestats.info/blog/2020/05/30/implausible-health-data-firm)
 
 
 Get the raw data and the cleaning codes that created the datasets used for analyis.
+
+
+**NOTE: codes and data should be made available in the Fall 2020. Please check back in October 2020**
+
 
 # Getting Data
 
@@ -34,18 +38,36 @@ You have two options to get code for our case studies.
 2.  Download code one by one [from the Case studies page](/casestudies)
 
 
+# Folder setup
+**First**, start by setting up a folder for this textbook, this can sit anywhere. Let us call this da_textbook.
+
+**Second**, there should be two main folders:
+
+One folder for code (and output):   
+`da_textbook/da_case_studies`
+
+Another folder for data (clean, raw and cleaning codes).   
+`da_textbook/da_data_repo`
+
+**Third**, in the data folder, just copy downloaded dataset folders, such as  
+`da_textbook/da_data_repo/hotels-vienna`
+
+It will have two subfolders: `clean` and `raw`, where the `clean` will include the cleaner filers and variable description, `VARIABLES.xls`.
+
+**Fourth**, in the code folder, each case study will have a folder, such as  
+`da_textbook/da_case_studies/ch07-hotel-simple-reg`
+
+This folder will host all the codes in **R**, **Stata** and **Python (notebook)**, like
+1. ch07-hotel-simple-reg_intro.do
+2. ch07-hotel-simple-reg_intro.R
+3. ch07-hotel-simple-reg_intro.ipynb
+
+This is where the  `/output` folder will be created (empty when you start) that *will* have all graps and tables produced from code. 
+
+
 # Setting up to run code
+This textbook is coding language neutral. Our code is written in all three most widely used tools for data analysis. [See our brief summary](/languages/)
 
-## R vs Python vs Stata - basics of coding languages
-This textbook is coding language neutral. Our code is written in all three most widely used tools for data analysis. Learn more about [R](https://www.r-project.org/about.html), [Stata](https://www.stata.com/why-use-stata/),  [Python](https://www.python.org/about/)
-
-
-## **Stata**  
-Social scientists, especially economists like Stata for its power and sophisticated econometrics capabilities. It has a great interface, it is very easy to start doing analysis. It has a click and point user interface, too. [How to set up for Stata?](/howto-stata/)
-
-## **R**  
-Social scientists, data scienctists, statisticans like R for its great mix of data managament,  statitical, and   vizualization capacities. It has a large array of machine learning or natural language processing tools, it is great for web scraping or creating dashboards. It has a neatly assembled set of libraries, called Tidyverse, which helps learning elementary tools fast. R is free an open source. [How to set up for R?](/howto-r/)
-
-
-## **Python**  
-Python is the number one coding language for computer scientists and is widely used in data science applications from banking and finance to Industry of Things. Python is great for web scraping, building and maintaing databases, or all tasks of machine learning. Python is free an open source. [How to set up for Python?](/howto-python/)
+[How to set up for Stata?](/howto-stata/)  
+[How to set up for R?](/howto-r/)  
+[How to set up for Python?](/howto-python/)  

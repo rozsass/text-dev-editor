@@ -69,6 +69,43 @@ This folder has all the codes to install necessary packages, and settings.
 If you get the whole code package, it is automatically included. 
 
 
+So this is something that you may have
+```
+da-textbook
+│   
+└───da-data-repo
+│    └───hotels-vienna
+│        └───clear
+│        	 │   hotels-vienna.csv
+│        	 │   hotels-vienna_cleaning.do
+│        	 │   hotels-vienna_cleaning.R
+│        	 │   README.txt
+│        	 │   VARIABLES.xls
+│        └───raw
+│        	 │   hotelbookingdata-vienna.csv
+│        	 │   README.txt
+│        	 │   vienna_filter.R
+│    └───hotels-europe
+|    ...
+│   
+└───da_case_studies
+			└───cch00-tech-prep
+        		│   ch00_install_libraries.do
+        		|   da_helper_functions.do
+        		|   da_helper_functions.R
+        		│   ch00_install_libraries.R
+        		│   theme_bg.R
+			└───  ...
+        	└───ch07-hotel-simple-reg`
+        		│   ch07-hotel-simple-reg_intro.do
+        		│   ch07-hotel-simple-reg_intro.R
+        		│   ch07-hotel-simple-reg_intro.ipynb
+			└───  ...
+
+    
+```
+
+
 ## Setting up to run code
 This textbook is coding language neutral. Our code is written in all three most widely used tools for data analysis. [See our brief summary](/languages/)
 

@@ -21,7 +21,7 @@ Get the raw data and the cleaning codes that created the datasets used for analy
 **NOTE: codes and data should be made available in the Fall 2020. Please check back in October 2020**
 
 
-# Getting Data
+## Getting Data
 
 You have two options to get the datasets for our case studies.
 
@@ -30,7 +30,7 @@ You have two options to get the datasets for our case studies.
 
 
 
-# Getting code
+## Getting code
 
 You have two options to get code for our case studies.
 
@@ -38,7 +38,7 @@ You have two options to get code for our case studies.
 2.  Download code one by one [from the Case studies page](/casestudies)
 
 
-# Folder setup
+## Folder setup
 **First**, start by setting up a folder for this textbook, this can sit anywhere. Let us call this da_textbook.
 
 **Second**, there should be two main folders:
@@ -65,7 +65,7 @@ This folder will host all the codes in **R**, **Stata** and **Python (notebook)*
 This is where the  `/output` folder will be created (empty when you start) that *will* have all graps and tables produced from code. 
 
 
-# Setting up to run code
+## Setting up to run code
 This textbook is coding language neutral. Our code is written in all three most widely used tools for data analysis. [See our brief summary](/languages/)
 
 [How to set up for Stata?](/howto-stata/)  

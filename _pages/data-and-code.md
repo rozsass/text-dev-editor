@@ -64,6 +64,10 @@ This folder will host all the codes in **R**, **Stata** and **Python (notebook)*
 
 This is where the  `/output` folder will be created (empty when you start) that *will* have all graps and tables produced from code. 
 
+**Fifth** make sure to have the folder `ch00-tech-prep` downloaded and copied into `da_case_studies/`.   
+This folder has all the codes to install necessary packages, and settings.   
+If you get the whole code package, it is automatically included. 
+
 
 ## Setting up to run code
 This textbook is coding language neutral. Our code is written in all three most widely used tools for data analysis. [See our brief summary](/languages/)

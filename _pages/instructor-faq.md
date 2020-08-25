@@ -42,10 +42,20 @@ But along the course intro to coding in *R*, *Stata* or *Python* will be needed
 
 
 
-
 ## Graduate Business Analytics
 
 
 
 ## Phd
+>**Q: I am running a metrics course for a Phd program for management and finance students in a business school. I plan to do an applied course, slightly less technical than a graduate econometrics course. Is this book the right fit? **
+
+A. We think so, because:
+1. It offers a good mix of tools for future applied researchers
+2. It has case studies for finance and management 
+3. It has a good introduction and overview of machine learning tool, which has become essential part of toolset in management and finance research, too. 
+4. In regards to causal inference, it has a string focus on tools that useful in academia and are widely used, such as panel data or event studies
+5. It has specific chapters on data collection and experiements - two key practical issues for researchers in these fields
+
+Introductory chapters may be skipped, while advanced methods may be needed  (e.g. for finance: more time series, such as Garch models, for management: some unsupervised learning, such as factor analyis)
+
 

@@ -26,7 +26,7 @@ Get the raw data and the cleaning codes that created the datasets used for analy
 You have two options to get the datasets for our case studies.
 
 1. Download all the data [Data-all](data-zip-all). Note that this is a very large zipped file - `release 1.0 (2020-11-21)`
-2. Download data one by one [from the Datasets page](/datasets)
+2. Download data one by one [from the Datasets page](/datasets) and copy to the dataset folder
 
 
 
@@ -37,25 +37,40 @@ You have two options to get code for our case studies.
 1.  Download all code in [R](code-zip-r), [Stata](code-zip-stata), [Python](code-zip-python) --- `release 1.0 (2020-11-21)`
 2.  Download code one by one [from the Case studies page](/casestudies)
 
+3. [For instructors/advanced users], visit the github page where the live version of the code is available. Since the release, we are making small edits to the code, to make them simpler or faster.
+
 
 ## Folder setup
-**First**, start by setting up a folder for this textbook, this can sit anywhere. Let us call this da_textbook.
+**First**, decide about where to store data and code for this textbook. In all codes we will call on data and code folders separately, so you will have to set them at the start of the code. 
 
-**Second**, there should be two main folders:
+1. The folder for code (and output) is `da_case_studies`
+2. The  folder for data (clean, raw and cleaning codes) is `da_data_repo`
 
-One folder for code (and output):   
-`da_textbook/da_case_studies`
+**Second**, in the data folder, just copy downloaded dataset folders, such as  
+`da_data_repo/hotels-vienna`. Indeed, datasets are stored in a separate data repository, called da_data_repo, where each dataset is in a separate folder. It will have two subfolders: `clean` and `raw`, where the `clean` will include the cleaner filers and variable description, `VARIABLES.xls`.
 
-Another folder for data (clean, raw and cleaning codes).   
-`da_textbook/da_data_repo`
 
-**Third**, in the data folder, just copy downloaded dataset folders, such as  
-`da_textbook/da_data_repo/hotels-vienna`
+```
+da_data_repo
+│
+├──hotels-vienna
+│  └──clear
+│      ├── hotels-vienna.csv
+│      ├── hotels-vienna_cleaning.do
+│      ├── hotels-vienna_cleaning.R
+│      ├── README.txt
+│      └── VARIABLES.xls
+│   └──raw
+│      ├── hotelbookingdata-vienna.csv
+│      ├── README.txt
+│      └── vienna_filter.R
+│
+├──... (other datasets)
+   
+```
 
-It will have two subfolders: `clean` and `raw`, where the `clean` will include the cleaner filers and variable description, `VARIABLES.xls`.
-
-**Fourth**, in the code folder, each case study will have a folder, such as  
-`da_textbook/da_case_studies/ch07-hotel-simple-reg`
+**Third**, in the code folder, each case study will have a folder, such as  
+`da_case_studies/ch07-hotel-simple-reg`
 
 This folder will host all the codes in **R**, **Stata** and **Python (notebook)**, like
 1. ch07-hotel-simple-reg_intro.do
@@ -64,45 +79,44 @@ This folder will host all the codes in **R**, **Stata** and **Python (notebook)*
 
 This is where the  `/output` folder will be created (empty when you start) that *will* have all graps and tables produced from code. 
 
-**Fifth** make sure to have the folder `ch00-tech-prep` downloaded and copied into `da_case_studies/`.   
+**Fourth** make sure to have the folder `ch00-tech-prep` downloaded and copied into `da_case_studies/`.   
 This folder has all the codes to install necessary packages, and settings.   
 If you get the whole code package, it is automatically included. 
 
+** Fifth** In the `da_case_studies/` folder you will have some other small bits of code like setting up the directory for the datasets. 
 
-So this is something that you may have: 
 
 ```
-da-textbook
-│   
-├──da-data-repo
-│  └──hotels-vienna
-│      └──clear
-│         ├── hotels-vienna.csv
-│         ├── hotels-vienna_cleaning.do
-│         ├── hotels-vienna_cleaning.R
-│         ├── README.txt
-│         └── VARIABLES.xls
-│      └──raw
-│         ├── hotelbookingdata-vienna.csv
-│         ├── README.txt
-│         └── vienna_filter.R
-│  └──hotels-europe
-|  └──... (other datasets)
-│   
-├──da_case_studies
-│  └──ch00-tech-prep
-|      ├──ch00_install_libraries.do
-|      ├──da_helper_functions.do
-|      ├──da_helper_functions.R
-|      ├──ch00_install_libraries.R
-|      └──theme_bg.R
-│  └── ... (other case studies)
-|  └──ch07-hotel-simple-reg
-│      ├── ch07-hotel-simple-reg_intro.do
-│      ├── ch07-hotel-simple-reg_intro.R
-│      └──ch07-hotel-simple-reg_intro.ipynb
-```
+da_case_studies  
+├── set-data-directory.do
+├── set-data-directory.R
+|
+├──ch00-tech-prep
+|   ├── ch00_install_libraries.do
+|   ├── ch00_install_libraries.R
+|   ├── da_helper_functions.do
+|   ├── da_helper_functions.R
+|   └── theme_bg.R
+|
+├──... (other case studies)
+|
+├──ch07-hotel-simple-reg
+│   ├── ch07-hotel-simple-reg_intro.do
+|   ├── ch07-hotel-simple-reg_intro.R
+│   ├── ch07-hotel-simple-reg_intro.ipynb
+|   |
+|   ├── hotels-work.csv
+|   |
+|   └── output
+|       ├── ch07_graph1.png
+|       ├── ch07_graph2.png
+|       ├── ch07_table1.tex
+|       └── ...
+|
+├──... (other case studies)
 
+
+```
 
 
 ## Setting up to run code

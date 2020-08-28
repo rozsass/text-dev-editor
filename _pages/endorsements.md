@@ -14,3 +14,6 @@ Christian Fons-Rosen, Assistant Professor of Economcs, University of California 
 
 
 More endorsements are comming...
+
+
+You can see a [list of programs](/courses-using/) that are using this textbook. 

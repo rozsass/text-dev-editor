@@ -27,3 +27,6 @@ Example sequences
 
 ## FAQ for Instructors
 [Questions and answers for a variety of course and program types](/instructor-faq/)
+
+## Early adopters
+You can see a [list of programs](/courses-using/) that are using this textbook. 

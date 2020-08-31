@@ -36,42 +36,82 @@ The unit of observation in the data is an airline ticket.  After sample design, 
 
 
 ## arizona-electricity
-**Content and coverage**: xx
+**Content and coverage**: The arizona-electricity dataset includes monthly residential electricity consumption data for Arizona state and monthly weather data with “cooling degree days” and “heating degree days” for Phoenix Airport. The dataset has N=204 observations.
 
-**Key variables**:
+**Key variables**: monthly residential electricity consumption (GWh), monthly cooling degree days and monthly heating degree days.
 
 **Used in case studies**: 
-[](link)   
+[Electricity consumption and temperature](link)   
 
-**Source**:Downloaded from []()  
-**Copyright**: N/A 
+**Source**:Downloaded from web [US Energy Information Administration (EIA)](https://www.eia.gov/) and [National Oceanic and Atmospheric Administration (NOAA)](https://w2.weather.gov/climate/xmacis.php?wfo=psr)  
+**Copyright**: EIA:[Public domain](https://www.eia.gov/about/copyrights_reuse.php) and NOAA:[Public domain](https://www.weather.gov/disclaimer)
 
 
 ## asia-industry
-Downloaded from the World Bank, World Development Indicators.
+
+**Content and coverage**:The asia-industry data consists of monthly time series of industrial production from four countries and monthly total imports into the USA. The dataset has N=243 observations.
+**Key variables**: industrial production of Thailand, Malaysia, Singapore and the Philippines, and total US imports (bn US dollars).
+**Used in case studies**:
+[Import demand and industrial production](link) 
+
+**Source**:Downloaded from web [The World Bank: World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)
+**Copyright**:[Creative Commons Attribution 4.0 International License (CC BY 4.0), with additional terms](https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets)
 
 ## australia-weather-forecasts
- Downloaded from the [Australian government](https://data.gov.au/data/data_set/weather-forecasting-verification-data-2015-05-to-2016-04). The file is called "bometa20150501-20160430.zip"
+ 
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Downloaded from the [Australian government](https://data.gov.au/data/data_set/weather-forecasting-verification-data-2015-05-to-2016-04). The file is called "bometa20150501-20160430.zip"
+**Copyright**:
 
 ## billion-prices
-From the paper [QJE]
 
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From the paper [QJE]
+**Copyright**:
 
 ## bisnode-firms
-From Bisnode Europe.
 
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From Bisnode Europe.
+**Copyright**:
 
 ## case-shiller-la
-From the St Louis FED system, called [FRED](fred.org)
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From the St Louis FED system, called [FRED](fred.org)
+**Copyright**:
 
 ## city-size-japan
-From [Wikipedia]
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From [Wikipedia]
+**Copyright**:
 
 ## cps-earnings
-From the CPS MORG
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From the CPS MORG
+**Copyright**:
 
 ## food-health
-Downloaded and combined from NHANES
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Downloaded and combined from NHANES
+**Copyright**:
 
 ## football
 This combines data tables from two sources. Managers data comes from [wikipedia](
@@ -79,42 +119,112 @@ https://en.wikipedia.org/wiki/List_of_Premier_League_managers)
 downloaded in July 1, 2019. Game results come from [football-data.co.uk website](
 https://www.football-data.co.uk/englandm.php)
 annual data downloaded (1 August 2019) and then merged.
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:
+**Copyright**:
 
 ## haiti-earthquake
-From the paper
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From the paper
+**Copyright**:
 
 ## height-income-distributions
-From 
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:
+**Copyright**:
 
 ## hotels-europe
-Scraped by authors
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Scraped by authors
+**Copyright**:
 
 ## hotels-vienna
-Scraped by authors
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Scraped by authors
+**Copyright**:
 
 ## sp500
-From Yahoo Finance
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From Yahoo Finance
+**Copyright**:
 
 ## share-health
-From SHARE
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From SHARE
+**Copyright**:
 
 ## stocks-sp500
-From Yahoo Finance
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From Yahoo Finance
+**Copyright**:
+
 
 ## swim-transactions
-From the Albuquerque (New Mexico, USA) city open data project. *Thanks to the city for help!*
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From the Albuquerque (New Mexico, USA) city open data project. *Thanks to the city for help!*
+**Copyright**:
+
 
 ## used-cars
-Scraped by authors
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Scraped by authors
+**Copyright**:
+
 
 ## wms-management-survey
-Prepared for this study by World Management Survey project. *Thanks to Scur, Bloom and Van Reenen!*
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Prepared for this study by World Management Survey project. *Thanks to Scur, Bloom and Van Reenen!*
+**Copyright**:
 
 ## working-from-home
-From paper by Bloom et al in [Quarterly Journal of Economics]
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:From paper by Bloom et al in [Quarterly Journal of Economics]
+**Copyright**:
 
 ## world-bank-immunization
-Downloaded from the World Bank, World Development Indicators.
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Downloaded from the World Bank, World Development Indicators.
+**Copyright**:
 
 ## worldbank-lifeexpectancy
-Downloaded from the World Bank, World Development Indicators.
+
+**Content and coverage**:
+**Key variables**:
+**Used in case studies**: 
+**Source**:Downloaded from the World Bank, World Development Indicators.
+**Copyright**:

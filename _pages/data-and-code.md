@@ -125,3 +125,17 @@ This textbook is coding language neutral. Our code is written in all three most 
 [How to set up for Stata?](/howto-stata/)  
 [How to set up for R?](/howto-r/)  
 [How to set up for Python?](/howto-python/)  
+
+
+## Differences in output
+The graphs and results in the textbook come from R. However, most results and graphs should be the same when running from Stata or Python.
+
+There could some differences across output from different languages.
+1. Graphs may vary as some settings vary. We made a great effort to reduce this as much as possible - sometimes adding more paramateres to graph making bits than we would normally do. 
+2. Whenever there is any randomization in the background, results will indeed differ (example is cross-validation)
+3. Some minor differences are caused by variation in some defaults in some formula, such as degree of freedom (example is BIC)
+
+
+
+
+

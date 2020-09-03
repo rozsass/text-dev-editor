@@ -40,7 +40,9 @@ As the most effective way to communicate data analysis, running case studies pla
 [MORE endorsements](endorsements)
 
 ## Preorder
- [Cambridge University Press]((https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC),  [Amazon.com](https://www.amazon.com/Data-Analysis-Business-Economics-Policy-dp-1108716202/dp/1108716202/ref=mt_other?_encoding=UTF8&me=&qid=1592915211)  
+
+ [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC)  
+ [Amazon.com](https://www.amazon.com/Data-Analysis-Business-Economics-Policy-dp-1108716202/dp/1108716202/ref=mt_other?_encoding=UTF8&me=&qid=1592915211)    
 [Preorder -- global options](preorder)
 
 ## Why use this book?

@@ -7,7 +7,8 @@ redirect_from:
   - /preorder.html
 ---
 
-##Preorder
+## Preorder
+
  USA: [Amazon.com](https://www.amazon.com/Data-Analysis-Business-Economics-Policy-dp-1108716202/dp/1108716202/ref=mt_other?_encoding=UTF8&me=&qid=1592915211), [Barnes and Noble](https://www.barnesandnoble.com/w/data-analysis-for-business-economics-and-policy-g-bor-b-k-s/1137387367?ean=9781108716208)  
 
  UK:[Amazon.co.uk](https://www.amazon.co.uk/Data-Analysis-Business-Economics-Policy/dp/1108716202), [Foyles](https://www.foyles.co.uk/witem/business/data-analysis-for-business,gabor-bekes-gabor-kezdi-9781108716208), [Watersones](https://www.waterstones.com/book/data-analysis-for-business-economics-and-policy/gabor-bekes/gabor-kezdi/9781108716208), [WHSmith]()            

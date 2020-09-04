@@ -24,120 +24,134 @@ redirect_from:
 
 ## US-airlines
 **Content and coverage**: The US-airlines dataset is a 10 percent sample of all tickets sold on the US market taken in each quarter, starting with 2010. For a single quarter, the raw data on tickets has about 3–3.5 million observations. The total data used for the case study has the size of around 15 GB.
-The unit of observation in the data is an airline ticket.  After sample design, the dataset has N=112632 observations.
+The unit of observation in the data is an airline ticket. The dataset has N=112632 observations.  
 
 **Key variables**: the airports visited including the origin and all subsequent airports, ticket price, number of passengers and airline.
 
 **Used in case studies**: 
 [How does a merger between airlines affect prices?](link) 
 
-**Source**:Downloaded from web [US Bureau of Transportation Statistics](https://www.transtats.bts.gov/DatabaseInfo.asp?DB_ID=125)  
+**Source**:Downloaded from the [US Bureau of Transportation Statistics](https://www.transtats.bts.gov/DatabaseInfo.asp?DB_ID=125)  
 **Copyright**: N/A 
 
 
 ## arizona-electricity
-**Content and coverage**: The arizona-electricity dataset includes monthly residential electricity consumption data for Arizona state and monthly weather data with “cooling degree days” and “heating degree days” for Phoenix Airport. The dataset has N=204 observations.
+**Content and coverage**: The arizona-electricity dataset includes monthly residential electricity consumption data for Arizona state and monthly weather data with cooling degree days and heating degree days for Phoenix Airport. The dataset has N=204 observations.
 
-**Key variables**: monthly residential electricity consumption (GWh), monthly cooling degree days and monthly heating degree days.
+**Key variables**: monthly residential electricity consumption, monthly cooling degree days and monthly heating degree days.  
 
 **Used in case studies**: 
-[Electricity consumption and temperature](link)   
+[Electricity consumption and temperature](link)     
 
-**Source**:Downloaded from web [US Energy Information Administration (EIA)](https://www.eia.gov/) and [National Oceanic and Atmospheric Administration (NOAA)](https://w2.weather.gov/climate/xmacis.php?wfo=psr)  
-**Copyright**: EIA:[Public domain](https://www.eia.gov/about/copyrights_reuse.php) and NOAA:[Public domain](https://www.weather.gov/disclaimer)
+**Source**:Downloaded from the [US Energy Information Administration (EIA)](https://www.eia.gov/) and [National Oceanic and Atmospheric Administration (NOAA)](https://w2.weather.gov/climate/xmacis.php?wfo=psr)  
+**Copyright**: EIA:[Public domain](https://www.eia.gov/about/copyrights_reuse.php) and NOAA:[Public domain](https://www.weather.gov/disclaimer)  
 
 
 ## asia-industry
-
-**Content and coverage**:The asia-industry data consists of monthly time series of industrial production from four countries and monthly total imports into the USA. The dataset has N=243 observations.
-**Key variables**: industrial production of Thailand, Malaysia, Singapore and the Philippines, and total US imports (bn US dollars).
+**Content and coverage**: The asia-industry data consists of monthly time series of industrial production from four countries and monthly total imports into the USA. The dataset has N=243 observations.  
+**Key variables**: industrial production of Thailand, Malaysia, Singapore and the Philippines, and total US imports (bn US dollars).  
 **Used in case studies**:
-[Import demand and industrial production](link) 
+[Import demand and industrial production](link)  
 
-**Source**:Downloaded from web [The World Bank: World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)
-**Copyright**:[Creative Commons Attribution 4.0 International License (CC BY 4.0), with additional terms](https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets)
+**Source**:Downloaded from [The World Bank: World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)  
+**Copyright**:[Creative Commons Attribution 4.0 International License (CC BY 4.0), with additional terms](https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets)  
 
 ## australia-weather-forecasts
  
-**Content and coverage**:
-**Key variables**:
-**Used in case studies**: 
-**Source**:Downloaded from the [Australian government](https://data.gov.au/data/data_set/weather-forecasting-verification-data-2015-05-to-2016-04). The file is called "bometa20150501-20160430.zip"
-**Copyright**:
+**Content and coverage**: The australia-weather-forecasts dataset includes data on daily rain forecasts and actual rain for the Northern
+Australian city of Darwin. The dataset has N=350 observations.  
+**Key variables**: actual frequency of rain, predictions of rain.  
+**Used in case studies**:
+[Are Australian weather forecasts well calibrated?](link)
+
+**Source**:Downloaded from the [Australian government](https://data.gov.au/data/dataset/weather-forecasting-verification-data-2015-05-to-2016-04). The file is called "bometa20150501-20160430.zip".  
+**Copyright**:[Creative Commons Attribution Share-Alike 3.0 Australia]  
 
 ## billion-prices
+**Content and coverage**: The billion-prices data includes online and offline prices of selected products sold by selected retailers in the USA. The dataset has N=6439 observations.  
+**Key variables**: online-offline price difference (US dollars).  
+**Used in case studies**:  
+[Comparing online and offline prices: data collection](link)  
+[Comparing online and offline prices: testing the difference](link)   
 
-**Content and coverage**:
-**Key variables**:
-**Used in case studies**: 
-**Source**:From the paper [QJE]
-**Copyright**:
+**Source**: From the paper [Cavallo, Alberto, 2016, "Cavallo (2017) "Are Online and Offline Prices Similar? Evidence from Large Multi-Channel Retailers" - American Economic Review - Vol. 107(1), p.283–303", https://doi.org/10.7910/DVN/XXOUHF, Harvard Dataverse, V4]   
+**Copyright**:[CC0 Public Domain](https://dataverse.org/best-practices/dataverse-community-norms)  
 
 ## bisnode-firms
-
-**Content and coverage**:
-**Key variables**:
+**Content and coverage**: The bisnode-firms data includes wide-ranging business information on firms operating in a few industries in manufacturing and services in a European country. The dataset has N=19036 observations.   
+**Key variables**: many variables that fall into four groups: firm size, management, financial variables, and other characteristics.    
 **Used in case studies**: 
-**Source**:From Bisnode Europe.
+[Predicting firm exit: probability and classification](link)  
+
+**Source**: From Bisnode, a major European business information company.  
 **Copyright**:
 
 ## case-shiller-la
-
-**Content and coverage**:
-**Key variables**:
+**Content and coverage**: The case-shiller-la data includes monthly time series of the S&P/Case-Shiller Greater Los Angeles Home Price Index and monthly time series of unemployment rate and total employment for California. The dataset has N=216 observations.  
+**Key variables**: Case-Shiller Home Price Index, unemployment rate, total employment.  
 **Used in case studies**: 
-**Source**:From the St Louis FED system, called [FRED](fred.org)
-**Copyright**:
+[Forecasting a home price index](link)  
+
+**Source**:S&P Dow Jones Indices LLC, S&P/Case-Shiller CA-Los Angeles Home Price Index [LXXRNSA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/LXXRNSA, September 1, 2020.   
+**Copyright**:  
 
 ## city-size-japan
-
-**Content and coverage**:
-**Key variables**:
+**Content and coverage**: The city-size-japan data includes population data on Japanese cities. The dataset has N=159 observations.  
+**Key variables**: rank and population of Japanese cities.  
 **Used in case studies**: 
-**Source**:From [Wikipedia]
-**Copyright**:
+[City size distribution in Japan](link)  
+
+**Source**:From Wikipedia contributors. (2020, August 4). List of cities in Japan. In Wikipedia, The Free Encyclopedia. Retrieved 14:09, September 2, 2020, from https://en.wikipedia.org/w/index.php?title=List_of_cities_in_Japan&oldid=971071171.  
+**Copyright**:[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)  
 
 ## cps-earnings
-
-**Content and coverage**:
-**Key variables**:
+**Content and coverage**: The cps-earnings data includes earnings data for 2014, taken from the Merged Outgoing Rotation Groups (MORG) datasets of the Current Population Survey (CPS) of the USA. The dataset has N=149316 observations.    
+**Key variables**: female-male wage difference among market analysts, hourly wage and age of market analysts, age and gender of employees with a graduate degree, three categories of graduate degree (master's, professional and PhDs).    
 **Used in case studies**: 
-**Source**:From the CPS MORG
-**Copyright**:
+[Estimating gender and age differences in earnings](link)  
+[Understanding the gender difference in earnings](link)    
+
+**Source**: Downloaded from the [National Bureau of Economic Research](https://data.nber.org/morg/annual/)  
+**Copyright**:[No copyright restrictions on extracts use.](https://data.nber.org/data/morg.html)  
 
 ## food-health
+**Content and coverage**: The food-health data includes data on the health status of the population in the USA. The dataset has N=7358 observations.   
+**Key variables**: blood pressure, fruit and vegetables consumed per day, household income, days per week of exercising.  
+**Used in case studies**:   
+[Food and health](link)  
 
-**Content and coverage**:
-**Key variables**:
-**Used in case studies**: 
-**Source**:Downloaded and combined from NHANES
-**Copyright**:
+**Source**: Downloaded and combined from the [National Health and Nutrition Examination Survey (NHANES) of the CDC’s National Center for Health Statistics (NCHS)(https://wwwn.cdc.gov/nchs/nhanes/Default.aspx)    
+**Copyright**: CDC:[Public domain](https://www.cdc.gov/other/agencymaterials.html)
 
 ## football
-This combines data tables from two sources. Managers data comes from [wikipedia](
-https://en.wikipedia.org/wiki/List_of_Premier_League_managers)
-downloaded in July 1, 2019. Game results come from [football-data.co.uk website](
-https://www.football-data.co.uk/englandm.php)
-annual data downloaded (1 August 2019) and then merged.
-**Content and coverage**:
-**Key variables**:
-**Used in case studies**: 
-**Source**:
-**Copyright**:
+**Content and coverage**: The football data includes data on games and teams of the English Premier League, the top football division in England. The dataset covers 11 seasons: from 2008/2009 to 2018/19.   
+**Key variables**: home team - away team goal difference, average points before and after manager change.  
+**Used in case studies**:  
+[Identifying successful football managers](link)  
+[Measuring home team advantage in football](link)  
+[Estimating the impact of replacing football team managers](link)  
+
+**Source**: Game results come from [football-data.co.uk website](https://www.football-data.co.uk/englandm.php). Managers data come from [Wikipedia contributors. (2020, August 15). List of Premier League managers. In Wikipedia, The Free Encyclopedia. Retrieved July 1, 2019], from (https://en.wikipedia.org/w/index.php?title=List_of_Premier_League_managers&oldid=973167455).  
+     
+**Copyright**:[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)  
+
 
 ## haiti-earthquake
 
 **Content and coverage**:
-**Key variables**:
-**Used in case studies**: 
-**Source**:From the paper
+**Key variables**: total GDP in Haiti and synthetic Haiti (bn US dollars).  
+**Used in case studies**:  
+[Estimating the effect of the 2010 Haiti earthquake on GDP](link)  
+
+**Source**: Based on and used the same data source as the paper [Best, R., & Burke, P. J. (2019). Macroeconomic impacts of the 2010 earthquake in Haiti. Empirical Economics, 56(5), 1647–1681.](https://doi.org/10.1007/s00181-017-1405-4)   
 **Copyright**:
 
 ## height-income-distributions
 
 **Content and coverage**:
 **Key variables**:
-**Used in case studies**: 
+**Used in case studies**:  
+[Distributions of body height and income](link)   
 **Source**:
 **Copyright**:
 

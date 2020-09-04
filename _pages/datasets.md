@@ -140,12 +140,12 @@ Australian city of Darwin. The dataset has N=350 observations.
 
 ## haiti-earthquake
 
-**Content and coverage**:
+**Content and coverage**: The haiti-earthquake data includes economic indicators for Haiti and 21 other countries for 2004-2015.  
 **Key variables**: total GDP in Haiti and synthetic Haiti (bn US dollars).  
 **Used in case studies**:  
 [Estimating the effect of the 2010 Haiti earthquake on GDP](link)  
 
-**Source**: Based on and used the same data source as the paper [Best, R., & Burke, P. J. (2019). Macroeconomic impacts of the 2010 earthquake in Haiti. Empirical Economics, 56(5), 1647–1681.](https://doi.org/10.1007/s00181-017-1405-4)   
+**Source**: Used the same data source as the paper [Best, R., & Burke, P. J. (2019). Macroeconomic impacts of the 2010 earthquake in Haiti. Empirical Economics, 56(5), 1647–1681.](https://doi.org/10.1007/s00181-017-1405-4)   
 **Copyright**:
 
 ## height-income-distributions

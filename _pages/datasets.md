@@ -87,12 +87,12 @@ Australian city of Darwin. The dataset has N=350 observations.
 **Copyright**:
 
 ## case-shiller-la
-**Content and coverage**: The case-shiller-la data includes monthly time series of the S&P/Case-Shiller Greater Los Angeles Home Price Index and monthly time series of unemployment rate and total employment for California. The dataset has N=216 observations.  
+**Content and coverage**: The case-shiller-la data includes monthly time series of the S&P/Case-Shiller Greater Los Angeles Home Price Index and monthly time series of unemployment rate and total employment for California. The dataset covers 1990-2018 period.  
 **Key variables**: Case-Shiller Home Price Index, unemployment rate, total employment.  
 **Used in case studies**: 
 [Forecasting a home price index](link)  
 
-**Source**:S&P Dow Jones Indices LLC, S&P/Case-Shiller CA-Los Angeles Home Price Index [LXXRNSA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/LXXRNSA, September 1, 2020.   
+**Source**:S&P Dow Jones Indices LLC, S&P/Case-Shiller CA-Los Angeles Home Price Index [LXXRNSA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/LXXRNSA, December 1, 2019.   
 **Copyright**:  
 
 ## city-size-japan

@@ -103,7 +103,7 @@ Australian city of Darwin. The dataset has N=350 observations.
 **Used in case studies**: 
 [City size distribution in Japan](link)  
 
-**Source**:From Wikipedia contributors. (2020, August 4). List of cities in Japan. In Wikipedia, The Free Encyclopedia. Retrieved 14:09, September 2, 2020, from https://en.wikipedia.org/w/index.php?title=List_of_cities_in_Japan&oldid=971071171.  
+**Source**:From Wikipedia contributors. (2020, August 4). List of cities in Japan. In [Wikipedia, The Free Encyclopedia](https://en.wikipedia.org/w/index.php?title=List_of_cities_in_Japan&oldid=971071171). Retrieved 14:09, September 2, 2020..  
 **Copyright**:[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)  
 
 ## cps-earnings
@@ -133,9 +133,10 @@ Australian city of Darwin. The dataset has N=350 observations.
 [Measuring home team advantage in football](link)  
 [Estimating the impact of replacing football team managers](link)  
 
-**Source**: Game results come from [football-data.co.uk website](https://www.football-data.co.uk/englandm.php). Managers data come from [Wikipedia contributors. (2020, August 15). List of Premier League managers. In Wikipedia, The Free Encyclopedia. Retrieved July 1, 2019], from (https://en.wikipedia.org/w/index.php?title=List_of_Premier_League_managers&oldid=973167455).  
-     
-**Copyright**:[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)  
+**Source 1**: Game results come from [football-data.co.uk website](https://www.football-data.co.uk/englandm.php). 
+**Copyright 1**: N/A
+**Source 2** Managers data come from [Wikipedia contributors. (2020, August 15). List of Premier League managers. In [Wikipedia, The Free Encyclopedia](https://en.wikipedia.org/w/index.php?title=List_of_Premier_League_managers&oldid=973167455). Retrieved July 1, 2019].  
+**Copyright 2**:[Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)  
 
 
 ## haiti-earthquake

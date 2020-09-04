@@ -92,8 +92,10 @@ Australian city of Darwin. The dataset has N=350 observations.
 **Used in case studies**: 
 [Forecasting a home price index](link)  
 
-**Source**:S&P Dow Jones Indices LLC, S&P/Case-Shiller CA-Los Angeles Home Price Index [LXXRNSA].   Retrieved from FRED, [Federal Reserve Bank of St. Louis]( https://fred.stlouisfed.org/series/LXXRNSA);, December 1, 2019.   
-**Copyright**:  S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Los Angeles, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P".
+**Source** S&P Dow Jones Indices LLC, S&P/Case-Shiller CA-Los Angeles Home Price Index [LXXRNSA].   Retrieved from FRED, [Federal Reserve Bank of St. Louis]( https://fred.stlouisfed.org/series/LXXRNSA);, December 1, 2019.   
+**Copyright**:  S&P Dow Jones Indices LLC. All rights reserved. Reproduction of Home Price Index for Los Angeles, California in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P".  
+**Source 2** Employment data: U.S. Bureau of Labor Statistics.  
+**Copyright 2**: Public domain. 
 
 ## city-size-japan
 **Content and coverage**: The city-size-japan data includes population data on Japanese cities. The dataset has N=159 observations.  

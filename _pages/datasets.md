@@ -146,39 +146,55 @@ Australian city of Darwin. The dataset has N=350 observations.
 **Used in case studies**:  
 [Estimating the effect of the 2010 Haiti earthquake on GDP](link)  
 
-**Source**: Used the same data source as the paper [Best, R., & Burke, P. J. (2019). Macroeconomic impacts of the 2010 earthquake in Haiti. Empirical Economics, 56(5), 1647–1681.](https://doi.org/10.1007/s00181-017-1405-4)   
-**Copyright**:
+**Source**: [Data and code available from authors Best, R. and Burke, P. J.](https://www.dropbox.com/s/h70hvaf2xetrsq8/Best_Burke.zip?dl=0)    
+**Copyright**:N/A  
 
 ## height-income-distributions
 
-**Content and coverage**:
-**Key variables**:
+**Content and coverage**: The height-income-distributions data includes data on height and household income retrieved from the Health and Retirement Study taken in 2014 in the USA. The dataset has N=1988 observations.    
+**Key variables**: height and household income.  
 **Used in case studies**:  
-[Distributions of body height and income](link)   
+[Distributions of body height and income](link)
+
 **Source**:
-**Copyright**:
+**Copyright**:  
 
 ## hotels-europe
 
-**Content and coverage**:
-**Key variables**:
-**Used in case studies**: 
-**Source**:Scraped by authors
-**Copyright**:
+**Content and coverage**: The hotels-europe data includes information on price and features of hotels in 46 cities and for 10 different dates. 
+**Key variables**: hotel price, hotel's distrance from the center of the city.  
+**Used in case studies**:  
+[Comparing hotel prices in Europe: Vienna vs. London](link)  
+[How stable is the hotel price - distance to center relationship?](link)  
+
+**Source**: Authors' collection.  
+**Copyright**: N/A  
 
 ## hotels-vienna
 
-**Content and coverage**:
-**Key variables**:
+**Content and coverage**: The hotels-vienna data includes information on price and features of hotels in Vienna for ??? dates.  
+**Key variables**: hotel price, hotel's distrance from the center of the city.  
 **Used in case studies**: 
-**Source**:Scraped by authors
-**Copyright**:
+[Finding a good deal among hotels: data collection](link)  
+[Finding a good deal among hotels: data preparation](link)  
+[Finding a good deal among hotels: data exploration](link)  
+[Finding a good deal among hotels with simple regression](link)  
+[Measurement error in hotel ratings](link)  
+[Finding a good deal among hotels with non-linear function](link)  
+[Finding a good deal among hotels with multiple regression](link)  
+
+**Source**: Authors' collection.  
+**Copyright**: N/A  
 
 ## sp500
 
-**Content and coverage**:
-**Key variables**:
+**Content and coverage**: The sp500 data includes day-to-day returns on the S&P 500 stock market index defined as percentage changes in
+the closing price of the index between two consecutive days. The dataset has N=2519 observations.  
+**Key variables**: percent of days with losses of 5% or more.  
 **Used in case studies**: 
+[What likelihood of loss to expect on a stock portfolio?](link)  
+[Testing the likelihood of loss on a stock portfolio](link)  
+
 **Source**:From Yahoo Finance
 **Copyright**:
 
@@ -210,8 +226,8 @@ Australian city of Darwin. The dataset has N=350 observations.
 **Content and coverage**:
 **Key variables**:
 **Used in case studies**: 
-**Source**:Scraped by authors
-**Copyright**:
+**Source**: Authors' collection.  
+**Copyright**: N/A  
 
 
 ## wms-management-survey
@@ -220,7 +236,7 @@ Australian city of Darwin. The dataset has N=350 observations.
 **Key variables**:
 **Used in case studies**: 
 **Source**:Prepared for this study by World Management Survey project. *Thanks to Scur, Bloom and Van Reenen!*
-**Copyright**:
+**Copyright**: N/A  
 
 ## working-from-home
 

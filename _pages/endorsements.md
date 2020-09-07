@@ -9,7 +9,8 @@ redirect_from:
 
 
 
->**"This exciting new text covers everything today's aspiring data scientist needs to know, managing to be comprehensive as well as accessible.Like a good confidence interval, the Gabors have got you almost completely covered!"**  
+>**"This exciting new text covers everything today's aspiring data scientist needs to know, managing to be comprehensive as well as accessible.  
+Like a good confidence interval, the Gabors have got you almost completely covered!"**  
 [Joshua Angrist](https://economics.mit.edu/faculty/angrist), MIT Economics
 
 

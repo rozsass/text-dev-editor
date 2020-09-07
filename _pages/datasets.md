@@ -195,22 +195,25 @@ the closing price of the index between two consecutive days. The dataset has N=2
 [What likelihood of loss to expect on a stock portfolio?](link)  
 [Testing the likelihood of loss on a stock portfolio](link)  
 
-**Source**:From Yahoo Finance
+**Source**:  
 **Copyright**:
 
 ## share-health
 
 **Content and coverage**:
 **Key variables**:
-**Used in case studies**: 
+**Used in case studies**:  
+[Does smoking pose a health risk?](link)  
+ 
 **Source**:From SHARE
-**Copyright**:
+**Copyright**:  
 
 ## stocks-sp500
 **Content and coverage**:
 **Key variables**:
-**Used in case studies**: 
-**Source**:From Yahoo Finance
+**Used in case studies**:  
+
+**Source**:
 **Copyright**:
 
 
@@ -235,7 +238,7 @@ the closing price of the index between two consecutive days. The dataset has N=2
 **Content and coverage**:
 **Key variables**:
 **Used in case studies**: 
-**Source**:Prepared for this study by World Management Survey project. *Thanks to Scur, Bloom and Van Reenen!*
+**Source**:Prepared for this study by [World Management Survey](https://worldmanagementsurvey.org/) project. (Thanks for Scur, Bloom and Van Reenen.) 
 **Copyright**: N/A  
 
 ## working-from-home

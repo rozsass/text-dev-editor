@@ -161,7 +161,7 @@ The case study is based on [Best, R., & Burke, P. J. (2019). Macroeconomic impac
 
 ## hotels-europe
 
-**Content and coverage**: The hotels-europe data includes information on price and features of hotels in 46 cities and for 10 different dates. 
+**Content and coverage**: The hotels-europe data includes information on price and features of hotels in 46 European cities and for 10 different dates. 
 **Key variables**: hotel price, hotel's distance from the center of the city.  
 **Used in case studies**:  
 [Comparing hotel prices in Europe: Vienna vs. London](link)  

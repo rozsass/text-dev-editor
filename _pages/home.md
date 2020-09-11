@@ -16,7 +16,7 @@ redirect_from:
 
 
 ![cup](images/cup1.png){:height="50%" width="50%"}  
- [Forthcoming in January 2021!](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC)
+ [Forthcoming in January 2021!](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC){:target="_blank"}
 
 
 
@@ -41,9 +41,9 @@ As the most effective way to communicate data analysis, running case studies pla
 
 ## Preorder
 
- [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC)  
- [Amazon.com](https://www.amazon.com/Data-Analysis-Business-Economics-Policy-dp-1108716202/dp/1108716202/ref=mt_other?_encoding=UTF8&me=&qid=1592915211)    
-[Preorder -- global options](preorder)
+ [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC){:target="_blank"}   
+ [Amazon.com](https://www.amazon.com/Data-Analysis-Business-Economics-Policy-dp-1108716202/dp/1108716202/ref=mt_other?_encoding=UTF8&me=&qid=1592915211){:target="_blank"}       
+[Global options](preorder)
 
 ## Why use this book?
 
@@ -72,19 +72,18 @@ This textbook was written to be a **complete course** in data analysis. This tex
 ## About authors
 
 ### Gábor Békés
-Gábor Békés is an Assistant Professor at the Department of Economics and Business of the [Central European University](https://economics.ceu.edu/) and director of the [MS in Business Analytics](https://economics.ceu.edu/program/master-science-business-analytics) program. He is a senior fellow at KRTK and a research affiliate at the Center for Economic Policy Research (CEPR). He published in top economics journals on multinational firm activities and productivity, business clusters, and innovation spillovers. He managed international data collection projects on firm performance and supply chains. He has done both policy advising (the European Commission, ECB) as well as private sector consultancy (in finance, business intelligence and real estate). He has taught graduate-level data analysis and economic geography courses since 2012. [Personal website](https://sites.google.com/site/bekesg)
+Gábor Békés is an Assistant Professor at the Department of Economics and Business of the [Central European University](https://economics.ceu.edu/) and director of the [MS in Business Analytics](https://economics.ceu.edu/program/master-science-business-analytics) program. He is a senior fellow at KRTK and a research affiliate at the Center for Economic Policy Research (CEPR). He published in top economics journals on multinational firm activities and productivity, business clusters, and innovation spillovers. He managed international data collection projects on firm performance and supply chains. He has done both policy advising (the European Commission, ECB) as well as private sector consultancy (in finance, business intelligence and real estate). He has taught graduate-level data analysis and economic geography courses since 2012. [Personal website](https://sites.google.com/site/bekesg){:target="_blank"}
 
 ![gabors](images/gaborok-balaton2a.png){:height="80%" width="80%"}
 
 
 ### Gábor Kézdi
-Gábor Kézdi is a Research Associate Professor at the University of Michigan’s [Institute for Social Research](https://isr.umich.edu/). He published in top journals in economics, statistics, and political science on topics including household finances, health, education, demography, and ethnic disadvantages and prejudice. He has managed several data collection projects in Europe; currently, he is co-investigator of the [Health and Retirement Study](https://hrs.isr.umich.edu/about) in the U.S.  He has consulted various governmental and non-governmental institutions on the disadvantage of the Roma minority and the evaluation of social interventions. He has taught data analysis, econometrics, and labor economics from undergraduate to Ph.D. levels since 2002 and supervised a number of MA and PhD students.  [Personal website](https://sites.google.com/site/gaborkezdi/home?authuser=1)
+Gábor Kézdi is a Research Associate Professor at the University of Michigan’s [Institute for Social Research](https://isr.umich.edu/). He published in top journals in economics, statistics, and political science on topics including household finances, health, education, demography, and ethnic disadvantages and prejudice. He has managed several data collection projects in Europe; currently, he is co-investigator of the [Health and Retirement Study](https://hrs.isr.umich.edu/about) in the U.S.  He has consulted various governmental and non-governmental institutions on the disadvantage of the Roma minority and the evaluation of social interventions. He has taught data analysis, econometrics, and labor economics from undergraduate to Ph.D. levels since 2002 and supervised a number of MA and PhD students.  [Personal website](https://sites.google.com/site/gaborkezdi/home?authuser=1){:target="_blank"}
 
 
 ## Chapter summaries
 
-For a description of all 24 chapters, check out [Chapter summaries](/chapters)
-
+For a description of all 24 chapters, check out [Chapter summaries](/chapters)   
 To see content of the textbook, you may simply download the [Table of contents](files/toc.pdf).
 
 <!---
@@ -99,17 +98,21 @@ For summaries, check out  [Material for case studies](/casestudies)
 You may also download a pdf with a [summary of case studies](casestudy-summaries.pdf)
 -->
 
+## Code
 
-## Data and code
-
-We provide access to get all the data and code we used. You can download data by topics, all get them together in a zipped file. You can get code also one by one or in a zipped file.
-
-Code is available in R, Stata (except for machine learning) and Python (mostly). For more check out the [Data and code](/data-and-code) page.
-
+We provide access to get all the code we used.   
+Code is available in R, Stata (except for machine learning) and Python. For more check out the [Data and code](/data-and-code) page.  
 **Update**: Public github repo with 0.9 versions: in September 2020. First release: November 2020.
+
+## Datasets
+
+We provide access to get all the data we used.   
+For summaries, check out  [Dataset summaries](/datasets)
+**Update**: Public Google drive repo with 0.9 versions: in September 2020. First release: November 2020.
+
 
 ## Teaching material
 
 We will provide 24 [slideshows](/materials) for the 24 chapters. 
 
-We will provide answers to all 360 practice questions for instructors at the [Cambridge UP website](https://www.cambridge.org/hu/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=PB)
+We will provide answers to all 360 practice questions for instructors at the [Cambridge UP website](https://www.cambridge.org/hu/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=PB){:target="_blank"}

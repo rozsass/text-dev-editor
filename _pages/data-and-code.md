@@ -12,32 +12,32 @@ redirect_from:
 
 {% include base_path %}
 
->## *Publish the data and code or it didn't happen* [*](http://freerangestats.info/blog/2020/05/30/implausible-health-data-firm)
+>## *Publish the data and code or it didn't happen* [^](http://freerangestats.info/blog/2020/05/30/implausible-health-data-firm)
 
 
 Get the raw data and the cleaning codes that created the datasets used for analyis.
 
-
-**NOTE: codes and data should be made available in the Fall 2020. Please check back in October 2020**
+**NOTE: codes and data should be made available in a more structured way in November 2020. Please check back.**
 
 
 ## Getting Data
 
-You have two options to get the datasets for our case studies.
+Youw ill  have two options to get the datasets for our case studies.
 
-1. Download all the data [Data-all](data-zip-all). Note that this is a very large zipped file - `release 1.0 (2020-11-21)`
-2. Download data one by one [from the Datasets page](/datasets) and copy to the dataset folder
+1. Download all the data [Data-all](data-zip-all). Note that this is a very large zipped file. Forthcoming in November 2020: - `release 1.0 (2020-11-21)`
+2. Download data one by one [from the Datasets page](/datasets) and copy to the dataset folder. Forthcoming in November 2020
 
+The **temporary solution** is that you can download the pre-release datasets from [Google Drive](https://drive.google.com/drive/u/2/folders/1g5j6v_WtB2lQDrSjpfhuw-P4s3Wm7Ucc){:target="_blank"}   
 
 
 ## Getting code
 
-You have two options to get code for our case studies.
+You will have two options to get code for our case studies. Forthcoming in November 2020
 
 1.  Download all code in [R](code-zip-r), [Stata](code-zip-stata), [Python](code-zip-python) --- `release 1.0 (2020-11-21)`
 2.  Download code one by one [from the Case studies page](/casestudies)
 
-3. [For instructors/advanced users], visit the github page where the live version of the code is available. Since the release, we are making small edits to the code, to make them simpler or faster.
+3. Visit the Github page [github.com/gabors-data-analysis/da_case_studies](https://github.com/gabors-data-analysis/da_case_studies){:target="_blank"} where the live version of the code is available. Since the release, we are making small edits to the code, to make them simpler or faster. **Live on 19 September 2020**. *For instructors/advanced users*
 
 
 ## Folder setup
@@ -125,6 +125,9 @@ This textbook is coding language neutral. Our code is written in all three most 
 [How to set up for Stata?](/howto-stata/)  
 [How to set up for R?](/howto-r/)  
 [How to set up for Python?](/howto-python/)  
+
+
+[Some advice on learning to code](/code-learn/)  
 
 
 ## Differences in output

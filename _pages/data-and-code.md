@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
->## *Publish the data and code or it didn't happen* [^](http://freerangestats.info/blog/2020/05/30/implausible-health-data-firm)
+>## *Publish the data and code or it didn't happen* [*](http://freerangestats.info/blog/2020/05/30/implausible-health-data-firm)
 
 
 Get the raw data and the cleaning codes that created the datasets used for analyis.

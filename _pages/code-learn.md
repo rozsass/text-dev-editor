@@ -1,5 +1,5 @@
 ---
-permalink: /code-learn
+permalink: /code-learn/
 title: "Learning to code"
 toc: false
 author_profile: false

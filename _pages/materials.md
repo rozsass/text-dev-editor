@@ -14,7 +14,7 @@ redirect_from:
 
 
 # How to to teach it?
-[How to teach this textbook for different courses](/teaching-guide/)
+This course may be used for a variety of courses, and it is needed used Management Phd, Applied Economics MA, Data Science MSc or even in Executive MBA. Let us offer some experience and advice on [how to teach this textbook for different courses](/teaching-guide/)
 
 
 # FAQ for Instructors
@@ -33,12 +33,12 @@ You can download sides Gábor B. used in 2019.  Very close to textbook chapters,
 
 
 ## II Regression analysis
-7 Simple regression  -- 
-8 Complicated patterns and messy data  -- 
-9 Generalizing results of a regression  -- 
-10 Multiple linear regression  -- 
-11 Modeling probabilities  -- 
-12 Regression with time series data  --
+7 Simple regression  -- [PDF](/files/BK_data_analysis_slides_ch07.pdf){:target="_blank"}  
+8 Complicated patterns and messy data  -- [PDF](/files/BK_data_analysis_slides_ch08.pdf){:target="_blank"}  
+9 Generalizing results of a regression  -- [PDF](/files/BK_data_analysis_slides_ch09.pdf){:target="_blank"}  
+10 Multiple linear regression  -- [PDF](/files/BK_data_analysis_slides_ch10.pdf){:target="_blank"}  
+11 Modeling probabilities  -- [PDF](/files/BK_data_analysis_slides_ch11.pdf){:target="_blank"}  
+12 Regression with time series data  -- [PDF](/files/BK_data_analysis_slides_ch12.pdf){:target="_blank"}  
 
 ## III Prediction
 13 A framework for prediction  -- 

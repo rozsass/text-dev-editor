@@ -25,6 +25,7 @@ There are two toungues in R, called *data.table* and *tidyverse*. We use *tidyve
 
 ## From Stata to R
 In Economics and many other social sciences, we use Stata for research, and learnt R or Python as a second language. Here are some links and tutorials we found useful.
+[Wonderful intro to R for Stata users by Matthieu Gomez](https://www.matthieugomez.com/statar/index.html){:target="_blank"}  
 [Basics of data wrangling from John Ricco](https://johnricco.github.io/2016/06/14/stata-dplyr/){:target="_blank"}  
 
 

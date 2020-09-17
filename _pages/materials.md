@@ -21,15 +21,16 @@ redirect_from:
 [Questions and answers for a variety of course and program types](/instructor-faq/)
 
 # Slides
-You can download sides Gábor B. used in 2019.  
+You can download sides Gábor B. used in 2019.  Very close to textbook chapters, but no exact match!
 
 ## I Data exploration  
-1 Origins of data  -- [PDF](/files/BK_data_analysis_slides_ch01.pdf)
-2 Preparing data for analysis -- [PDF](/files/BK_data_analysis_slides_ch02.pdf)
-3 Exploratory data analysis -- [[PDF](/files/BK_data_analysis_slides_ch03.pdf)
-4 Comparison and correlation -- [PDF](/files/BK_data_analysis_slides_ch04.pdf)  
-5 Generalizing from data -- [PDF](/files/BK_data_analysis_slides_ch05.pdf)
-6 Testing hypotheses -- [PDF](/files/BK_data_analysis_slides_ch06.pdf)
+1 Origins of data  -- [PDF](/files/BK_data_analysis_slides_ch01.pdf){:target="_blank"}  
+2 Preparing data for analysis -- [PDF](/files/BK_data_analysis_slides_ch02.pdf){:target="_blank"}  
+3 Exploratory data analysis -- [PDF](/files/BK_data_analysis_slides_ch03.pdf){:target="_blank"}  
+4 Comparison and correlation -- [PDF](/files/BK_data_analysis_slides_ch04.pdf){:target="_blank"}    
+5 Generalizing from data -- [PDF](/files/BK_data_analysis_slides_ch05.pdf){:target="_blank"}  
+6 Testing hypotheses -- [PDF](/files/BK_data_analysis_slides_ch06.pdf){:target="_blank"}  
+
 
 ## II Regression analysis
 7 Simple regression  -- 

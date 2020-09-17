@@ -21,38 +21,39 @@ redirect_from:
 [Questions and answers for a variety of course and program types](/instructor-faq/)
 
 # Slides
- 
-## I Data exploration  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-1 Origins of data  -- [pdf](/files/ch01-slides.pdf); [tex](/files/ch01-slides.tex)    
-2 Preparing data for analysis -- [**pdf**](/files/ch02-slides.pdf); [tex](/files/ch02-slides.tex)     
-3 Exploratory data analysis -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-4 Comparison and correlation -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-5 Generalizing from data -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)    -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-6 Testing hypotheses -- [pdf](ch01_slides.pdf); [tex]  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  (ch01_slides.tex)  
+You can download sides Gábor B. used in 2019.  
+
+## I Data exploration  
+1 Origins of data  -- [PDF](/files/BK_data_analysis_slides_ch01.pdf)
+2 Preparing data for analysis -- [PDF](/files/BK_data_analysis_slides_ch02.pdf)
+3 Exploratory data analysis -- [[PDF](/files/BK_data_analysis_slides_ch03.pdf)
+4 Comparison and correlation -- [PDF](/files/BK_data_analysis_slides_ch04.pdf)  
+5 Generalizing from data -- [PDF](/files/BK_data_analysis_slides_ch05.pdf)
+6 Testing hypotheses -- [PDF](/files/BK_data_analysis_slides_ch06.pdf)
 
 ## II Regression analysis
-7 Simple regression  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-8 Complicated patterns and messy data  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-9 Generalizing results of a regression  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-10 Multiple linear regression  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-11 Modeling probabilities  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-12 Regression with time series data  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
+7 Simple regression  -- 
+8 Complicated patterns and messy data  -- 
+9 Generalizing results of a regression  -- 
+10 Multiple linear regression  -- 
+11 Modeling probabilities  -- 
+12 Regression with time series data  --
 
 ## III Prediction
-13 A framework for prediction  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-14 Model building for prediction  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-15 Regression trees  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-16 Random forest and boosting  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-17 Probability prediction and classification  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-18 Forecasting from time series data  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
+13 A framework for prediction  -- 
+14 Model building for prediction  --
+15 Regression trees  -- 
+16 Random forest and boosting  -- 
+17 Probability prediction and classification  -- 
+18 Forecasting from time series data  -- 
 
 ## IV Causal analysis
-19 A framework for causal analysis  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-20 Designing and analyzing experiments  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-21 Regression and matching with observational data  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-22 Difference-in-differences  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-23 Methods for panel data  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
-24 Appropriate control groups for panel data  -- [pdf](ch01_slides.pdf); [tex](ch01_slides.tex)  
+19 A framework for causal analysis  
+20 Designing and analyzing experiments  --
+21 Regression and matching with observational data  -- 
+22 Difference-in-differences  -- 
+23 Methods for panel data  -- 
+24 Appropriate control groups for panel data  -- 
 
 
 # Extra practice questions

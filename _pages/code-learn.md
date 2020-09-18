@@ -27,7 +27,8 @@ There are great many resources, to learn R for data analysis. Here are some idea
 # Stata
 There are many great materials, here is some we like:   
 1. UCLA extensive material at [UCLA IDRE Stats](https://stats.idre.ucla.edu/stata/modules/){:target="_blank"}. 
-2. Amazing two part series by Kurt Schmidheiny [Part 1]](https://www.schmidheiny.name/teaching/stataguide.pdf){:target="_blank"} [Part 2](https://www.schmidheiny.name/teaching/stataguide2up.pdf){:target="_blank"}, plus some [advanced stuff](https://www.schmidheiny.name/teaching/shortguides.htm){:target="_blank"}  
+2. Amazing two part series by Kurt Schmidheiny [Part 1](https://www.schmidheiny.name/teaching/stataguide.pdf){:target="_blank"} 
+[Part 2](https://www.schmidheiny.name/teaching/stataguide2up.pdf){:target="_blank"}  
 3. At Data Carpentry, CEU's Miklós Koren and Arieda Muco are developing a [Stata course for Economist](https://datacarpentry.org/stata-economics/){:target="_blank"}.  
 4. Plus, a [Stata cheatsheat](https://geocenter.github.io/StataTraining/portfolio/01_resource/){:target="_blank"}.  
 

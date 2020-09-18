@@ -33,6 +33,8 @@ There are many great materials, here is some we like:
 4. Plus, a [Stata cheatsheat](https://geocenter.github.io/StataTraining/portfolio/01_resource/){:target="_blank"}.  
 
 # Python
+There are great many resources, to learn R for data analysis. Here are some ideas:   
+1.
 
 
 # Learning a second language

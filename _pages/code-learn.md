@@ -13,8 +13,13 @@ Here is some tip and advice on how to learn coding
 # R
 There are two toungues in R, called *data.table* and *tidyverse*. We use *tidyverse*. To learn tidyverse, you may start with the wonderful book by Hadley Wickham and Garrett Grolemund [R for Data Science](https://r4ds.had.co.nz/){:target="_blank"}.  
 
-There are great many resources, to learn R for data analysis. Here are some ideas:    
-[Alexandra Chouldechova Programming in R at CMU materials](https://www.andrew.cmu.edu/user/achoulde/94842/){:target="_blank"}.  
+There are great many resources, to learn R for data analysis. Here are some ideas:   
+U Cincinatti has a very nice [R Programming Guide](https://uc-r.github.io/){:target="_blank"}, with discussions on basics, workflow, manipulation.     
+At CMU, Alexandra Chouldechova has a nice [programming in R materials](https://www.andrew.cmu.edu/user/achoulde/94842/){:target="_blank"}.  
+
+At Data Carpentry, François Michonneau and Auriel Fournier has a fantastic content --[Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/){:target="_blank"}.  
+Grant McDermott has a more advanced lecture series with amazing content [Data Science for Economists](https://github.com/uo-ec607/lectures){:target="_blank"}.   
+
 
 
 
@@ -23,27 +28,28 @@ There are many great materials, here is some we like:
 [UCLA IDRE Stats](https://stats.idre.ucla.edu/stata/modules/){:target="_blank"}.  
 [Amazing two part series by Kurt Schmidheiny[Part 1]](https://www.schmidheiny.name/teaching/stataguide.pdf){:target="_blank"} and 
 [Part 2](https://www.schmidheiny.name/teaching/stataguide2up.pdf){:target="_blank"}, plus some [advanced stuff](https://www.schmidheiny.name/teaching/shortguides.htm)  
+At Data Carpentry, CEU's Miklós Koren and Arieda Muco are developing a [Stata course for Economist](https://datacarpentry.org/stata-economics/){:target="_blank"}.  
 
+A great online course is by Roger Peng, Jeff Leek and Brian Caffo  [R programming onCoursera](https://www.coursera.org/learn/r-programming)
+Plus, a [Stata cheatsheat](https://geocenter.github.io/StataTraining/portfolio/01_resource/){:target="_blank"}.  
 
 # Python
 
 
+# Learning a second language
+Some people have experience using one language but would now learn a second one. Some ideas we found useful:
 
-# Learning a new language
 
-## From Stata to R
+## R for Stata users
 In Economics and many other social sciences, we use Stata for research, and learnt R or Python as a second language. Here are some links and tutorials we found useful.  
 [Wonderful intro to R for Stata users by Matthieu Gomez](https://www.matthieugomez.com/statar/index.html){:target="_blank"}  
 [Basics of data wrangling from John Ricco](https://johnricco.github.io/2016/06/14/stata-dplyr/){:target="_blank"}  
 
 
-## From R to Python
+## R to/from Python
 For this textbook, Stata and R code were developed early on, and we started to work on Python code set only after the proof was ready. Some ideas we (and our RAs) found useful
 [GGplot for Python by Monash ](https://monashdatafluency.github.io/python-workshop-base/modules/plotting_with_ggplot/){:target="_blank"}    
 [Pandas and tidyverse](link)  
 
 
-## From Python to R
-If you are coming from, say, a computer science background, chances are that your first language is Python. Suppose you wanna learn R to reach a larger social science community. 
-
-
+## Python for Stata users

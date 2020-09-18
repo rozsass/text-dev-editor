@@ -16,7 +16,13 @@ There are two toungues in R, called *data.table* and *tidyverse*. We use *tidyve
 There are great many resources, to learn R for data analysis. Here are some ideas:    
 [Alexandra Chouldechova Programming in R at CMU materials](https://www.andrew.cmu.edu/user/achoulde/94842/){:target="_blank"}.  
 
+
+
 # Stata
+There are many great materials, here is some we like:   
+[UCLA IDRE Stats](https://stats.idre.ucla.edu/stata/modules/){:target="_blank"}.  
+[Amazing two part series by Kurt Schmidheiny[Part 1]](https://www.schmidheiny.name/teaching/stataguide.pdf){:target="_blank"} and 
+[Part 2](https://www.schmidheiny.name/teaching/stataguide2up.pdf){:target="_blank"}, plus some [advanced stuff](https://www.schmidheiny.name/teaching/shortguides.htm)  
 
 
 # Python

@@ -2,10 +2,8 @@
 permalink: /
 title: "Data Analysis for Business, Economics, and Policy"
 excerpt: "About the textbook"
-<!---
-toc: true
--->
 author_profile: true
+toc: false
 redirect_from:
   - /home
   - /home.html
@@ -14,6 +12,9 @@ redirect_from:
 ---
 
 ![textbook cover](images/cover-highdef.jpg){:height="70%" width="70%"}
+<!---
+toc: true
+-->
 
 
 

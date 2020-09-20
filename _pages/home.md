@@ -26,24 +26,22 @@ This textbook provides future data analysts with the tools, methods, and skills 
 As the most effective way to communicate data analysis, running case studies play a central role in this textbook. Each case starts with an industry relevant question and answers it by using real-world data and applying the tools and methods covered in the textbook. Learning is then consolidated by over 360 practice questions and 110 data exercises. Extensive online resources, including raw and cleaned data and codes for all analysis in Stata, R, and Python are available on this site.
 
 
-
-## Quick overview
-
-**Check out review on all our 47 case studies ............ [CASE STUDIES](casestudies)**  
-**Download a short summary on why use this book ... [TEXTBOOK SUMMARY](/files/bekes-kezdi-data-analysis-summary.pdf)**  
-**Download detailed list of chapters and sections ...... [CONTENTS](/files/toc.pdf)**  
-{: .notice}
-
 ## Endorsements
 
-"This is a great textbook" - a student who got an A  
+"This exciting new text covers everything today's aspiring data scientist needs to know, managing to be comprehensive as well as accessible.  **Like a good confidence interval, the Gabors have got you almost completely covered!**"  
+Joshua Angrist, MIT Economics
+{: .notice}
+
 [MORE endorsements](endorsements)
+
 
 ## Preorder
 
+The textbook is scheduled for worldwide publication on January 2021. Preorder is open:   
  [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC){:target="_blank"}   
  [Amazon.com](https://www.amazon.com/Data-Analysis-Business-Economics-Policy-dp-1108716202/dp/1108716202/ref=mt_other?_encoding=UTF8&me=&qid=1592915211){:target="_blank"}       
 [Global options](preorder)
+
 
 ## Why use this book?
 
@@ -81,38 +79,51 @@ Gábor Békés is an Assistant Professor at the Department of Economics and Busi
 Gábor Kézdi is a Research Associate Professor at the University of Michigan’s [Institute for Social Research](https://isr.umich.edu/). He published in top journals in economics, statistics, and political science on topics including household finances, health, education, demography, and ethnic disadvantages and prejudice. He has managed several data collection projects in Europe; currently, he is co-investigator of the [Health and Retirement Study](https://hrs.isr.umich.edu/about) in the U.S.  He has consulted various governmental and non-governmental institutions on the disadvantage of the Roma minority and the evaluation of social interventions. He has taught data analysis, econometrics, and labor economics from undergraduate to Ph.D. levels since 2002 and supervised a number of MA and PhD students.  [Personal website](https://sites.google.com/site/gaborkezdi/home?authuser=1){:target="_blank"}
 
 
-## Chapter summaries
-
-For a description of all 24 chapters, check out [Chapter summaries](/chapters)   
-To see content of the textbook, you may simply download the [Table of contents](files/toc.pdf).
-
 <!---
-You can access sample chapters, too. [HERE](chapters) - TO ADD
+[More on authors](authors)
 -->
 
-## Case studies
 
-We have summarized briefly all our 47 case studies, and provided data and code.
-For summaries, check out  [Material for case studies](/casestudies)
-<!---
-You may also download a pdf with a [summary of case studies](casestudy-summaries.pdf)
--->
 
-## Code
+## Codes and coding help
 
 We provide access to get all the code we used.   
 Code is available in R, Stata (except for machine learning) and Python. For more check out the [Data and code](/data-and-code) page.  
 **Update**: Public github repo with 0.9 versions: in September 2020. First release: November 2020.
 
+
+Users can see a [brief summary](/languages/) of languages used and [Some advice on learning to code](/code-learn/).
+
+We created some technical help on 
+[How to set up for Stata?](/howto-stata/), 
+[How to set up for R?](/howto-r/) 
+[How to set up for Python?](/howto-python/)
+
 ## Datasets
 
-We provide access to get all the data we used.   
-For summaries, check out  [Dataset summaries](/datasets)
-**Update**: Public Google drive repo with 0.9 versions: in September 2020. First release: November 2020.
+We provide access to get all the data we used; see our [dataset summaries](/datasets).  First release: November 2020.  
+**Update**: Pre-release dataset versions available from Google Drive 
 
 
 ## Teaching material
 
-We will provide 24 [slideshows](/materials) for the 24 chapters. 
+There are several materials we prepare for instructors:
 
-We will provide answers to all 360 practice questions for instructors at the [Cambridge UP website](https://www.cambridge.org/hu/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=PB){:target="_blank"}
+1. This course may be used for a variety of courses, and it is needed used Management Phd, Applied Economics MA, Data Science MSc or even in Executive MBA. Let us offer some experience and advice on [how to teach this textbook for different courses](/teaching-guide/)
+2. For a variety of course and program types [Frequently asked Questions and Answers](/instructor-faq/)
+3. Slideshows -- one for each of the 24 chapters. 12 [slideshows](/materials) is already available. 
+4. Answers to all 360 practice questions for instructors. Will be available from *November 2020*.  
+
+## Download
+
+Download a short [summary on why use this book](/files/bekes-kezdi-data-analysis-summary.pdf) and a [one-page summary](one-page-summary), also available as [PDF]((/files/gabors_da_1pager.pdf)){:target="_blank"}  
+
+Download detailed [table of contents](/files/toc.pdf)
+<!---
+You can access sample chapters, too. [HERE](chapters) - TO ADD
+-->
+<!---
+You may also download a pdf with a [summary of case studies](casestudy-summaries.pdf)
+-->
+
+

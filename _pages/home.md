@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Data Analysis for Business, Economics, and Policy"
+layout: single
+classes: wide
 excerpt: "About the textbook"
 author_profile: true
 toc: false

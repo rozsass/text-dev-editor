@@ -2,7 +2,9 @@
 permalink: /
 title: "Data Analysis for Business, Economics, and Policy"
 excerpt: "About the textbook"
+<!---
 toc: true
+-->
 author_profile: true
 redirect_from:
   - /home
@@ -98,7 +100,7 @@ We plan the first release for R and Stata in December 2020, and for Python, we p
 ## Coding help and info
 
 Users can see a 
-* Review of [Data and code](/data-and-code) 
+* Review of [Data and code](/data-and-code) and information on [how to set up folders](/data-and-code/#folder-setup)
 * [Brief summary](/languages/) of languages used 
 * [Some advice on learning to code](/code-learn/).
 * Technical help on   

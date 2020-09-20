@@ -15,11 +15,6 @@ redirect_from:
 
 
 
-![cup](images/cup1.png){:height="50%" width="50%"}  
- [Forthcoming in January 2021!](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC){:target="_blank"}
-
-
-
 ## This textbook
 This textbook provides future data analysts with the tools, methods, and skills needed to answer data-focused, real life questions, to choose and apply appropriate methods to answer those questions, and to visualize and interpret results to support better decisions in business, economics, and public policy. Data wrangling and exploration, regression analysis, prediction with machine learning, and causal analysis are comprehensively covered, as well as when, why, and how the methods work, and how they relate to each other.
 
@@ -36,6 +31,8 @@ As the most effective way to communicate data analysis, running case studies pla
 
 
 ## Preorder
+
+![cup](images/cup1.png){:height="50%" width="50%"}  
 
 The textbook is scheduled for worldwide publication on January 2021. Preorder is open:   
  [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/data-analysis-business-economics-and-policy?format=HC){:target="_blank"}   

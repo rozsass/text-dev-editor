@@ -87,9 +87,14 @@ Gábor Kézdi is a Research Associate Professor at the University of Michigan’
 
 ## Codes and coding help
 
-We provide access to get all the code we used --  in R, Stata and Python.
-*  For more check out the [Data and code](/data-and-code) page.  We plan the first release for R and Stata in December 2020, and for Python, we plan an early 2021 first release.
-* **Update**: Public [github repo](https://github.com/gabors-data-analysis/da_case_studies) with pre-release versions available.  
+We provide access to get all the code we used --  in R, Stata and Python.  
+For more check out the [Data and code](/data-and-code) page.  We plan the first release for R and Stata in December 2020, and for Python, we plan an early 2021 first release.
+
+Public [github repo](https://github.com/gabors-data-analysis/da_case_studies) with pre-release versions available.  
+** Status update:**      
+* R -- All codes ready. Used for graphs in textbook.
+* Stata -- All codes ready. In the lack of machine learning capabilities, no code for chapters 15,16,17, some limitations for chapter 18.
+* Python -- Under preparation. Chapters 01-12 ready, chapters 13-24 are under development. Should be ready by early 2021.
 
 
 Users can see a 

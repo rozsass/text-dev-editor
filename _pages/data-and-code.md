@@ -22,22 +22,28 @@ Get the raw data and the cleaning codes that created the datasets used for analy
 
 ## Getting Data
 
-Youw ill  have two options to get the datasets for our case studies.
+The **current, temporary solution** is that you can download the pre-release datasets from [Google Drive](https://drive.google.com/drive/u/2/folders/1g5j6v_WtB2lQDrSjpfhuw-P4s3Wm7Ucc){:target="_blank"}   
 
+You will have other options to get the datasets for our case studies. Forthcoming in November 2020.
+
+{% comment %}
 1. Download all the data [Data-all](data-zip-all). Note that this is a very large zipped file. Forthcoming in November 2020: - `release 1.0 (2020-11-21)`
 2. Download data one by one [from the Datasets page](/datasets) and copy to the dataset folder. Forthcoming in November 2020
+{% endcomment %}
 
-The **temporary solution** is that you can download the pre-release datasets from [Google Drive](https://drive.google.com/drive/u/2/folders/1g5j6v_WtB2lQDrSjpfhuw-P4s3Wm7Ucc){:target="_blank"}   
 
 
 ## Getting code
 
-You will have two options to get code for our case studies. Forthcoming in November 2020
+For now, visit the Github page [github.com/gabors-data-analysis/da_case_studies](https://github.com/gabors-data-analysis/da_case_studies){:target="_blank"} where the live version of the code is available. Since the release, we are making small edits to the code, to make them simpler or faster. 
 
+You will have several other options to get code for our case studies. Forthcoming in November 2020.
+
+{% comment %}
 1.  Download all code in [R](code-zip-r), [Stata](code-zip-stata), [Python](code-zip-python) --- `release 1.0 (2020-11-21)`
 2.  Download code one by one [from the Case studies page](/casestudies)
+{% endcomment %}
 
-3. Visit the Github page [github.com/gabors-data-analysis/da_case_studies](https://github.com/gabors-data-analysis/da_case_studies){:target="_blank"} where the live version of the code is available. Since the release, we are making small edits to the code, to make them simpler or faster. **Live on 19 September 2020**. *For instructors/advanced users*
 
 
 ## Folder setup

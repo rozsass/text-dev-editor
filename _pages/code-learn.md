@@ -15,12 +15,12 @@ There are two toungues in R, called *data.table* and *tidyverse*. We use *tidyve
 There are great many resources, to learn R for data analysis. Here are some ideas:   
 
 1. To learn tidyverse, you may start with the wonderful book by Hadley Wickham and Garrett Grolemund [R for Data Science](https://r4ds.had.co.nz/){:target="_blank"}.  
-+ A wonderful intro, with a focus on starting R and data wrangling, is by Jenny Briant's [Data wrangling, exploration, and analysis with R](https://stat545.com/) course, aka STAT545. 
-+ U Cincinatti has a very nice guide with discussions on basics, workflow, manipulation in [R Programming Guide](https://uc-r.github.io/){:target="_blank"}.   
-+ At CMU, Alexandra Chouldechova has a nice [programming in R materials](https://www.andrew.cmu.edu/user/achoulde/94842/){:target="_blank"}.  
-+ A great online course is by Roger Peng, Jeff Leek and Brian Caffo  [R programming onCoursera](https://www.coursera.org/learn/r-programming)
-+ At Data Carpentry, François Michonneau and Auriel Fournier has a fantastic content --[Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/){:target="_blank"}.  
-+ Grant McDermott has a more advanced lecture series with amazing content [Data Science for Economists](https://github.com/uo-ec607/lectures){:target="_blank"}.   
+2. A wonderful intro, with a focus on starting R and data wrangling, is by Jenny Briant's [Data wrangling, exploration, and analysis with R](https://stat545.com/){:target="_blank"} course, aka STAT545.   
+3. U Cincinatti has a very nice guide with discussions on basics, workflow, manipulation in [R Programming Guide](https://uc-r.github.io/){:target="_blank"}.   
+4. At CMU, Alexandra Chouldechova has a nice [programming in R materials](https://www.andrew.cmu.edu/user/achoulde/94842/){:target="_blank"}.  
+5. A great online course is by Roger Peng, Jeff Leek and Brian Caffo  [R programming onCoursera](https://www.coursera.org/learn/r-programming)
+6. At Data Carpentry, François Michonneau and Auriel Fournier has a fantastic content --[Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/){:target="_blank"}.  
+7. Grant McDermott has a more advanced lecture series with amazing content [Data Science for Economists](https://github.com/uo-ec607/lectures){:target="_blank"}.   
 
 
 

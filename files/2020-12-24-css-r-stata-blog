@@ -1,0 +1,10 @@
+Doing a computational social science research project: R and(!) Stata. My subjective review. TL;DR: we shall use both. 1/n
+In the past I uses Stata for all work. Recently I was doing some teaching in R, thought will try it. Project involves large (100-1000K rows) datasets, need to combine, clean and wrangle them to get to a single work file. 2/n
+Data wrangling was  better with R: 1) Keep many files on tab, 2) Tidyverse/dplyr is great for wrangling, 3) script helps better find errors. 4) stored large data as Spark .parquet, great efficiency gain in storage space and speed. 3/n
+Once I have a work data, with a dependent variable of interest, and wanna look at patterns, Stata proved better. For a start, no need for df %>% df, I hate "mutate", just not natural verb for generate a new variable. 4/n
+I found running many regressions is just easier in Stata: 1) reg y x, r vs lm_robust(y~x, data=work_data), lm_robust is not super stable, always a problem, if NaN, if factors multicollinear, etc. Stata just drops if problemtaic 5/n.
+Also 2) we need some way to print results. Stata just prints reasnably OK. R's summary() is ugly, huxtable, stargazer, summarymodels all good but need tweaking. Not for early work. 6/n
+Also 3) basically Stata is better for *lazy* work. When we know what we want R is equally good, and often faster (like two-way FE). But for just messing around, Stata is way easier. 7/n
+In sum, my feeling is that for regressions, R is patchwork of packages, all with problems, dev issues. I actually have trust issues, as fewer users, many packages, not sure what is kosher. Stata looks more stable if less flexible. 8/n
+In other words, I feel there is no stable, universally used *tidyverse* solution for running regression. Or maybe I missed it. That would be game changer. 9/n
+So I'd use R for data wrangling especially when files are large and there are many. I'd use Stata for regressions. I trust them more, and feels easier to use. Open to suggestions. 10/n

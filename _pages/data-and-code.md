@@ -19,6 +19,14 @@ Get the raw data and the cleaning codes that created the datasets used for analy
 
 **NOTE: codes and data should be made available in a more structured way in November 2020. Please check back.**
 
+## Summary information
+
+To check out the case studies, see the [Case studies summary page](/casestudies){:target="_blank"} 
+
+To read information about all the datasets we used, see the  [Datasets summary page](/datasets){:target="_blank"} 
+
+
+
 
 ## Getting Data
 

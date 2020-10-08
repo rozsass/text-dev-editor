@@ -22,7 +22,7 @@ redirect_from:
 **Copyright**: "The data behind the Inside Airbnb site is sourced from publicly available information from the Airbnb site. The data has been analyzed, cleansed and aggregated where appropriate to faciliate public discussion. Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license."
 
 
-## US-airlines
+## airline-tickets-usa
 **Content and coverage**: The US-airlines dataset is a 10 percent sample of all tickets sold on the US market taken in each quarter, starting with 2010. For a single quarter, the raw data on tickets has about 3–3.5 million observations. The total data used for the case study has the size of around 15 GB.
 The unit of observation in the data is an airline ticket. The dataset has N=112632 observations.  
 

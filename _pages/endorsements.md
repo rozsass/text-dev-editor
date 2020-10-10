@@ -29,8 +29,7 @@ redirect_from:
 [Christian Fons-Rosen](https://sites.google.com/site/cfonsrosen/){:target="_blank"} University of California at Merced & Barcelona GSE 
 
 
-
-This **sophisticatedly simple book is ideal for undergraduate or Master’s level Data Analytics courses with a broad audience**. The authors discuss the key aspects of examining data, regression analysis, prediction, Lasso, and random forests and more with using elegant prose instead of algebra. Using well-chosen case studies, they illustrate the techniques and discuss them patiently and thoroughly.
+This **sophisticatedly simple book is ideal for undergraduate or Master’s level Data Analytics courses with a broad audience**. The authors discuss the key aspects of examining data, regression analysis, prediction, Lasso, and random forests and more with using elegant prose instead of algebra. Using well-chosen case studies, they illustrate the techniques and discuss them patiently and thoroughly.   
 [Carter Hill](http://www.rcarterhill.com/){:target="_blank"} , Louisiana State University
 
 

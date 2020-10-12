@@ -13,7 +13,7 @@ redirect_from:
 [Joshua Angrist](https://economics.mit.edu/faculty/angrist){:target="_blank"}, Professor of Economics, MIT 
 
 
->**A beautiful integration of Econometrics and Data Science** that provides a direct path from data collection and exploratory analysis to conventional regression modeling, then on to prediction and causal modeling. **Exactly what is needed to equip the next generation of students with the tools and insights from the two fields.**
+>**A beautiful integration of Econometrics and Data Science** that provides a direct path from data collection and exploratory analysis to conventional regression modeling, then on to prediction and causal modeling. **Exactly what is needed to equip the next generation of students with the tools and insights from the two fields.**  
 [David Card](https://davidcard.berkeley.edu/){:target="_blank"}, Professor of Economics, University of California, Berkeley
 
 

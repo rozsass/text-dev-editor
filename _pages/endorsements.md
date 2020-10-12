@@ -10,10 +10,12 @@ redirect_from:
 
 
 >**"This exciting new text covers everything today's aspiring data scientist needs to know, managing to be comprehensive as well as accessible. Like a good confidence interval, the Gabors have got you almost completely covered!"**  
+
 [Joshua Angrist](https://economics.mit.edu/faculty/angrist){:target="_blank"}, Professor of Economics, MIT 
 
 
 >**A beautiful integration of Econometrics and Data Science** that provides a direct path from data collection and exploratory analysis to conventional regression modeling, then on to prediction and causal modeling. **Exactly what is needed to equip the next generation of students with the tools and insights from the two fields.**  
+
 [David Card](https://davidcard.berkeley.edu/){:target="_blank"}, Professor of Economics, University of California, Berkeley
 
 
@@ -33,7 +35,7 @@ redirect_from:
 [Christian Fons-Rosen](https://sites.google.com/site/cfonsrosen/){:target="_blank"}, University of California at Merced & Barcelona GSE 
 
 
->This **sophisticatedly simple book is ideal for undergraduate or Master’s level Data Analytics courses with a broad audience**. The authors discuss the key aspects of examining data, regression analysis, prediction, Lasso, and random forests and more with using elegant prose instead of algebra. Using well-chosen case studies, they illustrate the techniques and discuss them patiently and thoroughly.
+>This **sophisticatedly simple book is ideal for undergraduate or Master’s level Data Analytics courses with a broad audience**. The authors discuss the key aspects of examining data, regression analysis, prediction, Lasso, and random forests and more with using elegant prose instead of algebra. Using well-chosen case studies, they illustrate the techniques and discuss them patiently and thoroughly.  
 [Carter Hill](http://www.rcarterhill.com/){:target="_blank"} , Professor of Economics, Louisiana State University
 
 

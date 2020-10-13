@@ -23,6 +23,15 @@ redirect_from:
 
 [Nicholas Bloom](https://nbloom.people.stanford.edu){:target="_blank"}, Professor, Stanford Economics & Graduate School of Business 
 
+
+
+>"This textbook is excellent at dissecting and explaining the underlying process of data analysis. Békés and Kézdi have masterfully woven into their instruction a comprehensive range of case studies. The result is a **rigorous textbook grounded in real-world learning, at once accessible and engaging to novice scholars and advanced practitioners alike**. I have every confidence it will be valued by future generations.""
+
+[Kerwin K. Charles](https://som.yale.edu/faculty/kerwin-k-charles){:target="_blank"}, Professor of Economics and Management, and Dean, Yale School of Management
+
+
+
+
 >**"This is a fantastic book to have. Strong data skills are critical for modern business and economic research, and this text provides a thorough and practical guide to acquiring them. Highly recommended."**  
 
 [John van Reenen](https://mitmgmtfaculty.mit.edu/jvanreenen/){:target="_blank"}, Professor at MIT Sloan & Department of Economics
@@ -30,12 +39,6 @@ redirect_from:
 >"I know of few books about data analysis and visualization that are as comprehensive, deep, practical, and current as this one; and I know of almost none that are as fun to read. **Gábor Békés and Gábor Kézdi have created a most unusual and most compelling beast: a textbook that teaches you the subject manner well and that, at the same time, you can enjoy reading cover-to-cover."**   
 
 [Alberto Cairo](http://albertocairo.com){:target="_blank"}, Professor at University of Miami, School of Journalism
-
-
->"This textbook is excellent at dissecting and explaining the underlying process of data analysis. Békés and Kézdi have masterfully woven into their instruction a comprehensive range of case studies. The result is a **rigorous textbook grounded in real-world learning, at once accessible and engaging to novice scholars and advanced practitioners alike**. I have every confidence it will be valued by future generations.""
-
-[Kerwin K. Charles](https://som.yale.edu/faculty/kerwin-k-charles){:target="_blank"}, Professor of Economics and Management, and Dean, Yale School of Management
-
 
 
 >"**A multifaceted book that considers many sides of data analysis, all of them important for the contemporary student and practitioner.** It brings together classical statistics, regression, and causal inference, sending the message that awareness of all three aspects is important for success in this field. Many "best practices" are discussed in accessible language and illustrated using interesting datasets."   
@@ -53,7 +56,8 @@ redirect_from:
 [Carter Hill](http://www.rcarterhill.com/){:target="_blank"} , Professor of Economics, Louisiana State University
 
 
->"Energy and climate change represent one of the most important public policy challenges and high quality data and its empirical analysis is a foundation of solid policy. Data Analysis for Business Economics and Policy will have an impotant contribution to this with its innovative approach. **In addition to the comprehensive treatment of modern econometric techniques, the book also covers the less glamourous but crucial aspects of procuring and cleaning data and drawing useful inferences from less than perfect datasets.** As the center of gravity of the energy system shifts to developing economies where data quality is still an issue this will provide an important and practical combination for both academic and policy professionals."  
+>"Energy and climate change represent one of the most important public policy challenges and high quality data and its empirical analysis is a foundation of solid policy. Data Analysis for Business Economics and Policy will have an impotant contribution to this with its innovative approach. **In addition to the comprehensive treatment of modern econometric techniques, the book also covers the less glamourous but crucial aspects of procuring and cleaning data and drawing useful inferences from less than perfect datasets.** As the center of gravity of the energy system shifts to developing economies where data quality is still an issue this will provide an important and practical combination for both academic and policy professionals." 
+ 
 [Laszlo Varro](https://www.iea.org/authors/laszlo-varro){:target="_blank"}, Chief Economist, International Energy Agency 
 
 

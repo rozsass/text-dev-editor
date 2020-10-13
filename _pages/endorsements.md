@@ -31,9 +31,17 @@ redirect_from:
 
 [Alberto Cairo](http://albertocairo.com){:target="_blank"}, Professor at University of Miami, School of Journalism
 
+
+>"This textbook is excellent at dissecting and explaining the underlying process of data analysis. Békés and Kézdi have masterfully woven into their instruction a comprehensive range of case studies. The result is a **rigorous textbook grounded in real-world learning, at once accessible and engaging to novice scholars and advanced practitioners alike**. I have every confidence it will be valued by future generations.""
+
+[Kerwin K. Charles](https://som.yale.edu/faculty/kerwin-k-charles){:target="_blank"}, Professor of Economics and Management, and Dean, Yale School of Management
+
+
+
 >"**A multifaceted book that considers many sides of data analysis, all of them important for the contemporary student and practitioner.** It brings together classical statistics, regression, and causal inference, sending the message that awareness of all three aspects is important for success in this field. Many "best practices" are discussed in accessible language and illustrated using interesting datasets."   
 
 [llya Ryzhov](https://scholar.rhsmith.umd.edu/iryzhov/home?destination=home){:target="_blank"}, University of Maryland Smith Business School - Decisions, Operations and IT
+
 
 >**"This book takes you by the hand in a journey that will bring you to understand the core value of data in the fields of machine learning and economics.** The large amount of accessible examples combined with the intuitive explanation of foundational concepts is an ideal mix for anyone who wants to do data analysis. **It is highly recommended to anyone interested in the new way in which data will be analyzed in the social science in the next years."**   
 

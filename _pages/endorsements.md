@@ -41,6 +41,11 @@ redirect_from:
 [Alberto Cairo](http://albertocairo.com){:target="_blank"}, Professor at University of Miami, School of Journalism
 
 
+
+>"This is not an econometrics textbook, but a data analysis textbook.  And a highly unusual one - **written in plain English, based on simplified notation and full of case studies**. An excellent starting point for future data analysts or anyone interested in finding out what data can tell us." 
+[Beata Javorcik](https://www.economics.ox.ac.uk/faculty/beata-javorcik){:target="_blank"},  Professor at the University of Oxford, Chief Economist at EBRD
+
+
 >"**A multifaceted book that considers many sides of data analysis, all of them important for the contemporary student and practitioner.** It brings together classical statistics, regression, and causal inference, sending the message that awareness of all three aspects is important for success in this field. Many "best practices" are discussed in accessible language and illustrated using interesting datasets."   
 
 [llya Ryzhov](https://scholar.rhsmith.umd.edu/iryzhov/home?destination=home){:target="_blank"}, University of Maryland Smith Business School - Decisions, Operations and IT
@@ -49,7 +54,6 @@ redirect_from:
 >**"This book takes you by the hand in a journey that will bring you to understand the core value of data in the fields of machine learning and economics.** The large amount of accessible examples combined with the intuitive explanation of foundational concepts is an ideal mix for anyone who wants to do data analysis. **It is highly recommended to anyone interested in the new way in which data will be analyzed in the social science in the next years."**   
 
 [Christian Fons-Rosen](https://sites.google.com/site/cfonsrosen/){:target="_blank"}, University of California at Merced & Barcelona GSE 
-
 
 >This **sophisticatedly simple book is ideal for undergraduate or Master’s level Data Analytics courses with a broad audience**. The authors discuss the key aspects of examining data, regression analysis, prediction, Lasso, and random forests and more with using elegant prose instead of algebra. Using well-chosen case studies, they illustrate the techniques and discuss them patiently and thoroughly.  
 

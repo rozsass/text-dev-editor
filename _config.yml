@@ -11,20 +11,20 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 #theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabors Data Analysis"
+title                    : "Sarolta's text development editing"
 title_separator          : "-"
 subtitle                 : #" Data Analysis for Business, Economics, and Policy. A comprehensive textbook on data analysis. Case study heavy with real-world data. Cambridge UP (December 2020)"
-name                     : "Gabors Data Analysis"
-description              : "A comprehensive textbook on data analysis for business, applied economics and public policy students, that uses case studies with real-world data."
+name                     : "sci-text-dev"
+description              : "Improving the quality of scientific and business texts from books to presentations."
 port                     : 4000
 host                     : "0.0.0.0"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "gabors-data-analysis"
+#repository               : "gabors-data-analysis"
 teaser                   : "images/cover-small.jpg"
 logo                     : "images/cover-small.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -72,7 +72,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :GaborBekes
+  username               :Sarolta
 facebook:
   username               :
   app_id                 :
@@ -95,10 +95,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gabor Bekes and Gabor Kezdi"
+  name             : "Sarolta Rozsas"
   avatar           : "images/cover-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CEU and U Michigan"
-  location         : "Vienna and Ann Arbor"
+  #bio              : "CEU and U Michigan"
+  location         : "Vienna and Budapest"
   email            :
   links:
     - label: "bekesg@ceu.edu"

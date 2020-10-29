@@ -107,17 +107,17 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "GaborBekes"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GaborBekes"
+#    - label: "GaborBekes"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/GaborBekes"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "https://github.com/orgs/gabors-data-analysis/"
-      icon: "fab fa-fw fa-github"
+ #   - label: "https://github.com/orgs/gabors-data-analysis/"
+ #     icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -125,7 +125,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/gabors-data-analysis/
+      url: https://github.com/rozsass/text-dev-editor/
     - label: "Contact us"
       icon: "fas fa-envelope-square"
       url: /contact-us

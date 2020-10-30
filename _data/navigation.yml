@@ -6,9 +6,6 @@ main:
   - title: "Data and Code"
     url: /data-and-code/
 
-  - title: "Chapters"
-    url: /chapters/
-
   - title: "Why this book?"
     url: /whythisbook/
 
@@ -29,41 +26,3 @@ sidebar:
       - title: "Contact us"
         url: /contact-us
 
-  - title: Case studies
-    url: /casestudies/
-    children:
-      - title: "Part I"
-        url: /casestudies/part-I
-      - title: "Part II"
-        url: /casestudies/part-II
-      - title: "Part III"
-        url: /casestudies/part-III
-      - title: "Part IV"
-        url: /casestudies/part-IV
-
-  - title: Chapters
-    url: /chapters/
-    children:
-      - title: "Part I"
-        url: /chapters/part-I
-      - title: "Part II"
-        url: /chapters/part-II
-      - title: "Part III"
-        url: /chapters/part-III
-      - title: "Part IV"
-        url: /chapters/part-IV
-
-  - title: Data and code
-    url: /data-and-code/
-    children:
-      - title: "Getting data"
-        url: /getting-data/
-      - title: "Getting code"
-        url: /getting-code/
-
-  - title: "Setup with R"
-    url: /howto-r/
-  - title: "Setup with Stata"
-    url: /howto-stata/
-  - title: "Setup with Python"
-    url: /howto-python/

@@ -19,7 +19,7 @@ title                    : "Sarolta's text development editing"
 title_separator          : "-"
 subtitle                 : #" Data Analysis for Business, Economics, and Policy. A comprehensive textbook on data analysis. Case study heavy with real-world data. Cambridge UP (December 2020)"
 name                     : "sci-text-dev"
-description              : "Improving the quality of scientific and business texts from books to presentations."
+description              : "Improving the quality of academic and business texts from books to presentations."
 port                     : 4000
 host                     : "0.0.0.0"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -96,12 +96,12 @@ analytics:
 # Site Author
 author:
   name             : "Sarolta Rozsas"
-  avatar           : "images/cover-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/sarolt1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   #bio              : "CEU and U Michigan"
   location         : "Vienna and Budapest"
   email            :
   links:
-    - label: "bekesg@ceu.edu"
+    - label: "rozsas.sarolta@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     #- label: "Website"

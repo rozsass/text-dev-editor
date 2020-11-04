@@ -20,17 +20,7 @@ redirect_from:
 
 I develop academic and business texts making them more precise, coherent, and better to understand for a wider audience.
 
-### Precision
-
-
-
-### Coherency
-
-
-
-### Better understanding 
-
-
+[Read more](whydevelop) on why you shall consider hiring a text development editor. 
 
 ## My speciality is 
 * academic texts in social sciences especially applied works in economics, politics or international relations, such as
@@ -42,7 +32,7 @@ I develop academic and business texts making them more precise, coherent, and be
 	* market analysis
 
 ## Tech options
-I am not a techie. As most text editors I prefer [Mantel]()https://en.wikipedia.org/wiki/Hilary_Mantel to [Markdown](https://en.wikipedia.org/wiki/Markdown). But I have learnt to work with a variety of tools used in academia and business. 
+I am not a techie. As most text editors I prefer [Mantel](https://en.wikipedia.org/wiki/Hilary_Mantel) to [Markdown](https://en.wikipedia.org/wiki/Markdown). But I have learnt to work with a variety of tools used in academia and business. 
 
 * Word processor with track changes, such as MS Word.
 * PDF, annotated.

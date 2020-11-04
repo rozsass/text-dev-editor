@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Examples"
-    url: /casestudies/
 
   - title: "How I work"
     url: /how-work/
@@ -11,6 +9,10 @@ main:
 
   - title: "Pricing"
     url: /pricing/
+
+  - title: "Examples"
+    url: /casestudies/
+
 
 #  - title: "Blog"
 #    url: /blog/

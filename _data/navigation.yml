@@ -4,13 +4,13 @@ main:
   - title: "Why text development?"
     url: /whydevelop/
 
-- title: "How I work"
+  - title: "How I work"
     url: /how-work/
 
   - title: "Projects"
     url: /casestudies/
 
-- title: "Pricing"
+  - title: "Pricing"
     url: /pricing/
 
 

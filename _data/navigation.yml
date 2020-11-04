@@ -1,16 +1,18 @@
 # main links links
 main:
-  - title: "Examples"
-    url: /casestudies/
-
-  - title: "How I work"
-    url: /how-work/
 
   - title: "Why use text development?"
     url: /whydevelop/
 
+  - title: "How I work"
+    url: /how-work/
+
   - title: "Resources"
     url: /resources/
+
+  - title: "Examples"
+    url: /casestudies/
+
 
 #  - title: "Blog"
 #    url: /blog/

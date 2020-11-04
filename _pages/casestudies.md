@@ -35,7 +35,7 @@ First, I made bolder edits on the draft text. [MORE](). Second, I reviewed the c
 6. Find when authors introduce a new concept without definition or define another concept instead. Ask authors whether the concepts are known to readers.  
 7. There are references to tables, graphs, earlier sections that do not exist in the text.
 
-If interested in details, check out [EXAMPLES](examples-edits)
+If interested in details, check out [EXAMPLES](example-edits)
 
 
 ### Checking numbers,format
@@ -44,7 +44,7 @@ If interested in details, check out [EXAMPLES](examples-edits)
 3. Find inconsistency in format of text. 
 4. Find inconsitency in style-we argue instead of one argues.   
 
-If interested in details, check out [EXAMPLES](examples-edits)
+If interested in details, check out [EXAMPLES](example-edits)
 
 
 ## Academic papers

@@ -9,4 +9,21 @@ redirect_from:
   - /whydevelop.html
 ---
 
+## What to gain from a text development edit?
+
+I develop academic and business texts making them more precise, coherent, and better to understand for a wider audience.
+
+### Precision
+
+
+
+### Coherency
+
+
+
+### Better understanding 
+
+
+
+
 

@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarolta's text development editing"
+title                    : "Text development editing"
 title_separator          : "-"
 subtitle                 : #" Data Analysis for Business, Economics, and Policy. A comprehensive textbook on data analysis. Case study heavy with real-world data. Cambridge UP (December 2020)"
 name                     : "sci-text-dev"
@@ -71,8 +71,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :Sarolta
+#twitter:
+#  username               :Sarolta
 facebook:
   username               :
   app_id                 :
@@ -95,13 +95,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sarolta Rozsas"
-  avatar           : "images/sarolta1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #name             : "Sarolta"
+  #avatar           : "images/sarolta1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   #bio              : "CEU and U Michigan"
-  location         : "Vienna and Budapest"
+  #location         : "Vienna and Budapest"
   email            :
   links:
-    - label: "rozsas.sarolta@gmail.com"
+#    - label: "rozsas.sarolta@gmail.com"
   #    icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     #- label: "Website"

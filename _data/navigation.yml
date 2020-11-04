@@ -1,17 +1,18 @@
 # main links links
 main:
 
-  - title: "How I work"
-    url: /how-work/
-
   - title: "Why text development?"
     url: /whydevelop/
 
-  - title: "Pricing"
-    url: /pricing/
+- title: "How I work"
+    url: /how-work/
 
   - title: "Projects"
     url: /casestudies/
+
+- title: "Pricing"
+    url: /pricing/
+
 
 
 #  - title: "Blog"

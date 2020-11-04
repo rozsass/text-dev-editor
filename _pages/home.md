@@ -42,16 +42,21 @@ I develop academic and business texts making them more precise, coherent, and be
 	* market analysis
 
 ## Tech skills
-I work with 
+I am not a techie. As most text editors I prefer [Mantel]()https://en.wikipedia.org/wiki/Hilary_Mantel to [Markdown](https://en.wikipedia.org/wiki/Markdown). But I have learnt to work with a variety of tools used in academia and business. 
 
-* your typical word processor, such as MS Word.
+* Word processor, such as MS Word.
 * [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com). 
-* Markdown using either version control such as Github to track changes or [diffchecker](https://www.diffchecker.com/). [Bookdown](https://bookdown.org/yihui/bookdown/) is a more recent option, using .md files.  
-* presentation platforms in PowerPoint or Beamer (tex) but open to other
+* [Markdown](https://en.wikipedia.org/wiki/Markdown) - like this website is written in markdown for Jekyll. Even [Bookdown](https://bookdown.org/yihui/bookdown/) could be an option, using .md files.  
+* Version control such as Github to track changes. This website is hosted on Github, for instance. 
+* Presentation platforms like MS PowerPoint or LaTex beamer.
+
+## Language skills.
+
+I am *not* a native English speaker. I will make some language edits as I go along to help readers, and will make some stylistic suggestions, too. However, if you are not a native English speaker, you may need a language editor. There plenty around, and they will ask for much less money when the manuscript is in good shape. 
 
 ## Experience and endorsement
 
->**"We are grateful for Sarolta Rózsás who read and edited endless versions of chapters, checking consistency, clarity and pushed us to make the text more coherent and accessible."** {: .notice--success}
+>**"We are grateful for Sarolta Rózsás who read and edited endless versions of chapters, checking consistency, clarity and pushed us to make the text more coherent and accessible."**{: .notice--success}
 
 [MORE endorsements](endorsements)
 

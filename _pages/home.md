@@ -51,9 +51,7 @@ I work with
 
 ## Experience and endorsement
 
-"***  ***"  
-*Gabors*
-{: .notice--success}
+>**"We are grateful for Sarolta Rózsás who read and edited endless versions of chapters, checking consistency, clarity and pushed us to make the text more coherent and accessible."** {: .notice--success}
 
 [MORE endorsements](endorsements)
 

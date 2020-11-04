@@ -1,25 +1,25 @@
 # main links links
 main:
-  - title: "Case Studies"
+  - title: "Examples"
     url: /casestudies/
 
-  - title: "Data and Code"
-    url: /data-and-code/
+  - title: "How I work"
+    url: /how-work/
 
-  - title: "Why this book?"
-    url: /whythisbook/
+  - title: "Why use text development?"
+    url: /whydevelop/
 
   - title: "Resources"
     url: /resources/
 
-  - title: "Blog"
-    url: /blog/
+#  - title: "Blog"
+#    url: /blog/
 
 sidebar:
   - title: Home
     url: /
     children:
-      - title: Authors
+      - title: About me
         url: /authors/
       - title: "Endorsements"
         url: /endorsements

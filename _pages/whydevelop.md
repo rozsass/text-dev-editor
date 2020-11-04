@@ -10,6 +10,3 @@ redirect_from:
 ---
 
 
-![textbook cover](/images/cover-title2.jpg){:height="80%" width="80%"}
-
-

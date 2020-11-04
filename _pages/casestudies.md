@@ -2,9 +2,7 @@
 layout: single
 classes: #wide
 permalink: /casestudies/
-title: "Case Studies"
-toc: true
-toc_sticky: false
+title: "Previous Projects"
 author_profile: false
 redirect_from:
   - /md/
@@ -14,21 +12,20 @@ redirect_from:
 {% include base_path %}
 
 
-# Corrections to Bekes-Kezdi Data Analysis Textbook by Cambridge University Press (2019-2020)
+# Previous projects
+
+I have done editing on academic economics, economic consulting and data science projects. 
+
+## Corrections to Bekes-Kezdi Data Analysis Textbook by Cambridge University Press (2019-2020)
 
 I have been the *text development editor* for Bekes-Kezdi: Data Analysis textbook, an 800 page volume published by [Cambridge University Press]() in February 2021. This meant reading the full manuscript twice. 
 
-First, making editing on content .....
-
-Second, reviewing the first proof to find errors in ....
-
-Below, I offer details of tasks and examples. 
+First, I made bolder edits on the draft text. [MORE](). Second, I reviewed the copyedited proof. Despite a great deal of previous edits, there was a lot of additional work. [MORE](). Below, I offer details of tasks and examples. 
 
 
 
-## Paragraph editing
+### Paragraph editing
 
-### Issues
 1a. Identifying paragraphs and sentences that are okay in terms of language but are difficult to understand / not clear. Ask authors to clarify/ give examples.   
 1b. Identifying paragraphs and sentences that are clear in terms of language but need examples. Ask authors to give examples.   
 2. Identifying paragraphs that are badly structured. Suggest edits, rearrange sentences to make substance clearer.  
@@ -41,7 +38,7 @@ Below, I offer details of tasks and examples.
 If interested in details, check out [EXAMPLES](examples)
 
 
-## Checking numbers,format
+### Checking numbers,format
 1. Look through text and figures to find possible inconsistencies (text and figures, text and tables).  
 2. Find missing labels in figures (x, y axes), missing source, name of case study. 
 3. Find inconsistency in format of text. 
@@ -50,5 +47,16 @@ If interested in details, check out [EXAMPLES](examples)
 If interested in details, check out [EXAMPLES](examples)
 
 
+## Academic papers
+Editing text in MS Word and in Latex.
 
-# Presentation
+## Consultancy/business reports
+Editing text in MS Word.
+
+## Presentations
+Editing text in latex, overleaf, MS Powerpoint. 
+
+## Website
+Editing text in markdown (like this website) or the textbook website. 
+
+

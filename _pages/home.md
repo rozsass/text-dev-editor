@@ -41,13 +41,14 @@ I develop academic and business texts making them more precise, coherent, and be
 	* consultancy reports
 	* market analysis
 
-## Tech skills
+## Tech options
 I am not a techie. As most text editors I prefer [Mantel]()https://en.wikipedia.org/wiki/Hilary_Mantel to [Markdown](https://en.wikipedia.org/wiki/Markdown). But I have learnt to work with a variety of tools used in academia and business. 
 
-* Word processor, such as MS Word.
-* [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com). 
+* Word processor with track changes, such as MS Word.
+* PDF, annotated.
+* [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com). Overleaf is a great way to see corrections. Otherwise, diffcheker and similar options are needed. 
 * [Markdown](https://en.wikipedia.org/wiki/Markdown) - like this website is written in markdown for Jekyll. Even [Bookdown](https://bookdown.org/yihui/bookdown/) could be an option, using .md files.  
-* Version control such as Github to track changes. This website is hosted on Github, for instance. 
+* Version control such as Github to track changes in plain text documents like markdown. (This website is hosted on Github, for instance. ). Version control also helps see changes and edits. 
 * Presentation platforms like MS PowerPoint or LaTex beamer.
 
 ## Language skills.

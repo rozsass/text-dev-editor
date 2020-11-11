@@ -2,7 +2,7 @@
 layout: single
 classes: #wide
 permalink: /example-edits/
-title: "Example ediits"
+title: "Example edits"
 author_profile: false
 redirect_from:
   - /md/
@@ -14,6 +14,8 @@ redirect_from:
 
 Let me show concrete examples of edits.
 
+
+## Longer materials
 
 ## Hard to understand paragraphs
 
@@ -35,3 +37,20 @@ Let me show concrete examples of edits.
 3. Instead it is an imperfect measure because there are differences within some countries, especially within large ones with many groups and areas that have different values and/or institutions.[page 640](/scans/e1.png)      
 4. In fact, some important economic variables are well approximated by a lognormal distribution.[page 216](/scans/e1.png)  
 
+## Improve structure
+
+1.
+
+
+
+## Checking number and format
+
+1.
+
+
+## Shorter materials
+
+### Edits on a presentation
+
+
+### Edits on answers to practice questions

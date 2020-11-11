@@ -29,7 +29,10 @@ Below, I offer details of tasks and examples.
 2. Identifying paragraphs that are badly structured. Suggest edits, rearrange sentences to make substance clearer.  
 3. Find when authors introduce a new concept without definition or define another concept instead. Ask authors whether the concepts are known to readers.  
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits)
+Check out some [EXAMPLES](/text-dev-editor/example-edits.md#hard-to-understand-paragraphs)
+
+/*IZE  https://github.com/rozsass/text-dev-editor/blob/master/_pages/example-edits.md#hard-to-understand-paragraphs*/
+
 
 ### Paragraph editing
 

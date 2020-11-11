@@ -29,7 +29,7 @@ Below, I offer details of tasks and examples.
 2. Identifying paragraphs that are badly structured. Suggest edits, rearrange sentences to make substance clearer.  
 3. Find when authors introduce a new concept without definition or define another concept instead. Ask authors whether the concepts are known to readers.  
 
-Check out some [EXAMPLES](/example-edits)
+Check out some [EXAMPLES](/text-dev-editor/example-edits)
 
 ### Paragraph editing
 
@@ -37,7 +37,7 @@ Check out some [EXAMPLES](/example-edits)
 2. Find unlcear technical terms: authors use different expressions for a concept and it is not clear if they are the same.  
 3. Suggest adding commas to help non-native students better understand longer sentences.  
 
-Check out some [EXAMPLES](/example-edits)
+Check out some [EXAMPLES](/text-dev-editor/example-edits)
 
 
 ### Checking numbers,format
@@ -47,7 +47,7 @@ Check out some [EXAMPLES](/example-edits)
 4. Find inconsistency in format of text. 
 5. Find inconsitency in style-we argue instead of one argues.   
 
-Check out some [EXAMPLES](/example-edits)
+Check out some [EXAMPLES](/text-dev-editor/example-edits)
 
 
 ## Academic papers

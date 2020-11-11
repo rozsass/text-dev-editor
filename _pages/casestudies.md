@@ -42,7 +42,7 @@ Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more
 1. Identifying paragraphs that are badly structured. Suggest edits, rearrange sentences to make substance clearer.  
 2. Suggest adding commas to help non-native students better understand longer sentences.  
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more-explanations)
+Check out some [EXAMPLES](/text-dev-editor/example-edits/#improve-structure)
 
 
 ### Checking numbers,format
@@ -52,33 +52,37 @@ Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more
 4. Find inconsistency in format of text. 
 5. Find inconsitency in style-we argue instead of one argues.   
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more-explanations)
+Check out some [EXAMPLES](/text-dev-editor/example-edits/#checking-number-and-format)
+
+## Shotert materials
+
+Check out some [EXAMPLES](/text-dev-editor/example-edits/#shorter-materials)
 
 
-## Academic papers
+### Academic papers
 Editing text in MS Word and in Latex.
 
 * More detials be added *
 
 
-## Consultancy/business reports
+### Consultancy/business reports
 Editing text in MS Word.
 
 * More detials be added *
 
 
-## Presentations
+### Presentations
 Editing text in latex, overleaf, MS Powerpoint. 
 
 * More detials be added *
 
 
-## Practice questions and answers
+### Practice questions and answers
 Checked a large document with answers on practice questions. 
 
 * More detials be added *
 
-## Website
+### Website
 Editing text in markdown (like this website) or the textbook website. 
 
 * More detials be added *

@@ -1,14 +1,16 @@
 ---
-layout: archive
-title: "Concrete examples"
+layout: single
+classes: #wide
 permalink: /example-edits/
-author_profile: true
+title: "Example ediits"
+author_profile: false
 redirect_from:
   - /md/
   - /example-edits.html
 ---
 
 {% include base_path %}
+
 
 Let me show concrete examples of edits.
 

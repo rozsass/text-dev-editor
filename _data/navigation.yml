@@ -26,6 +26,8 @@ sidebar:
         url: /authors/
       - title: "Endorsements"
         url: /endorsements
+      - title: "Example edits"
+        url: /example-edits
       - title: "Contact us"
         url: /contact-us
 

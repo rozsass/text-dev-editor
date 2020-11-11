@@ -62,27 +62,29 @@ Check out some [EXAMPLES](/text-dev-editor/example-edits/#shorter-materials)
 ### Academic papers
 Editing text in MS Word and in Latex.
 
-* More detials be added *
+* More details be added *
 
 
 ### Consultancy/business reports
 Editing text in MS Word.
 
-* More detials be added *
+* More details be added *
 
 
 ### Presentations
 Editing text in latex, overleaf, MS Powerpoint. 
 
-* More detials be added *
+* More details be added *
+1. Compare tables and text.
+2. Compare figures and text.
 
 
 ### Practice questions and answers
 Checked a large document with answers on practice questions. 
 
-* More detials be added *
+* More details be added *
 
 ### Website
 Editing text in markdown (like this website) or the textbook website. 
 
-* More detials be added *
+* More details be added *

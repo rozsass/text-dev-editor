@@ -24,23 +24,25 @@ Below, I offer details of tasks and examples.
 
 ### Content development
 
-1a. Identifying paragraphs and sentences that are okay in terms of language but are difficult to understand / not clear. Ask authors to clarify/ give examples.   
-1b. Identifying paragraphs and sentences that are clear in terms of language but need examples. Ask authors to give examples.   
-2. Identifying paragraphs that are badly structured. Suggest edits, rearrange sentences to make substance clearer.  
+1. Identifying paragraphs and sentences that are okay in terms of language but are difficult to understand / not clear. Ask authors to clarify/ give examples.   
+2. Identifying paragraphs and sentences that are clear in terms of language but need examples. Ask authors to give examples.   
 3. Find when authors introduce a new concept without definition or define another concept instead. Ask authors whether the concepts are known to readers.  
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits.md#hard-to-understand-paragraphs)
+Check out some [EXAMPLES](/text-dev-editor/example-edits/#hard-to-understand-paragraphs)
 
-/*IZE  https://github.com/rozsass/text-dev-editor/blob/master/_pages/example-edits.md#hard-to-understand-paragraphs*/
-
-
-### Paragraph editing
+### Help clarify
 
 1. Find repetitive content, paragraphs that may be scattered in a section, but are very close in content. Suggest cuts and edits.   
 2. Find unlcear technical terms: authors use different expressions for a concept and it is not clear if they are the same.  
-3. Suggest adding commas to help non-native students better understand longer sentences.  
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits)
+Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more-explanations)
+
+
+### Improve structure
+1. Identifying paragraphs that are badly structured. Suggest edits, rearrange sentences to make substance clearer.  
+2. Suggest adding commas to help non-native students better understand longer sentences.  
+
+Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more-explanations)
 
 
 ### Checking numbers,format
@@ -50,7 +52,7 @@ Check out some [EXAMPLES](/text-dev-editor/example-edits)
 4. Find inconsistency in format of text. 
 5. Find inconsitency in style-we argue instead of one argues.   
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits)
+Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more-explanations)
 
 
 ## Academic papers

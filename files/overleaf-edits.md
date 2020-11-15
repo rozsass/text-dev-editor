@@ -1,4 +1,8 @@
 
+% THIS ARE EDIT BITS -- PICK AND COPY TO **EXAMPLES**. 
+% (NOT DISPLAYED ON WEBSITE)
+
+
 
 ## check footnotes and make corrections to match content in text/tables/figures
 

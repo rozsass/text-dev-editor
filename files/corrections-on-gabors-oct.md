@@ -1,3 +1,7 @@
+
+% THIS ARE EDIT BITS -- PICK AND COPY TO **CASE STUDIES**. 
+% (NOT DISPLAYED ON WEBSITE)
+
 # Corrections to Bekes-Kezdi (2019-2020)
 
 I have been the *text development editor* for Bekes-Kezdi: Data Analysis textbook, an 800 page volume published by [Cambridge University Press]() in February 2021. This meant reading the full manuscript twice. 

@@ -41,9 +41,7 @@ Below, I offer details of tasks and examples.
 2. xxxxxxxxx [page xx](/scans/e1.png)  
 3. xxxxxxxxx [page xx](/scans/e1.png)  
 
-4. The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation.... [page 143](/scans/e1.png)  
-4....we have two slope coefficients and for the second range, we need to add them up....each line segmnent corresponding to a specific interval of the explanatory variable. [page 223-224](/scans/e1.png)  
-4....firms with more employees tend to have larger sales. ....we see firms with zero or on emeployees but with very large revenues...[page 242](/scans/e1.png)  
+ 
 
 5. Taking this to its mathematical extreme **,** as we look at samples that are infinitely large **,** the standard deviation shrinks to zero.[page 140](/scans/e1.png)  
 
@@ -58,17 +56,6 @@ Below, I offer details of tasks and examples.
 2. Find missing labels in figures (x, y axes), missing source, name of case study. 
 3. Find inconsistency in format of text. 
 4. Find inconsitency in style-we argue instead of one argues.   
-
-### Examples
-1.For the last bin [3,7] we chose 3.5km not the midpoint, because the distribution of distance is skewed and the median...But figure shows it at 5km.[page 194](/scans/e1.png)  
-1. Figures 8.2a and 8.2b show four regression lines. But there is only 1 line. [page 221](/scans/e1.png)  
-1. x axis shows price in (EUR) while text says USD.  
-1. Name of table: House price prediction models; Source:swim-transactions dataset.[page 533](/scans/e1.png)
-1. ....it (the model) has all the variables including flags but does not have interactions. But the model does not have Financial (1) type variables. [page 519](/scans/e1.png)        
-
-3. ...an assumption is called "homoskedasticity". Authors use quotation marks to introduce a definition instead of bold letters.[page 266](/scans/e1.png)   
-
-
 
 
 

@@ -152,7 +152,7 @@ The 95\% CI +is+ -are- [-0.21,-0.17].
 
 ##Improve readability  
 
-Chapter 21  
+NINCS BENNE Chapter 21  
 To estimate ATE +by exact matching+, we +would+ need the same +as for ATET+ plus +would need to match all other graduates -matched matched- to U graduates. 
 
 
@@ -164,14 +164,10 @@ The assignment was thus fully controlled, and the rule ha+d+-s- nothing to do wi
 Chapter 03  
 We inspected it closely, and +a room+ in a 3-star--s- hotel is unlikely to -have- cost over a thousand euros.
 
-Chapter 17  
+NINCS BENNE Chapter 17  
 In this case, we will have to work hard to get to test our first model. First, we will define the target and discuss the best +way to+ capture the idea of default. Second, we need to design the sample to train our model: +we need to+ filter-ing- out firms that are different to those we care about.  
 
-Chapter 15  
-It goes on, until no improvement could be made +that would+ increase -increasing- the fit by at least 1\%.  
 
-Chapter 10  
-Strong but imperfect correlation between explanatory +variables+ is sometimes called \textit{multicollinearity}.  
 
 
 

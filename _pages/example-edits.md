@@ -57,6 +57,8 @@ This goes on until no improvement could be made that would increase the fit by a
 
 ## Checking numbers and format
 
+Examples on smaller but important edits.
+
 1. For the last bin [3,7] we chose 3.5km not the midpoint, because the distribution of distance is skewed and the median...   
 But the figure shows it at 5km.[page 194](/scans/e1.png)  
 

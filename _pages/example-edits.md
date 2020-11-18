@@ -33,9 +33,9 @@ Some examples of edits.
 
 **Push for examples, more explanation/Find unlcear technical terms: authors use different expressions for a concept and it is not clear if they are the same.**
 
-1.The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation.... [page 143](/scans/e1.png)
-2....firms with more employees tend to have larger sales. ....we see firms with zero or one employees but with very large revenues...[page 242](/scans/e1.png)   
-3....we have two slope coefficients and for the second range, we need to add them up....each line segmnent corresponding to a specific interval of the explanatory variable. [page 223-224](/scans/e1.png)  
+1. The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation.... [page 143](/scans/e1.png)
+2. ...firms with more employees tend to have larger sales. ....we see firms with zero or one employees but with very large revenues...[page 242](/scans/e1.png)   
+3. ...we have two slope coefficients and for the second range, we need to add them up....each line segmnent corresponding to a specific interval of the explanatory variable. [page 223-224](/scans/e1.png)  
 
 
 **Task: Identifying paragraphs and sentences that are clear in terms of language but need examples.**    
@@ -45,13 +45,11 @@ Some examples of edits.
 2. In observational data we compare observations that may be different in terms of x for many reasons. The data does not necessarily inform us of what would happen to y if we were to change x, because the differences in x are not the result of our manipulations.[page 207](/scans/e1.png)  
 3. Instead it is an imperfect measure because there are differences within some countries, especially within large ones with many groups and areas that have different values and/or institutions.[page 640](/scans/e1.png)      
 4. In fact, some important economic variables are well approximated by a lognormal distribution.[page 216](/scans/e1.png)  
-5. Indeed, ARMA models can capture complicated patterns of serial correlation by mixing features of gradual decay with specific values for specific orders of serial correlation.[page 547](/scans/e1.png)  
+5. Indeed, ARMA models can capture complicated patterns of serial correlation by mixing features of gradual decay with specific values for specific orders of serial correlation.[page 547](/scans/e1.png)
 6. Strong but imperfect correlation between explanatory is sometimes called multicollinearity.  
-Strong but imperfect correlation between explanatory variables is called multicollinearity. [page 274](/scans/e1.png)  
-
+Strong but imperfect correlation between explanatory variables is called multicollinearity. [page 274](/scans/e1.png)
 7. This goes on until no improvement oould be made by increasing the fit by at least 0.01.    
-This goes on until no improvement could be made that would increase the fit by at least 0.01.[page 430](/scans/e1.png)  
-
+This goes on until no improvement could be made that would increase the fit by at least 0.01.[page 430](/scans/e1.png)
 8. First, we will define the target and discuss the best +way to+ capture the idea of default. Second, we need to design the sample to train our model: +we need to+ filter-ing- out firms that are different to those we care about. 
 
 

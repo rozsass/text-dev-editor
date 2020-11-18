@@ -33,13 +33,17 @@ Some examples of edits.
 
 **Push for examples, more explanation/Find unlcear technical terms: authors use different expressions for a concept and it is not clear if they are the same.**
 
+Examples:
+
 1. The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation.... [page 143](/scans/e1.png)
-2. ...firms with more employees tend to have larger sales. ....we see firms with zero or one employees but with very large revenues...[page 242](/scans/e1.png)   
-3. ...we have two slope coefficients and for the second range, we need to add them up....each line segmnent corresponding to a specific interval of the explanatory variable. [page 223-224](/scans/e1.png)  
+2. "...firms with more employees tend to have larger sales." "....we see firms with zero or one employees but with very large revenues..." [page 242](/scans/e1.png)
+3. "...we have two slope coefficients and for the second range, we need to add them up." ...each line segmnent corresponding to a specific interval of the explanatory variable. [page 223-224](/scans/e1.png)
 
 
 **Task: Identifying paragraphs and sentences that are clear in terms of language but need examples.**    
 **Action: Ask authors to give examples.**   
+
+Examples:
 
 1. Understanding what mechanisms may play a role in the effect of the causal variable is important for various reasons.[page 635](/scans/e1.png)   
 2. In observational data we compare observations that may be different in terms of x for many reasons. The data does not necessarily inform us of what would happen to y if we were to change x, because the differences in x are not the result of our manipulations.[page 207](/scans/e1.png)  
@@ -57,14 +61,9 @@ This goes on until no improvement could be made that would increase the fit by a
 
 Examples on smaller but important edits.
 
-1. For the last bin [3,7] we chose 3.5km not the midpoint, because the distribution of distance is skewed and the median...   
-But the figure shows it at 5km.[page 194](/scans/e1.png)  
-
-2. Figures 8.2a and 8.2b show four regression lines.   
-But there is only 1 line. [page 221](/scans/e1.png)  
-
-3. x axis shows price in (EUR).   
-But the text says USD.    
+1. For the last bin [3,7] we chose 3.5km not the midpoint, because the distribution of distance is skewed and the median...   --- But the figure shows it at 5km.[page 194](/scans/e1.png)  
+2. Figures 8.2a and 8.2b show four regression lines. --- But there is only 1 line. [page 221](/scans/e1.png)  
+3. x axis shows price in (EUR).   --- But the text says USD.    
 
 4. Name of table: House price prediction models.
 But the source under the table says swim-transactions dataset.[page 533](/scans/e1.png)  

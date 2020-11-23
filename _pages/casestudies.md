@@ -22,31 +22,28 @@ I have participated in developing the text of an 800-page textbook published by 
 
 Below, I offer details of tasks and examples. 
 
-### Content development
+### Content development: clarify text and improve structure  
 
-1. Identifying paragraphs and sentences that are correct in terms of language but are difficult to understand. Ask authors to clarify.   
-2. Identifying paragraphs and sentences that are correct in terms of language but need examples. Ask authors to give examples.   
+
+1. Find paragraphs and sentences that are correct in terms of language but are difficult to understand. Ask authors to clarify.   
+2. Find paragraphs and sentences that are correct in terms of language but need examples. Ask authors to give examples.   
 3. Find when authors introduce a new concept without definition or define another concept instead. Ask authors whether the concepts are known to the readers.  
+4. Find unlcear technical terms: authors use various expressions for one concept and it is not clear what they mean.    
+5. Find repetitive content, paragraphs that may be scattered in a section, but are very close in content. Suggest cuts and edits.  
+6. Find paragraphs that are badly structured. Suggest edits, rearrange sentences to make the substance clearer.  
 
 Check out some [EXAMPLES](/text-dev-editor/example-edits/#hard-to-understand-paragraphs)
-
-### Clarify and improve structure
-
-1. Find repetitive content, paragraphs that may be scattered in a section, but are very close in content. Suggest cuts and edits.   
-2. Find unlcear technical terms: authors use various expressions for one concept and it is not clear what they mean.  
-3. Identifying paragraphs that are badly structured. Suggest edits, rearrange sentences to make substance clearer.  
-4. Suggest adding commas to help non-native students better understand longer sentences.  
-
 Check out some [EXAMPLES](/text-dev-editor/example-edits/#improve-structure)
 Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more-explanations)
 
 
-### Checking numbers,format
+### Checking numbers and format
 1. Look through text and figures to find possible inconsistencies (text and figures, text and tables).  
 2. Find references to tables, graphs, earlier sections that do not exist in the text.
-3. Find missing labels in figures (x, y axes), missing source, name of case study. 
+3. Find missing labels in figures (x, y axes), missing source, notes, name of case study. 
 4. Find inconsistency in format of text. 
-5. Find inconsistency in style-we argue instead of one argues.   
+5. Find inconsistency in style  (for example using "one argues"  instead of "we argue").   
+6. Look through practice questions and answers to find possible inconsistencies.
 
 Check out some [EXAMPLES](/text-dev-editor/example-edits/#checking-number-and-format)
 
@@ -74,11 +71,6 @@ Editing text in latex, overleaf, MS Powerpoint.
 1. Compare tables and text.
 2. Compare figures and text.
 
-
-### Practice questions and answers
-Checked a large document with answers on practice questions. 
-
-* More details be added *
 
 ### Website
 Editing text in markdown (like this website) or the website of the Bekes-Kezdi: Data Analysis textbook. 

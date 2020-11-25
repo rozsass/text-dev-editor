@@ -12,7 +12,6 @@ redirect_from:
 {% include base_path %}
 
 
-# Previous projects
 
 I have done editing on academic economic papers, economic consulting and data science projects. 
 

@@ -13,7 +13,8 @@ redirect_from:
 ## Shorter projects
 For shorter projects, I can either offer you an hourly rate or a fixed price. I calculate the total price as I aim to make $ (incl. taxes) per hour when I’m editing. 
 
-For a price estimate, I will always ask for a sample as the amount of tasks depends on the content and style of the text. 
+For a price estimate, I will always ask for a sample of the text as the amount of tasks depends on the content and style.  
+
 
 Here are some examples:
 * A thesis chapter of 30 pages (15,000 words) with data work, tables and graphs, and equations, written in LaTex. This would require going through the text twice and take about 15-25 hours, so the total cost would be around $.

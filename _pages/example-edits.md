@@ -15,10 +15,11 @@ redirect_from:
 ## Content development 
 
 **Task: Identifying paragraphs and sentences that are correct in terms of language but are difficult to understand / not clear.**    
-1. To further generalize the findings to another pattern of interest, such as online-offline price differences among all products in the US sold both online and offline by the same retailers, we would have to assume that the distribution of price differences among the products represented in this data would be very similar in that more general pattern. [page 157](/scans/e1.png)  
-2. Recall that the coefficient on the AR(1) term is estimated to be very strong on the training time series.[page 543](/scans/e1.png)   
-3. All of this is an iterative process.[page 50](/scans/e1.png)   
-4. Under lucky circumstances, data analysts may assume that variation in x in observational data that is exogenous, just as if it came from a controlled experiment.[page 580](/scans/e1.png)  
+1. "To further generalize the findings to another pattern of interest, such as online-offline price differences among all products in the US sold both online and offline by the same retailers, we would have to assume that the distribution of price differences among the products represented in this data would be very similar in that more general pattern."
+[page 157](/scans/e1.png)  
+2. "Recall that the coefficient on the AR(1) term is estimated to be very strong on the training time series."[page 543](/scans/e1.png)   
+3. "All of this is an iterative process."[page 50](/scans/e1.png)   
+4. "Under lucky circumstances, data analysts may assume that variation in x in observational data that is exogenous, just as if it came from a controlled experiment."[page 580](/scans/e1.png)  
   
 
 
@@ -26,9 +27,9 @@ redirect_from:
 
 **Task: Identifying unlcear technical terms: authors use different expressions for a concept and it is not clear if they are the same.**
 
-1. The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation.... [page 143](/scans/e1.png)
+1. "The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation...." [page 143](/scans/e1.png)
 2. "...firms with more employees tend to have larger sales." "....we see firms with zero or one employees but with very large revenues..." [page 242](/scans/e1.png)
-3. "...we have two slope coefficients and for the second range, we need to add them up." ...each line segmnent corresponding to a specific interval of the explanatory variable. [page 223-224](/scans/e1.png)
+3. "...we have two slope coefficients and for the second range, we need to add them up." ...each line segmnent corresponding to a specific interval of the explanatory variable."" [page 223-224](/scans/e1.png)
 
 
 ## Ask for more precision or examples
@@ -38,7 +39,7 @@ redirect_from:
 1. "Understanding what mechanisms may play a role in the effect of the causal variable is important for various reasons." [page 635](/scans/e1.png). **Various reasons** is vague, needs an example.   
 2. "Instead it is an imperfect measure because there are differences within some countries, especially within large ones with many groups and areas that have different values and/or institutions." [page 640](/scans/e1.png) Needs country / country group examples.       
 3. "In fact, some important economic variables are well approximated by a lognormal distribution."[page 216](/scans/e1.png) **Some important economic variables** is not well defined, need either an example or focus.    
-4. "Indeed, ARMA models can capture complicated patterns of serial correlation by mixing features of gradual decay with specific values for specific orders of serial correlation."[page 547](/scans/e1.png) **mixing features of gradual decay with specific values for specific orders** could be technically okay, but it is very hard to understand, as features, values and orders are not specified. Need examples. 
+4. "Indeed, ARMA models can capture complicated patterns of serial correlation by mixing features of gradual decay with specific values for specific orders of serial correlation."[page 547](/scans/e1.png) **mixing features of gradual decay with specific values for specific orders** could be technically correct, but it is difficult to understand, as features, values and orders are not specified. Need examples. 
 
 
 ## Checking numbers and format
@@ -47,13 +48,13 @@ redirect_from:
 
 1. "For the last bin [3,7] we chose **3.5km** not the midpoint, because the distribution of distance is skewed and the median..." But the figure shows it at 5km.[page 194](/scans/e1.png)  
 2. "Figures 8.2a and 8.2b show **four** regression lines."  But there is only 1 line per graph. [page 221](/scans/e1.png)  
-3. "x axis shows price in (EUR)."   But the text says USD.    
-4. Name of the table: "House price prediction models". --- But the source under the table says swim-transactions dataset.[page 533](/scans/e1.png)  
-5. "....it (the model) has all the variables including flags but does not have interactions."  --- But the model does not have Financial (1) type variables. [page 519](/scans/e1.png)  
-6. "As the figure shows, z is a mechanism of reverse causality if y affects z, that in turn, affects x." [page 582](/scans/e1.png)  --- But there is no z variable in the figure.  
-7. "...people who eat 100 more grams of fruit and vegetables have lower blood pressure..." --- But the descriptive table measures fruit and vegetables in numbers not in grams.[page 587](/scans/e1.png)   
-8. "It produces a model that includes most but not all variables, reducing the number of predictors from 153 to 128." [page 519](/scans/e1.png) --- But the table has 134 variables for this model.  
-9. "...an assumption is called "homoskedasticity".  --- But the authors use quotation marks to introduce a definition instead of bold letters used throughout the book.[page 266](/scans/e1.png)
+3. "x axis shows price in **(EUR)**." But the text says USD.      
+4. A table is called "**House price** prediction models". But the source under the table says **swim-transactions dataset**.[page 533](/scans/e1.png)  
+5. "....it (the model) **has all the variables** including flags but does not have interactions."  But the model does not have all the variables. [page 519](/scans/e1.png)  
+6. "As the figure shows, **z** is a mechanism of reverse causality if y affects z, that in turn, affects x." [page 582](/scans/e1.png) But there is no z variable in the figure.  
+7. "...people who eat 100 more **grams** of fruit and vegetables have lower blood pressure..." But the descriptive table measures fruit and vegetables in numbers not in grams.[page 587](/scans/e1.png)   
+8. "It produces a model that includes most but not all variables, reducing the number of predictors from 153 to **128**." [page 519](/scans/e1.png) But the table has 134 variables for this model.  
+9. "...an assumption is called "homoskedasticity".  But the authors use quotation marks to introduce a definition instead of bold letters used throughout the book.[page 266](/scans/e1.png)
 
 
 ## Comparing documents

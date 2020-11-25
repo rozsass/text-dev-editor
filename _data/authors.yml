@@ -1,18 +1,11 @@
 # Authors
 
-bekes:
-  name        : "Gábor Békés"
+rozsas:
+  name        : "Sarolta Rózsás"
   uri         : "http://name.com"
   email       : "name@name.com"
-  bio         : "CEU, CEPR"
+  bio         : ""
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
   google_plus : "Name"
 
-kezdi:
-  name        : "Gabor Kézdi"
-  email       : "name2@name2.com"
-  bio         : "U. Michigan, ISR"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"

@@ -4,11 +4,11 @@ main:
   - title: "Why text development?"
     url: /whydevelop/
 
-  - title: "How I work"
-    url: /how-work/
-
   - title: "Projects"
     url: /casestudies/
+
+  - title: "Example edits"
+    url: /example-edits
 
   - title: "Pricing"
     url: /pricing/
@@ -23,11 +23,11 @@ sidebar:
     url: /
     children:
       - title: About me
-        url: /authors/
+        url: /author/
       - title: "Endorsements"
         url: /endorsements
       - title: "Example edits"
         url: /example-edits
-      - title: "Contact us"
-        url: /contact-us
+      - title: "Contact"
+        url: /contact
 

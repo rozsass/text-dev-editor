@@ -18,7 +18,7 @@ I have done editing on academic economic papers, economic consulting and data sc
 
 ## Corrections to Bekes-Kezdi Data Analysis Textbook by Cambridge University Press (2019-2020)
 
-I have participated in developing the text of an 800-page textbook published by [Cambridge University Press](Bekes-Kezdi: Data Analysis) in February 2021. This meant reading the full manuscript twice. First, in collaboration with the authors, I made some bolder edits on the draft text. Second, I did some copyediting on the revised text. 
+I have participated in developing the text of an 800-page textbook published by [Cambridge University Press](https://gabors-data-analysis.com/) in February 2021. This meant reading the full manuscript twice. First, in collaboration with the authors, I made some bolder edits on the draft text. Second, I did some copyediting on the revised text. 
 
 Below, I offer details of tasks and examples. 
 

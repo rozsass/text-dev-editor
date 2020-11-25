@@ -41,7 +41,9 @@ Below, I offer details of tasks and examples.
 2. xxxxxxxxx [page xx](/scans/e1.png)  
 3. xxxxxxxxx [page xx](/scans/e1.png)  
 
- 
+ 7. This goes on until no improvement oould be made by increasing the fit by at least 0.01.    
+This goes on until no improvement could be made that would increase the fit by at least 0.01.[page 430](/scans/e1.png)
+8. First, we will define the target and discuss the best +way to+ capture the idea of default. Second, we need to design the sample to train our model: +we need to+ filter-ing- out firms that are different to those we care about. 
 
 5. Taking this to its mathematical extreme **,** as we look at samples that are infinitely large **,** the standard deviation shrinks to zero.[page 140](/scans/e1.png)  
 
@@ -50,8 +52,13 @@ Below, I offer details of tasks and examples.
 7. Regression analysis helps answer each of the questions posed above, and many more...But there are no questions.[page 190](/scans/e1.png)  
 7. The following table shows selected exact values for.... But there is no table. [page 235](/scans/e1.png)  
 
+7. This goes on until no improvement oould be made by increasing the fit by at least 0.01.    
+This goes on until no improvement could be made that would increase the fit by at least 0.01.[page 430](/scans/e1.png)  
 
-## Checking numbers,format
+8. First, we will define the target and discuss the best +way to+ capture the idea of default. Second, we need to design the sample to train our model: +we need to+ filter-ing- out firms that are different to those we care about. 
+
+
+## Checking numbers and format
 1. Look through text and figures to find possible inconsistencies (text and figures, text and tables).  
 2. Find missing labels in figures (x, y axes), missing source, name of case study. 
 3. Find inconsistency in format of text. 

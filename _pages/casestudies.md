@@ -45,32 +45,9 @@ Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more
 
 Check out some [EXAMPLES](/text-dev-editor/example-edits/#checking-number-and-format)
 
-## Shorter materials
+## Comparing documents
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits/#shorter-materials)
-
-
-### Academic papers
-Editing text in MS Word and in Latex.
-
-* More details be added *
+1. Check if the same graphs are used presentation that is based on a paper
+2. Check if answers to practice questions are not missing, do answer the question in a clear way.  
 
 
-### Consultancy/business reports
-Editing text in MS Word.
-
-* More details be added *
-
-
-### Presentations
-Editing text in latex, overleaf, MS Powerpoint. 
-
-* More details be added *
-1. Compare tables and text.
-2. Compare figures and text.
-
-
-### Website
-Editing text in markdown (like this website) or the website of the Bekes-Kezdi: Data Analysis textbook. 
-
-* More details be added *

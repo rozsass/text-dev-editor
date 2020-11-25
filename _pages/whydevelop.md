@@ -25,5 +25,10 @@ I develop academic and business texts making them more precise, coherent, and be
 
 
 
+## Type of edits
+1. I ask for clarification on points that are not clear. [Examples](/text-dev-editor/example-edits)
+2. Suggest unifying terms (example: technology change, tech change, technological change --> technological change)
+3. Suggest settling down on a single abbreviation if necessary. (Example )
+4. Try to push authors to be more specific. When they say `important`, often it should be noted why or for whom
 
 

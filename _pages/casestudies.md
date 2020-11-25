@@ -12,7 +12,6 @@ redirect_from:
 {% include base_path %}
 
 
-
 I have done editing on academic economic papers, economic consulting and data science projects. 
 
 ## Corrections to Bekes-Kezdi Data Analysis Textbook by Cambridge University Press (2019-2020)

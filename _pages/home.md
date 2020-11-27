@@ -18,7 +18,7 @@ redirect_from:
 
 ## The service
 
-I develop academic and business texts making them more precise, coherent, and easier to understand for a wider audience.
+I develop academic and business texts and make them more precise, coherent, and easier to understand for a wider audience.
 
 [Read more](whydevelop) on why you may consider hiring a text development editor. 
 
@@ -39,9 +39,9 @@ I am not a techie. As most text editors I prefer [Mantel](https://en.wikipedia.o
 
 * Word processor with track changes, such as MS Word.
 * PDF, annotated.
-* [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com). Overleaf is a great way to see corrections.  
-* [Markdown](https://en.wikipedia.org/wiki/Markdown) - like this website is written in markdown for Jekyll. Even [Bookdown](https://bookdown.org/yihui/bookdown/) could be an option, using .md files.  
-* Presentation platforms like MS PowerPoint or LaTex beamer.
+* [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com).    
+* [Markdown](https://en.wikipedia.org/wiki/Markdown).  
+* Presentation platforms like MS PowerPoint or LaTex beamer.  
 
 
 ## Type of edits

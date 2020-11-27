@@ -17,5 +17,9 @@ For a price estimate, I will always ask for a sample of the text as the amount o
 For longer projects, the quote is based on a lower hourly rate and depends on the nature of the work. 
 
 ## Contact me for questions or a quote!
-In any case, send me a sample of the text, and I'll give a you quote. [Contact me here](/contact)
+In any case, send me a sample of the text, and I'll give a you quote. 
+[1 Contact me here](contact)
+[2 Contact me here](/contact)
+[3 Contact me here](contact/)
+[4 Contact me here](/contact/)
 

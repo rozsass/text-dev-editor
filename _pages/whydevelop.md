@@ -9,8 +9,7 @@ redirect_from:
   - /whydevelop.html
 ---
 
-I believe I can help make your text more coherent, precise, and easier to understand. By using my service, you can expect your material to improve in terms of its content and structure. 
-
+I believe I can help make your text more coherent, precise, and easier to understand. 
 
 ## Increase coherence, improve structure
 

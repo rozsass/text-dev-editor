@@ -14,6 +14,9 @@ I will flag repetitive content - paragraphs that may be scattered in a section, 
 
 Many documents I work with are written by non-native English speakers for an audience that is in majority non-native speaker. In these cases,
 
+
+By using my service, you can expect your material to improve in terms of its content and structure. 
+
 ## My work flow 
 
 1. I start by reading through the material. This helps collect the key technical terms and the style.  

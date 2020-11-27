@@ -24,24 +24,16 @@ I develop academic and business texts and make them more precise, coherent, and 
 
 ## Focus
 
-* academic texts in social sciences especially applied works in economics, politics or international relations, such as
-	* textbooks
-	* popular texts, reviews, chapters
-	* undergraduate and graduate theses
-	* solutions to practice questions
-* business texts, such as 
-	* consultancy reports
-	* market analysis
-* presentations	
+* academic texts in social sciences especially applied works in economics, politics or international relations (such as textbooks, popular texts, reviews, undergraduate and graduate theses, solutions to practice questions),  
+* business texts (such as consultancy reports and market analysis),  
+* presentations.  	
 
 ## Tech options
-I am not a techie. As most text editors I prefer [Mantel](https://en.wikipedia.org/wiki/Hilary_Mantel) to [Markdown](https://en.wikipedia.org/wiki/Markdown). But I have learnt to work with a variety of tools used in academia and business. 
-
-* Word processor with track changes, such as MS Word.
-* PDF, annotated.
-* [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com).    
-* [Markdown](https://en.wikipedia.org/wiki/Markdown).  
-* Presentation platforms like MS PowerPoint or LaTex beamer.  
+I am not a techie but I have learnt to work with a variety of tools used in academia and business such as 
+* MS Word with track changes, PDF (annotated),
+* [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com),    
+* [Markdown](https://en.wikipedia.org/wiki/Markdown),  
+* presentation platforms like MS PowerPoint or LaTex beamer.  
 
 
 ## Type of edits

@@ -10,6 +10,10 @@ This was the end result:
 
 
 
+I will flag repetitive content - paragraphs that may be scattered in a section, but are very close in content. Also, I will find and edit paragraphs that are badly structured, suggesting edits, rearranging sentences to make the substance clearer.  
+
+Many documents I work with are written by non-native English speakers for an audience that is in majority non-native speaker. In these cases,
+
 ## My work flow 
 
 1. I start by reading through the material. This helps collect the key technical terms and the style.  

@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Text development editing"
+title                    : "Text development"
 title_separator          : "-"
 subtitle                 : #" Data Analysis for Business, Economics, and Policy. A comprehensive textbook on data analysis. Case study heavy with real-world data. Cambridge UP (December 2020)"
 name                     : "sci-text-dev"

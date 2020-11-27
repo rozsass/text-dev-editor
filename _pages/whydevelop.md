@@ -9,7 +9,7 @@ redirect_from:
   - /whydevelop.html
 ---
 
-I believe I can help make your text more coherent, precise, and easier to understand. 
+I believe that I can help make your text more coherent, precise, and easier to understand. 
 
 ## Increase coherence
 

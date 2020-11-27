@@ -14,7 +14,7 @@ I believe that I can help make your text more coherent, precise, and easier to u
 ## Increase coherence
 
 Text development aims to clarify and improve the structure of the text and create a more coherent content. 
-Very often the material includes all the necessary information but some sections and paragraphs are poorly structured. I can help improve the text by pointing out repetition, suggesting restructuring (cuts and edits) to create a better content. 
+Very often the material includes all the necessary information but some sections or paragraphs are poorly structured. I can help improve the text by pointing out repetition, suggesting restructuring and edits to create a better content. 
 
 
 ## Polish for easier understanding 

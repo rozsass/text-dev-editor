@@ -18,20 +18,21 @@ redirect_from:
 
 ## The service
 
-I develop academic and business texts and make them more precise, coherent, and easier to understand for a wider audience.
+***I develop academic and business texts and make them more precise, coherent, and easier to understand for a wider audience.***
 
 [Read more](whydevelop) on why you may consider hiring a text development editor. 
 
 ## Focus
 
-* academic texts in social sciences especially applied works in economics, politics or international relations  
-(such as textbooks, popular texts, reviews, undergraduate and graduate theses, solutions to practice questions),  
+I focus on editing
+* academic texts in social sciences especially applied works in economics, politics or international relations (such as textbooks, popular texts, reviews, undergraduate and graduate theses, solutions to practice questions),  
 * business texts (such as consultancy reports and market analysis),  
 * presentations.  	
 
 ## Tech options
 I have learnt to work with a variety of tools used in academia and business such as 
-* MS Word with track changes, PDF (annotated),
+* MS Word with track changes, 
+* PDF (annotated),
 * [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com),    
 * [Markdown](https://en.wikipedia.org/wiki/Markdown),  
 * presentation platforms like MS PowerPoint or LaTex beamer.  

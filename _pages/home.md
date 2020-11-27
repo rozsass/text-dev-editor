@@ -36,13 +36,6 @@ I am not a techie but I have learnt to work with a variety of tools used in acad
 * [Markdown](https://en.wikipedia.org/wiki/Markdown),  
 * presentation platforms like MS PowerPoint or LaTex beamer.  
 
-
-## Type of edits
-1. Ask for explanation on points that are not clear. 
-2. Suggest unifying terms that refer to the same object, and settling down on a single abbreviation if necessary. 
-3. Ask authors to be more specific. When they say `important`, often it should be noted why or for whom.
-
-
 ## Language skills
 
 I am *not* a native English speaker. I make some language edits as I go along to help readers, and some stylistic suggestions.  However, if you are not a native English speaker, you may need a language editor.  

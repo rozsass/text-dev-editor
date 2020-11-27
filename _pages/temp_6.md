@@ -17,6 +17,13 @@ Many documents I work with are written by non-native English speakers for an aud
 
 By using my service, you can expect your material to improve in terms of its content and structure. 
 
+## Type of edits
+1. Ask for explanation on points that are not clear. 
+2. Suggest unifying terms that refer to the same object, and settling down on a single abbreviation if necessary. 
+3. Ask authors to be more specific. When they say `important`, often it should be noted why or for whom.
+
+
+
 ## My work flow 
 
 1. I start by reading through the material. This helps collect the key technical terms and the style.  

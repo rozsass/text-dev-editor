@@ -18,8 +18,5 @@ For longer projects, the quote is based on a lower hourly rate and depends on th
 
 ## Contact me for questions or a quote!
 In any case, send me a sample of the text, and I'll give a you quote. 
-[1 Contact me here](contact)
-[2 Contact me here](/contact)
-[3 Contact me here](contact/)
-[4 Contact me here](/contact/)
+[Contact me here](https://rozsass.github.io/text-dev-editor/contact/)
 

@@ -61,5 +61,5 @@ redirect_from:
 
 **Task: Often we need to edit a document related to another one, such as a presentation vs a paper, or practice questions and answers**
 
-1. E
-2. E
+1. Compare version of graphs in a paper and the presentation to discover that edits were made in the paper not added to the presentation.
+2. Suggest edits to presentation to make it more concise / fit better on slide. 

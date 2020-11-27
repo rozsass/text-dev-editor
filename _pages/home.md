@@ -24,7 +24,8 @@ I develop academic and business texts and make them more precise, coherent, and 
 
 ## Focus
 
-* academic texts in social sciences especially applied works in economics, politics or international relations (such as textbooks, popular texts, reviews, undergraduate and graduate theses, solutions to practice questions),  
+* academic texts in social sciences especially applied works in economics, politics or international relations  
+(such as textbooks, popular texts, reviews, undergraduate and graduate theses, solutions to practice questions),  
 * business texts (such as consultancy reports and market analysis),  
 * presentations.  	
 

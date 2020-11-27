@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Text development editing"
+title: "Text development"
 layout: single
 classes: wide
 excerpt: "About"

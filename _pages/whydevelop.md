@@ -17,9 +17,9 @@ Text development aims to clarify and improve the structure of the text and creat
 Very often the material includes all the necessary information but some sections and paragraphs are poorly structured. I can help improve the text by pointing out repetition, suggesting restructuring (cuts and edits) to create a better content. 
 
 
-## Polish for better understanding 
+## Polish for easier understanding 
 
-Better understanding is often not about language. As the audience may know less about the material than the author, some discussions and explanations need beefing up. I focus on making sure the content and the main messages are clearly formulated and explained. I check whether the definitions are unambiguous and the technical terms are used consistently. When a point is clear but hard to fathom I suggest adding examples. 
+Better understanding is often not about language. As the audience may know less about the material than the author, some discussions and explanations need beefing up. I focus on making sure the content and the main messages are clearly formulated and explained. I check if the definitions are unambiguous and the technical terms are used consistently. When a point is clear but hard to fathom I suggest adding examples. 
 
 
 ## Check information for a higher precision

@@ -20,3 +20,5 @@ For longer projects, the quote is based on a lower hourly rate and depends on th
 In any case, send me a sample of the text, and I'll give a you quote. 
 [Contact me here](https://rozsass.github.io/text-dev-editor/contact/)
 
+
+

@@ -30,7 +30,7 @@ I develop academic and business texts and make them more precise, coherent, and 
 * presentations.  	
 
 ## Tech options
-I am not a techie but I have learnt to work with a variety of tools used in academia and business such as 
+I have learnt to work with a variety of tools used in academia and business such as 
 * MS Word with track changes, PDF (annotated),
 * [LaTex](https://www.latex-project.org/) and [Overleaf](www.overleaf.com),    
 * [Markdown](https://en.wikipedia.org/wiki/Markdown),  

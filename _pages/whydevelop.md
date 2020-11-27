@@ -11,7 +11,7 @@ redirect_from:
 
 I believe I can help make your text more coherent, precise, and easier to understand. 
 
-## Increase coherence, improve structure
+## Increase coherence
 
 Text development aims to clarify and improve the structure of the text and create a more coherent content. 
 Very often the material includes all the necessary information but some sections and paragraphs are poorly structured. I can help improve the text by pointing out repetition, suggesting restructuring (cuts and edits) to create a better content. 

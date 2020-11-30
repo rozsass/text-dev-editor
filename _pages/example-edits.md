@@ -39,7 +39,7 @@ redirect_from:
 
 1. "Understanding what mechanisms may play a role in the effect of the causal variable is important for various reasons." **Various reasons** is vague, needs an example.   
 2. "Instead it is an imperfect measure because there are differences within some countries, especially within large ones with many groups and areas that have different values and/or institutions." Needs country / country group examples.       
-3. "In fact, some important economic variables are well approximated by a lognormal distribution."**Some important economic variables** is not well defined, need either an example or focus.    
+3. "In fact, some important economic variables are well approximated by a lognormal distribution." **Some important economic variables** is not well defined, need either an example or focus.    
 4. "Indeed, ARMA models can capture complicated patterns of serial correlation by mixing features of gradual decay with specific values for specific orders of serial correlation." **Mixing features of gradual decay with specific values for specific orders** could be technically correct, but it is difficult to understand, as features, values and orders are not specified. Need examples. 
 
 

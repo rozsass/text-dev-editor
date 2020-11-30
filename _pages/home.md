@@ -18,7 +18,7 @@ redirect_from:
 
 ## The service
 
-***I develop academic and business texts and make them more precise, coherent, and easier to understand for a wider audience.***
+I develop academic and business texts and make them more precise, coherent, and easier to understand for a wider audience.   
 
 [Read more](whydevelop) on why you may consider hiring a text development editor. 
 

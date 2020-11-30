@@ -30,10 +30,7 @@ Below, I offer details of tasks and examples.
 5. Find repetitive content, paragraphs that may be scattered in a section, but are very close in content. Suggest cuts and edits.  
 6. Find paragraphs that are badly structured. Suggest edits, rearrange sentences to make the substance clearer.  
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits/#hard-to-understand-paragraphs)
-Check out some [EXAMPLES](/text-dev-editor/example-edits/#improve-structure)
-Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more-explanations)
-
+Check out some [EXAMPLES on content development](/text-dev-editor/example-edits/#content-development) and [EXAMPLES on structure edits](/text-dev-editor/example-edits#clarify-and-improve-structure).
 
 ### Checking numbers and format
 1. Look through text and figures to find possible inconsistencies (text and figures, text and tables).  
@@ -43,11 +40,12 @@ Check out some [EXAMPLES](/text-dev-editor/example-edits/#push-for-examples-more
 5. Find inconsistency in style  (for example using "one argues"  instead of "we argue").   
 6. Look through practice questions and answers to find possible inconsistencies.
 
-Check out some [EXAMPLES](/text-dev-editor/example-edits/#checking-number-and-format)
+Check out some [EXAMPLES on precision](/text-dev-editor/example-edits/#ask-for-more-precision-or-examples) or [EXAMPLES on checking numbers](/text-dev-editor/example-edits/#checking-numbers-and-formats).
 
 ## Comparing documents
 
 1. Check if the same graphs are used presentation that is based on a paper
 2. Check if answers to practice questions are not missing, do answer the question in a clear way.  
 
+Check out some [EXAMPLES on comparing docs](/text-dev-editor/example-edits/#comparing-documents)
 

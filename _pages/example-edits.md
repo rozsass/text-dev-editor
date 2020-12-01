@@ -16,13 +16,13 @@ redirect_from:
 
 **Task: Identifying paragraphs and sentences that are correct in terms of language but are difficult to understand / not clear.**    
 1. "To further generalize the findings to another pattern of interest, such as online-offline price differences among all products in the US sold both online and offline by the same retailers, we would have to assume that the distribution of price differences among the products represented in this data would be very similar in that more general pattern."  
-*Long sentence and part of it needs clarification.*   
+*The sentence is a bit too long and part of it needs clarification.*   
 2. "Recall that the coefficient on the AR(1) term is estimated to be very strong on the training time series."  
-*Strong could be specified.*  
+*Explanation is needed for "strong".*  
 3. "All of this is an iterative process."  
-*Explanation is needed for "all of it".*  
+*Explanation is needed for "all of this".*  
 4. "Under lucky circumstances, data analysts may assume that variation in x in observational data that is exogenous, just as if it came from a controlled experiment."  
-*Sentence has no ending, needs clarification.*  
+*The sentence does not have an ending hence needs clarification.*  
 
 
   
@@ -52,7 +52,7 @@ redirect_from:
 3. "In fact, some important economic variables are well approximated by a lognormal distribution."  
 *"Some important economic variables" is not well defined, needs either an example or focus.*      
 4. "Indeed, ARMA models can capture complicated patterns of serial correlation by mixing features of gradual decay with specific values for specific orders of serial correlation."  
-*"Mixing features of gradual decay with specific values for specific orders" is difficult to understand, as features, values and orders are not specified. Needs examples.*   
+*"Mixing features of gradual decay with specific values for specific orders" is difficult to understand as features, values and orders are not specified. Needs examples.*   
 
 
 

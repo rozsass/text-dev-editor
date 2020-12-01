@@ -39,7 +39,7 @@ I have learnt to work with a variety of tools used in academia and business such
 
 ## Language skills
 
-I am *not* a native English speaker. I make some language edits as I go along to help readers, and some stylistic suggestions.  However, if you are not a native English speaker, you may need a language editor.  
+I am *not* a native English speaker. I make some language edits as I go along to help readers, and some stylistic suggestions.  However, if you are not a native English speaker you may need a language editor.  
 
 
 ## Experience and endorsement

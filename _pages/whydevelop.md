@@ -29,7 +29,7 @@ Materials in applied social science or business often include a range of numbers
 
 ## A caveat
 
-I am not a language editor, and you may need to have one, too. 
+I am not a language editor and you may need to have one. 
 
 
 

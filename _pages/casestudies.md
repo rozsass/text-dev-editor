@@ -44,8 +44,8 @@ Check out some [EXAMPLES on precision](/text-dev-editor/example-edits/#ask-for-m
 
 ## Comparing documents
 
-1. Check if the same graphs are used presentation that is based on a paper
-2. Check if answers to practice questions are not missing, do answer the question in a clear way.  
+1. Check if the same graphs are used in a presentation that is based on a paper.
+2. Check if answers to practice questions are not missing, and if they answer the question in a clear way.  
 
 Check out some [EXAMPLES on comparing docs](/text-dev-editor/example-edits/#comparing-documents)
 

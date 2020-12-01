@@ -10,10 +10,6 @@ main:
   - title: "Example edits"
     url: /example-edits
 
-  - title: "Translations"
-    url: /translations  
-
-
   - title: "Pricing"
     url: /pricing/
 
@@ -27,11 +23,15 @@ sidebar:
     url: /
     children:
       - title: About me
-        url: /author/
-      - title: "Endorsements"
-        url: /endorsements
+        url: /authors/
+      - title: "Projects"
+        url: /casestudies/
       - title: "Example edits"
         url: /example-edits
+      - title: "Translations"
+        url: /translations  
+      - title: "Endorsements"
+        url: /endorsements
       - title: "Contact"
         url: /contact
 

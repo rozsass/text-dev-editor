@@ -27,8 +27,8 @@ redirect_from:
 
 **Task: Identifying unlcear technical terms: authors use different expressions for a concept and it is not clear if they are the same.**
 
-1. `"The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation...."`  
-It can be confusing for the reader if a new definition is introduced by different expressions on a single page.    
+1. "The bootstrap is a method...The bootstrap procedures....Since the bootstrap distribution is a good approximation...."  
+*It can be confusing for the reader if a new definition is introduced by different expressions on a single page.*    
 2. "...firms with more employees tend to have larger sales." "....we see firms with zero or one employees but with very large revenues..."  
 Sales and revenues do not mean the same hence the authors need to clarify.
 3. "...we have two slope coefficients and for the second range, we need to add them up." "...each line segmnent corresponding to a specific interval of the explanatory variable."  

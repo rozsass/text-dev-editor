@@ -42,10 +42,11 @@ I have learnt to work with a variety of tools used in academia and business such
 I am *not* a native English speaker. I make some language edits as I go along to help readers, and some stylistic suggestions.  However, if you are not a native English speaker you may need a language editor.  
 
 
-## Experience and endorsement
+## Endorsement
 
 >**"We are grateful for Sarolta who read and edited endless versions of chapters, checking consistency, clarity and pushed us to make the text more coherent and accessible."**{: .notice--success}
 
-[MORE endorsements](endorsements)
+[Gabor Bekes and Gabor Kezdi](https://gabors-data-analysis.com/)
+
 
 

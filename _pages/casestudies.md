@@ -26,7 +26,7 @@ Below, I offer details of tasks and examples.
 1. Find paragraphs and sentences that are correct in terms of language but are difficult to understand. Ask authors to clarify.   
 2. Find paragraphs and sentences that are correct in terms of language but need examples. Ask authors to give examples.   
 3. Find when authors introduce a new concept without definition or define another concept instead. Ask authors whether the concepts are known to the readers.  
-4. Find unlcear technical terms: authors use various expressions for one concept and it is not clear what they mean.    
+4. Find unclear technical terms: authors use various expressions for one concept and it is not clear what they mean.    
 5. Find repetitive content, paragraphs that may be scattered in a section, but are very close in content. Suggest cuts and edits.  
 6. Find paragraphs that are badly structured. Suggest edits, rearrange sentences to make the substance clearer.  
 

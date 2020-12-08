@@ -10,6 +10,12 @@ This was the end result:
 
 
 
+## A caveat
+
+I am not a language editor and you may need to have one.   
+ However, if you are not a native English speaker you may need a language editor.  
+
+ 
 I will flag repetitive content - paragraphs that may be scattered in a section, but are very close in content. Also, I will find and edit paragraphs that are badly structured, suggesting edits, rearranging sentences to make the substance clearer.  
 
 Many documents I work with are written by non-native English speakers for an audience that is in majority non-native speaker. In these cases,

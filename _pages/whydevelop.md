@@ -27,10 +27,6 @@ As the audience may know less about the material than the author, some discussio
 Materials in applied social science or business often include a range of numbers and exhibits: tables, graphs, or even maps. An essential aspect of quality is to check the consistency of all the figures throughout the material. To that end, I compare numbers in text and exhibits to make sure they match. I check if graph axes, table headings and footnotes are properly written and displayed, if the same currency is used throughout the text or if graphs are readable at all.   
 
 
-## A caveat
-
-I am not a language editor and you may need to have one. 
-
 
 
 
